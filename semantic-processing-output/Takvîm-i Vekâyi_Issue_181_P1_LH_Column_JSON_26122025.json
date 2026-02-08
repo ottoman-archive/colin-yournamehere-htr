@@ -1,0 +1,319 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 130",
+    "experiment_date": "Friday, December 26th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET: TAKVÎM-I VEKÂYI (TANZIMAT PROTOCOL 1839) V3",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "181",
+    "hirji_date": "28 Rabi' al-Thani 1255 AH",
+    "gregorian_date": "July 11th 1839",
+    "page": 1,
+    "column": "LH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "واعظم وزرای سلطنت سنیه دن مجلس والای احکام عدلیه ریاستنه",
+      "full_line_transliteration": "Ve a‘âzım-ı vüzerâ-yı saltanat-ı seniyyeden Meclis-i Vâlâ-yı Ahkâm-ı Adliye riyâsetine",
+      "literal_English_translation": "And greatest-of viziers-of sultanate-of sublime-from Council-of Supreme-of Ordinances-of Justice presidency-to",
+      "flowing_English_modernisation_translation": "And to the presidency of the Supreme Council of Judicial Ordinances, from the greatest viziers of the Sublime Sultanate,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "زیب افزا اولان دولتلو ابهتلو خسرو محمد پاشا حضرتلرینه وریاست بهیهٔ",
+      "full_line_transliteration": "zîb-efzâ olan devletlü übbehetlü Hüsrev Muhammed Paşa hazretlerine ve riyâset-i behiyye-i",
+      "literal_English_translation": "ornament-increasing being illustrious majestic Hüsrev Muhammed Pasha excellencies-to and presidency-of beautiful-of",
+      "flowing_English_modernisation_translation": "to His Excellency the illustrious and majestic Hüsrev Muhammed Pasha, who adorns the state, and to the beautiful presidency of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "مجلس مذکور خدمت مستلزم المفخرتی باش وکالت مسند جلیلنی حائز اولان",
+      "full_line_transliteration": "meclis-i mezkûr hizmet-i müstelzimü'l-mefhareti baş vekâlet mesned-i celîlini hâiz olan",
+      "literal_English_translation": "council-of aforesaid service-of requiring-the-pride head agency post-of sublime-acc holding being",
+      "flowing_English_modernisation_translation": "the aforesaid council—a service necessitating pride—specifically to him who holds the sublime post of the Grand Vizierate,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "وکلای فخام دولت علیه دن دولتلو الحاج محمد امین رؤف پاشا حضرتلرینه",
+      "full_line_transliteration": "vükelâ-yı fihâm-ı devlet-i aliyyeden devletlü el-Hâcc Muhammed Emîn Raûf Paşa hazretlerine",
+      "literal_English_translation": "ministers-of illustrious-of state-of sublime-from illustrious the-Pilgrim Muhammed Emin Rauf Pasha excellencies-to",
+      "flowing_English_modernisation_translation": "from the illustrious ministers of the Sublime State, His Excellency el-Hajj Muhammed Emin Rauf Pasha,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "وعساکر منتظمهٔ حضرت شاهانه سرعسکرلکی خطوب جسیمه سی",
+      "full_line_transliteration": "ve asâkir-i muntazama-i hazret-i şâhâne seraskerliği hutûb-ı cesîmesi",
+      "literal_English_translation": "and soldiers-of regular-of presence-of imperial serasker-ship-of matters-of grave-its",
+      "flowing_English_modernisation_translation": "and to the grave matters of the Serasker-ship of the Regular Soldiers of the Imperial Presence,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "تجارت نظارتنه شرفیرا اولان دولتلو خلیل رفعت پاشا حضرتلرینه",
+      "full_line_transliteration": "ticâret nezâretine şeref-pîrâ olan devletlü Halîl Rıfat Paşa hazretlerine",
+      "literal_English_translation": "trade ministry-to honor-adorning being illustrious Halil Rifat Pasha excellencies-to",
+      "flowing_English_modernisation_translation": "to His Excellency the illustrious Halil Rifat Pasha, who adorns the Ministry of Trade with honor,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "ونظارت مذکوره خدمت جسیمه سی سرعسکر سابق دولتلو محمد سعید پاشا",
+      "full_line_transliteration": "ve nezâret-i mezkûre hizmet-i cesîmesi serasker-i sâbık devletlü Muhammed Sa‘îd Paşa",
+      "literal_English_translation": "and ministry-of aforesaid service-of grave-its serasker-of former illustrious Muhammed Said Pasha",
+      "flowing_English_modernisation_translation": "and to the grave service of the aforesaid ministry, the former Serasker, His Excellency Muhammed Said Pasha,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "حضرتلرینه ومابین همایون مشیرلکی مأموریت سنیه سی بازتبهٔ والای وزارت",
+      "full_line_transliteration": "hazretlerine ve Mâbeyn-i Hümâyûn müşîrliği me’mûriyet-i seniyyesi bâ-rütbe-i vâlâ-yı vizâret",
+      "literal_English_translation": "excellencies-to and Between-of Imperial marshal-ship-of office-of sublime-its with-rank-of supreme-of vizierate",
+      "flowing_English_modernisation_translation": "and to the sublime office of the Marshal of the Imperial Secretariat, with the supreme rank of vizierate,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "والدماجد کثیر المحامد حضرت شهنشاهی خداوندگار جنتمکان حضرتلرینك",
+      "full_line_transliteration": "ve'l-vâlid-i mâcid kesîrü'l-mehâmid hazret-i şehinşâhî hudâvendigâr-ı cennet-mekân hazretlerinin",
+      "literal_English_translation": "and-the-father-of glorious abundant-of-the-praises presence-of king-of-kings lord-of paradise-abode excellencies-of",
+      "flowing_English_modernisation_translation": "and belonging to the glorious father, abundant in praises, the King of Kings, the Lord whose abode is Paradise [Sultan Mahmud II], His Excellency's",
+      "visual_anomalies": [
+        "'Vâlid-i mâcid' is written compactly, appearing almost as 've'l-dâmâcid' but context dictates 'vâlid'."
+      ]
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "خواص قرنای همایونلرندن عطوفتلو رضا بك افندی حضرتلرینه",
+      "full_line_transliteration": "havâss-ı kurenâ-yı hümâyûnlarından atûfetlü Rızâ Beg Efendi hazretlerine",
+      "literal_English_translation": "elites-of courtiers-of imperial-from kindly Riza Bey Efendi excellencies-to",
+      "flowing_English_modernisation_translation": "elite imperial courtiers, His Excellency the kindly Riza Bey Efendi,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "ودولتلو عصمتلو والده سلطان علیة الشان حضرتلرینك کتخدالق",
+      "full_line_transliteration": "ve devletlü ismetlü Vâlide Sultân aliyyetü'ş-şân hazretlerinin kethüdâlık",
+      "literal_English_translation": "and illustrious chaste Mother Sultan high-of-the-glory excellencies-of steward-ship",
+      "flowing_English_modernisation_translation": "and to the stewardship of Her Excellency the illustrious and chaste Valide Sultan [Queen Mother] of high glory,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "خدمت علیه لری رتبهٔ والای مشیری ایله اکابر رجال دولت علیه دن مهمات",
+      "full_line_transliteration": "hizmet-i aliyyeleri rütbe-i vâlâ-yı müşîrî ile ekâbir-i ricâl-i devlet-i aliyyeden mühimmât-ı",
+      "literal_English_translation": "service-of sublime-their rank-of supreme-of marshal-ship with greats-of men-of state-of sublime-from supplies-of",
+      "flowing_English_modernisation_translation": "her sublime service, with the supreme rank of Marshal, from the great men of the Sublime State, to the supplies",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "حربیه ناظری عطوفتلو علی نجیب بك افندی حضرتلرینه حضور همایون",
+      "full_line_transliteration": "harbiye nâzırı atûfetlü Alî Necîb Beg Efendi hazretlerine huzûr-ı hümâyûn",
+      "literal_English_translation": "military minister-of kindly Ali Necib Bey Efendi excellencies-to presence-of imperial",
+      "flowing_English_modernisation_translation": "of war minister, His Excellency the kindly Ali Necib Bey Efendi; in the Imperial Presence",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "فیض نمون جناب شهریاریده توجیه واحسان بیورلمش اولدیغندن",
+      "full_line_transliteration": "feyz-nümûn cenâb-ı şehriyârîde tevcîh ve ihsân buyurulmuş olduğundan",
+      "literal_English_translation": "grace-showing majesty-of monarch-in conferring and favor commanded being-from",
+      "flowing_English_modernisation_translation": "showing grace, by His Majesty the Monarch, as it has been commanded to be conferred and favored,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "بعد الاجرا ذات والای صدارتپناهی باب عالی مأمورلریله باغچه قپوسندن",
+      "full_line_transliteration": "ba‘de'l-icrâ zât-ı vâlâ-yı sadâret-penâhî Bâb-ı Âlî me’mûrlarıyla Bâğçe Kapusundan",
+      "literal_English_translation": "after-the-execution person-of supreme-of premiership-refuge Gate-of High officials-with Garden Gate-from",
+      "flowing_English_modernisation_translation": "after the execution, the supreme personage of the Grand Vizier, together with the officials of the Sublime Porte, from the Garden Gate",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "استقبال ایله مقام معالی اتساملرینه اشعه بخش اجلال بیوردقلری حالده",
+      "full_line_transliteration": "istikbâl ile makâm-ı ma‘âlî-ittisâmlarına eşi‘a-bahş-ı iclâl buyurdukları hâlde",
+      "literal_English_translation": "reception with station-of high-qualities-their-to rays-bestowing-of glory commanded-their condition-in",
+      "flowing_English_modernisation_translation": "with a reception, while they commanded the bestowing of rays of glory upon their stations of high qualities,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "بالجمله ارکان و بندگان سلطنت سنیه طرفلرندن رسم تبریك وتهنیت ایفا اولنمش",
+      "full_line_transliteration": "bi'l-cümle erkân ve bendegân-ı saltanat-ı seniyye taraflarından resm-i tebrîk ve tehniyet îfâ olunmuş",
+      "literal_English_translation": "with-the-whole pillars and servants-of sultanate-of sublime sides-from ceremony-of congratulation and felicitation performed become",
+      "flowing_English_modernisation_translation": "the ceremony of congratulation and felicitation was performed by all the pillars and servants of the Sublime Sultanate,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "ومتعاقبا متعلق بیوریلان ارادهٔ احسان عادهٔ حضرت ملوکانه موجبنجه",
+      "full_line_transliteration": "ve müte‘âkiben müte‘allik buyurulan irâde-i ihsân-âde-i hazret-i mülûkâne mûcibince",
+      "literal_English_translation": "and subsequently attached commanded will-of favor-custom-of presence-of royal requirement-by",
+      "flowing_English_modernisation_translation": "and subsequently, in accordance with the requirement of the royal will, accustomed to favor, which was commanded to be attached,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "مشارالیه علی نجیب بك افندی حضرتلرینك عهده لرندن منحل اولان",
+      "full_line_transliteration": "müşarünileyh Alî Necîb Beg Efendi hazretlerinin uhdelerinden munhal olan",
+      "literal_English_translation": "aforesaid Ali Necib Bey Efendi excellencies-of responsibilities-from vacant being",
+      "flowing_English_modernisation_translation": "that which became vacant from the responsibilities of His Excellency the aforesaid Ali Necib Bey Efendi,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "مهمات حربیه نظارتی دیوان دعاوی ناظری بولنان قدمای رجال",
+      "full_line_transliteration": "mühimmât-ı harbiye nezâreti dîvân-ı de‘âvî nâzırı bulunan kudemâ-yı ricâl-i",
+      "literal_English_translation": "supplies-of military ministry-of council-of lawsuits minister-of finding ancients-of men-of",
+      "flowing_English_modernisation_translation": "the Ministry of Military Supplies, to the Minister of the Council of Lawsuits, one of the veteran men of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "سلطنت سنیه دن سعادتلو نجیب افندی ونظارت مذکوره دخی اجلهٔ رجال",
+      "full_line_transliteration": "saltanat-ı seniyyeden sa‘âdetlü Necîb Efendi ve nezâret-i mezkûre dahi ecel-i ricâl-i",
+      "literal_English_translation": "sultanate-of sublime-from prosperous Necib Efendi and ministry-of aforesaid also most-illustrious-of men-of",
+      "flowing_English_modernisation_translation": "the Sublime Sultanate, the prosperous Necib Efendi; and the aforesaid ministry [Council of Lawsuits] also, to the most illustrious of the men of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "دولت علیه در طوپخانهٔ عامره ناظری سابق سعادتلو حاجی صائب افندی",
+      "full_line_transliteration": "devlet-i aliyyeden Tophâne-i Âmire nâzırı sâbık sa‘âdetlü Hacı Sâib Efendi",
+      "literal_English_translation": "state-of sublime-from Arsenal-of Imperial minister-of former prosperous Pilgrim Saib Efendi",
+      "flowing_English_modernisation_translation": "the Sublime State, the former Minister of the Imperial Arsenal, the prosperous Hacı Saib Efendi,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "حضراتنه و بیلكجیلک دیوان همایون خدمتی معروضات داخلیه کاتبی",
+      "full_line_transliteration": "hazerâtına ve beylikcilik dîvân-ı hümâyûn hizmeti ma‘rûzât-ı dâhiliye kâtibi",
+      "literal_English_translation": "excellencies-to and beylikci-ship council-of imperial service-of petitions-of internal scribe-of",
+      "flowing_English_modernisation_translation": "to his Excellency; and the service of the Beylikçi of the Imperial Council, to the Scribe of Internal Petitions,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "عزتلو شکیب افندی یه وامدجیلک دیوان همایون خدمتی معروضات",
+      "full_line_transliteration": "izzetlü Şekîb Efendi'ye ve âmedcilik dîvân-ı hümâyûn hizmeti ma‘rûzât-ı",
+      "literal_English_translation": "noble Şekib Efendi-to and Amedci-ship council-of imperial service-of petitions-of",
+      "flowing_English_modernisation_translation": "the noble Şekib Efendi; and the service of the Amedci [Receiver] of the Imperial Council, to the [Scribe of] Petitions of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "خارجیه کاتبی عزتلو نعمان ماهر بك افندی یه وخارجیه کتابتی دخی",
+      "full_line_transliteration": "hâriciye kâtibi izzetlü Nu‘mân Mâhir Beg Efendi'ye ve hâriciye kitâbeti dahi",
+      "literal_English_translation": "external scribe-of noble Numan Mahir Bey Efendi-to and external secretariat-of also",
+      "flowing_English_modernisation_translation": "External Affairs, the noble Numan Mahir Bey Efendi; and the External Secretariat also,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "خارجیه مکتوبجیسی سابق عزتلو سعداه انوری افندی یه بالتوجیه",
+      "full_line_transliteration": "hâriciye mektûbcusu sâbık izzetlü Sa‘dullah Enverî Efendi'ye bi't-tevcîh",
+      "literal_English_translation": "external letter-writer-of former noble Sadullah Enveri Efendi-to by-the-conferral",
+      "flowing_English_modernisation_translation": "to the former Letter-Writer of External Affairs, the noble Sadullah Enveri Efendi, by conferral,",
+      "visual_anomalies": [
+        "'Sa'dullah' is written with a highly compressed ligature (Sin-Ayn-Dal-He/Allah vertical stroke)."
+      ]
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "مأموریتلری اجرا وکافهٔ مأمورین دخی کما کان خدمت ومصلحتلرنده تقریر",
+      "full_line_transliteration": "me’mûriyetleri icrâ ve kâffe-i me’mûrîn dahi kemâ-kân hizmet ve maslahatlarında takrîr",
+      "literal_English_translation": "offices-their execution and all-of officials also as-it-was service and affairs-their-in confirmation",
+      "flowing_English_modernisation_translation": "their offices were executed; and all officials were confirmed in their services and affairs as before,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "وابقا ایله داخلیه وخارجیه کتابتلرينك رتبه لری دخی دیگر امورین باب عالی",
+      "full_line_transliteration": "ve ibkâ ile dâhiliye ve hâriciye kitâbetlerinin rütbeleri dahi dîger umûreyn-i Bâb-ı Âlî",
+      "literal_English_translation": "and retention with internal and external secretariats-their ranks-of also other two-affairs-of Gate-of High",
+      "flowing_English_modernisation_translation": "and with retention, the ranks of the Internal and External Secretariats also, like the other two affairs [departments] of the Sublime Porte,",
+      "visual_anomalies": [
+        "'Umûreyn' (two affairs) is visible as Alif-Mim-Waw-Ra-Ye-Nun, referring to the two secretariats."
+      ]
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "مثللو رتبهٔ ثانیه یه نقل وقیدی تنسیب ونشانلری اکا کوره ترتیب واعطا ایله",
+      "full_line_transliteration": "misillü rütbe-i sâniyeye nakl ve kaydı tensîb ve nişânları aña göre tertîb ve i‘tâ ile",
+      "literal_English_translation": "like rank-of second-to transfer and registration-its approval and decorations-their it-to according arrangement and giving with",
+      "flowing_English_modernisation_translation": "were transferred to the Second Rank, their registration approved, and their decorations arranged and given accordingly,",
+      "visual_anomalies": [
+        "'Aña göre' spelled defectively as 'aka kure'."
+      ]
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "اجرا بیورلمشدر",
+      "full_line_transliteration": "icrâ buyurulmuşdur",
+      "literal_English_translation": "execution commanded-has-become",
+      "flowing_English_modernisation_translation": "and thus it has been commanded to be executed.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "جمله نك معلومی اولدیغی اوزره كرك جلوس همایون وقوعنده وكرك",
+      "full_line_transliteration": "cümlenin ma‘lûmu olduğu üzere gerek cülûs-ı hümâyûn vukû‘unda ve gerek",
+      "literal_English_translation": "all-of known-its being upon whether accession-of imperial occurrence-in and whether",
+      "flowing_English_modernisation_translation": "As is known to all, whether upon the occurrence of the Imperial Accession, or",
+      "visual_anomalies": [
+        "'Cümlenin' spelled with Kef (Saghir Nun)."
+      ]
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "صدارتعظمی مأموریت جلیله سی تبدلنده باب عالی یه خط همایون ارسالی",
+      "full_line_transliteration": "sadâret-i uzmâ me’mûriyet-i celîlesi tebeddülünde Bâb-ı Âlî'ye hatt-ı hümâyûn irsâli",
+      "literal_English_translation": "premiership-of grand office-of sublime-its change-in Gate-of High-to script-of imperial sending-of",
+      "flowing_English_modernisation_translation": "in the change of the sublime office of the Grand Vizierate, the sending of an Imperial Rescript to the Sublime Porte",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "قاعدهٔ مرعیه واصول محاسن شمول سلطنت سنیه دن بولندیغنه بناء",
+      "full_line_transliteration": "kâ‘ide-i mer‘iyye ve usûl-i mehâsin-şümûl-i saltanat-ı seniyyeden bulunduğuna binâen",
+      "literal_English_translation": "rule-of observed and method-of virtues-comprising-of sultanate-of sublime-from finding-its-to based-on",
+      "flowing_English_modernisation_translation": "is based on the observed rule and the virtue-comprising method of the Sublime Sultanate;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "جلوس شرف مأنوس جناب شهنشاهينك اوچنجی چهارشنبه کونی",
+      "full_line_transliteration": "cülûs-ı şeref-me’nûs-ı cenâb-ı şehinşâhînin üçüncü çehârşenbe günü",
+      "literal_English_translation": "accession-of honor-familiar-of majesty-of king-of-kings-of third Wednesday day",
+      "flowing_English_modernisation_translation": "on the third Wednesday day of the honor-familiar accession of His Majesty the King of Kings,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "بیاض اوزرینه شیمهٔ سلك سطور بیوریلان مبارك خط عنایت نقط",
+      "full_line_transliteration": "beyâz üzerine şîme-i silk-i sutûr buyurulan mübârek hatt-ı inâyet-nukat",
+      "literal_English_translation": "white upon nature-of thread-of lines commanded blessed script-of grace-points",
+      "flowing_English_modernisation_translation": "the blessed script of grace-points, commanded to be threaded into lines upon white [paper],",
+      "visual_anomalies": [
+        "'Şîme' (nature/habit) appears as Shin-Ye-Mim-He."
+      ]
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "حضرت خلافتپناهی خواص مقربین جناب شهنشاهیدن عطوفتلو",
+      "full_line_transliteration": "hazret-i hilâfet-penâhî havâss-ı mukarrebîn-i cenâb-ı şehinşâhîden atûfetlü",
+      "literal_English_translation": "presence-of caliphate-refuge elites-of close-ones-of majesty-of king-of-kings-from kindly",
+      "flowing_English_modernisation_translation": "by the Presence of the Refuge of the Caliphate, from the elite close ones of His Majesty the King of Kings, the kindly...",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "And to the presidency of the Supreme Council of Judicial Ordinances, from the greatest viziers of the Sublime Sultanate,\nto His Excellency the illustrious and majestic Hüsrev Muhammed Pasha, who adorns the state, and to the beautiful presidency of\nthe aforesaid council—a service necessitating pride—specifically to him who holds the sublime post of the Grand Vizierate,\nfrom the illustrious ministers of the Sublime State, His Excellency el-Hajj Muhammed Emin Rauf Pasha,\nand to the grave matters of the Serasker-ship of the Regular Soldiers of the Imperial Presence,\nto His Excellency the illustrious Halil Rifat Pasha, who adorns the Ministry of Trade with honor,\nand to the grave service of the aforesaid ministry, the former Serasker, His Excellency Muhammed Said Pasha,\nand to the sublime office of the Marshal of the Imperial Secretariat, with the supreme rank of vizierate,\nand belonging to the glorious father, abundant in praises, the King of Kings, the Lord whose abode is Paradise [Sultan Mahmud II], His Excellency's\nelite imperial courtiers, His Excellency the kindly Riza Bey Efendi,\nand to the stewardship of Her Excellency the illustrious and chaste Valide Sultan [Queen Mother] of high glory,\nher sublime service, with the supreme rank of Marshal, from the great men of the Sublime State, to the supplies\nof war minister, His Excellency the kindly Ali Necib Bey Efendi; in the Imperial Presence\nshowing grace, by His Majesty the Monarch, as it has been commanded to be conferred and favored,\nafter the execution, the supreme personage of the Grand Vizier, together with the officials of the Sublime Porte, from the Garden Gate\nwith a reception, while they commanded the bestowing of rays of glory upon their stations of high qualities,\nthe ceremony of congratulation and felicitation was performed by all the pillars and servants of the Sublime Sultanate,\nand subsequently, in accordance with the requirement of the royal will, accustomed to favor, which was commanded to be attached,\nthat which became vacant from the responsibilities of His Excellency the aforesaid Ali Necib Bey Efendi,\nthe Ministry of Military Supplies, to the Minister of the Council of Lawsuits, one of the veteran men of\nthe Sublime Sultanate, the prosperous Necib Efendi; and the aforesaid ministry [Council of Lawsuits] also, to the most illustrious of the men of\nthe Sublime State, the former Minister of the Imperial Arsenal, the prosperous Hacı Saib Efendi,\nto his Excellency; and the service of the Beylikçi of the Imperial Council, to the Scribe of Internal Petitions,\nthe noble Şekib Efendi; and the service of the Amedci [Receiver] of the Imperial Council, to the [Scribe of] Petitions of\nExternal Affairs, the noble Numan Mahir Bey Efendi; and the External Secretariat also,\nto the former Letter-Writer of External Affairs, the noble Sadullah Enveri Efendi, by conferral,\ntheir offices were executed; and all officials were confirmed in their services and affairs as before,\nand with retention, the ranks of the Internal and External Secretariats also, like the other two affairs [departments] of the Sublime Porte,\nwere transferred to the Second Rank, their registration approved, and their decorations arranged and given accordingly,\nand thus it has been commanded to be executed.\nAs is known to all, whether upon the occurrence of the Imperial Accession, or\nin the change of the sublime office of the Grand Vizierate, the sending of an Imperial Rescript to the Sublime Porte\nis based on the observed rule and the virtue-comprising method of the Sublime Sultanate;\non the third Wednesday day of the honor-familiar accession of His Majesty the King of Kings,\nthe blessed script of grace-points, commanded to be threaded into lines upon white [paper],\nby the Presence of the Refuge of the Caliphate, from the elite close ones of His Majesty the King of Kings, the kindly...",
+  "summary": "This document from the Takvîm-i Vekâyi (Issue 181, July 1839) records a major reshuffling of the Ottoman state bureaucracy following the accession of Sultan Abdülmecid I. It details the appointments of high-ranking officials, including Hüsrev Muhammed Pasha to the Supreme Council of Judicial Ordinances, Rauf Pasha as Grand Vizier, and Halil Rifat Pasha to the Ministry of Trade. It also notes the reassignment of the Serasker-ship and the stewardship of the Valide Sultan. The text confirms the retention of lower officials and the elevation of the Internal and External Secretariats to the Second Rank. Finally, it references the procedural custom of issuing an Imperial Rescript (Hatt-ı Hümâyûn) to the Sublime Porte upon the accession of a new Sultan."
+}
