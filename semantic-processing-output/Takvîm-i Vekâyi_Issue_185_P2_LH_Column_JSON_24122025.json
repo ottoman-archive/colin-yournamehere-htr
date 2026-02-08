@@ -1,0 +1,412 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 123",
+    "experiment_date": "Wednesday, December 24th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET V2",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "185",
+    "date": "September 25th, 1839",
+    "page": 2,
+    "column": "LH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "باهرة المعاليدن برينى تشريف همايونلرى وقوعنده خاكپاى شاهانه لرينه",
+      "full_line_transliteration": "bâhiretü'l-me'âlîden birini teşrîf-i hümâyûnları vukû'unda hâk-pây-ı şâhânelerine",
+      "literal_English_translation": "brilliant-of-qualities-from one-of-them-acc visit-of imperial-their occurrence-in dust-foot-of royal-their-to",
+      "flowing_English_modernisation_translation": "When the Imperial Visit occurs to one of the brilliant [mosques/sites], to His Royal Dust-Foot,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "عرضحال تقديمينه جسارت ايتمكه باشلامش اولوب اكرچه لطف و احسان",
+      "full_line_transliteration": "arz-ı hâl takdîmine cesâret itmeğe başlamış olub eğerçi lutf u ihsân",
+      "literal_English_translation": "petition presentation-to daring doing-to started being although grace and benevolence",
+      "flowing_English_modernisation_translation": "[people] have started daring to present petitions. Although the Imperial grace and benevolence",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "شاهانه يه پايان و رحم و اشفاق پادشاهانه يه كوره بونك منعنه امكان يوغيسه ده",
+      "full_line_transliteration": "şâhâneye pâyân ve rahm u işfâk-ı pâdişâhâneye göre bunıñ men'ine imkân yoğise de",
+      "literal_English_translation": "royal-to limit and mercy and compassions-of padishah-like-to according-to this-of prevention-to possibility nonexistent-is though",
+      "flowing_English_modernisation_translation": "is limitless, and considering the Padishah's mercy and compassion it is impossible to prevent this;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "بويله وقتلى وقتسز و جزئى مصلحت ايچون دخى ركاب شاهانه يى تعجيز لايق",
+      "full_line_transliteration": "böyle vakitli vakitsiz ve cüz'î maslahat içün dahi rikâb-ı şâhâneyi ta'cîz lâyık",
+      "literal_English_translation": "such timely untimely and trivial matter for even stirrup-of royal-acc disturbing worthy",
+      "flowing_English_modernisation_translation": "nevertheless, it is not worthy or appropriate to disturb the Royal Stirrup at all times, timely or untimely, even for trivial matters,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "ومناسب اولمديغنه و خصوصيله روز فيروز جمعه اعياد مسلميندن معدود اوله رق",
+      "full_line_transliteration": "ve münâsib olmadığına ve husûsile rûz-ı fîrûz-ı cum'a a'yâd-ı müslimînden ma'dûd olarak",
+      "literal_English_translation": "and appropriate not-being-to and especially day-of fortunate-of Friday holidays-of Muslims-from counted being",
+      "flowing_english_modernisation_translation": "especially since the fortunate day of Friday is counted among the holidays of Muslims.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "تعظيما لاولى الامر بو مقوله مستدعياتك دخى يوم شريف مذكورده",
+      "full_line_transliteration": "ta'zîmen li-üli'l-emr bu makûle müsted'iyâtıñ dahi yevm-i şerîf-i mezkûrda",
+      "literal_English_translation": "respect-for to-the-possessor-of-command this category petitions-of even day-of noble-of mentioned-in",
+      "flowing_english_modernisation_translation": "Out of respect for the Possessor of Command (the Sultan), the presentation and expression of such petitions on the mentioned noble day",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "خاكپاى امام المسلمين و خليفه روى زمينه عرض و بيانى موافق اداب عبوديت",
+      "full_line_transliteration": "hâk-pây-ı imâmü'l-müslimîn ve halîfe-i rûy-ı zemîne arz u beyânı muvâfık-ı âdâb-ı 'ubûdiyet",
+      "literal_English_translation": "dust-foot-of Imam-of-Muslims and Caliph-of face-of earth-to presentation and statement-its accordant-of manners-of servitude",
+      "flowing_english_modernisation_translation": "to the Dust-Foot of the Imam of Muslims and Caliph of the Earth must be in accordance with the manners of servitude.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "اوله جغنه بناء فيما بعد سلطنت همايون ايله جمعه كونلرنده سلاملق رسم عاليسنه",
+      "full_line_transliteration": "olacağına binâen fîmâ-ba'd saltanat-ı hümâyûn ile cum'a günlerinde selâmlık resm-i 'âlîsine",
+      "literal_English_translation": "will-be-to based-on hereafter sultanate-of imperial with Friday days-in selamik ceremony-of high-to",
+      "flowing_english_modernisation_translation": "Based on this, hereafter, apart from the Imperial Sultanate's Friday Selamlik procession,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "تشريف شاهانه دن غيرى وقتلرده هر نه مصلحت ايچون اولور ايسه اولسون",
+      "full_line_transliteration": "teşrîf-i şâhâneden gayrı vakitlerde her ne maslahat içün olur ise olsun",
+      "literal_English_translation": "visit-of royal-from other times-in whatever matter for happens if let-it-be",
+      "flowing_english_modernisation_translation": "at times other than the Royal Visit, for whatever matter it may be,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "خاكپاى شاهانه يه عرضحال تقديمندن اجتناب و مباعدت اولنمق و اصحاب حاجات",
+      "full_line_transliteration": "hâk-pây-ı şâhâneye arz-ı hâl takdîminden ictinâb ve mubâ'adet olunmak ve ashâb-ı hâcât",
+      "literal_English_translation": "dust-foot-of royal-to petition presentation-from avoidance and distancing being-done and owners-of needs",
+      "flowing_english_modernisation_translation": "one must avoid and abstain from presenting petitions to the Royal Dust-Foot. Those with needs",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "و احتياجدن اولنلر دخى ملتمسات واقعه لرينى اصول ضابطه و قاعده مرعيه",
+      "full_line_transliteration": "ve ihtiyâcdan olanlar dahi mültemesât-ı vâkı'alarını usûl-i zâbıta ve kâ'ide-i mer'iyye",
+      "literal_English_translation": "and necessity-from being-ones also requests-of occurring-their-acc principles-of regulation and rule-of observed",
+      "flowing_english_modernisation_translation": "and necessities should express and state their requests according to the principles of regulation and observed rules,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "و جهله اول امرده هر قنق صنف و دركده ايسه ضابطنه و منسوب",
+      "full_line_transliteration": "vechile ol emrde her kangı sınıf ve derekede ise zâbıtına ve mensûb",
+      "literal_English_translation": "way-by that matter-in every which class and degree-in if officer-his-to and affiliated",
+      "flowing_english_modernisation_translation": "to their officer or to the place they are affiliated with, regardless of which class or degree they belong to in that matter.",
+      "visual_anomalies": [
+        "'kangı' is archaic 'hangi'"
+      ]
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "اولديغى محله افاده و بيان ايدوب انك معرفتيله مسؤولى اسعاف و اجرا و مصلحت",
+      "full_line_transliteration": "olduğu mahalle ifâde ve beyân idüb ânıñ ma'rifetiyle mes'ûli is'âf ve icrâ ve maslahat",
+      "literal_English_translation": "being place-to expression and statement making that-of knowledge-with request-his granting and execution and affair",
+      "flowing_english_modernisation_translation": "Through their [the officers'] mediation, the request will be granted and executed, and the affair",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "واقعه سى رؤيت و ايفا قلنمق و بركونه دركده علاقه سى و بر سلكه انسلاكى",
+      "full_line_transliteration": "vâkı'ası rü'yet ve îfâ kılınmak ve bir gûne derekede alâkası ve bir silke insilâkı",
+      "literal_English_translation": "occurring-its seeing and fulfillment made-being and a kind degree-in relation-his and a career-path-to affiliation-his",
+      "flowing_english_modernisation_translation": "will be seen to and fulfilled. As for the destitute and helpless who have no connection to any degree or affiliation to any career path,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "اولميان بيكس و عجزه مقوله سى دخى ايجاب ايده جك مصالحيچون بر منوال محرر",
+      "full_line_transliteration": "olmayan bî-kes ve aceze makûlesi dahi îcâb idecek mesâlih içün ber-minvâl-i muharrer",
+      "literal_English_translation": "not-being without-person and helpless category-his also necessity making-will affairs-for according-to-way-of written",
+      "flowing_english_modernisation_translation": "for the affairs that will arise, as described above,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "جمعه كونلرندن ماعدا ايامده زنهار و زنهار ركاب همايون شاهانه يه عرضحال تقديم",
+      "full_line_transliteration": "cum'a günlerinden mâ'adâ eyyâmda zinhâr ve zinhâr rikâb-ı hümâyûn-ı şâhâneye arz-ı hâl takdîm",
+      "literal_English_translation": "Friday days-from besides days-in beware and beware stirrup-of imperial-of royal-to petition presentation",
+      "flowing_english_modernisation_translation": "they must beware and beware of presenting petitions to the Royal Imperial Stirrup on days other than Fridays.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "ايتممك اوزره كيفيت لازم كلنلره بيلدريلمش اولمغله جمله نك معلومى اوله رق",
+      "full_line_transliteration": "itmemek üzere keyfiyet lâzım gelenlere bildirilmiş olmağla cümleniñ ma'lûmu olarak",
+      "literal_English_translation": "doing-not upon matter necessary coming-ones-to informed being-with all-of known-its being",
+      "flowing_english_modernisation_translation": "Since the matter has been notified to those concerned so that they do not do so, and so that it be known to all,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "خلافى حركته جسارت اولنمامق ايچون اشبو محله دخى درج و تمثيل قلندى",
+      "full_line_transliteration": "hilâfı harekete cesâret olunmamak içün işbu mahalle dahi derc ve temsîl kılındı",
+      "literal_English_translation": "contrary-its action-to daring made-not-being for this place-to also insertion and representation made-was",
+      "flowing_english_modernisation_translation": "it is inserted and printed in this place as well, so that no one dares to act to the contrary.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "شوكت مآب افندمز حضرتلرينك حق بندكان و مفارق كافه اهالى بلدانده",
+      "full_line_transliteration": "şevket-me'âb efendimiz hazretleriniñ hakk-ı bendegân ve mefârik-i kâffe-i ahâlî-i büldânda",
+      "literal_English_translation": "majesty-abode master-our excellencies-their-of right-of servants and crowns-of all-of people-of cities-in",
+      "flowing_english_modernisation_translation": "Counted among the sovereign good intentions and the royal noble qualities, compassions, and favors of His Majesty Our Master",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "رونما اولان محاسن نيات ملكدارى و مكارم و اشفاق و عنايات تاجدار يلرندن",
+      "full_line_transliteration": "rû-nümâ olan mehâsin-i niyyât-ı mülkdârî ve mekârim ve işfâk ve 'inâyât-ı tâcdârîlerinden",
+      "literal_English_translation": "face-showing being beauties-of intentions-of sovereignty and noble-qualities and compassions and favors-of crowning-their-from",
+      "flowing_english_modernisation_translation": "that manifest regarding the servants and the crowns of all the people of the lands;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "معدود اولمق اوزره بو دفعه مأمورين اقلام و خدمه صدق اتسام باب عالى يه",
+      "full_line_transliteration": "ma'dûd olmak üzere bu def'a me'mûrîn-i aklâm ve hademe-i sıdk-ı ittisâm-ı bâb-ı 'âlîye",
+      "literal_English_translation": "counted being upon this time officials-of bureaus and servants-of truthfulness-characterized-of Sublime-Porte-to",
+      "flowing_english_modernisation_translation": "this time, to the officials of the bureaus and the truthfulness-characterized servants of the Sublime Porte,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "و كوشه كزين عزلت و محتاج رحم و شفقت بولنان بعض قدماى بندكانه",
+      "full_line_transliteration": "ve kûşe-güzîn-i uzlet ve muhtâc-ı rahm u şefkat bulunan ba'zı kudemâ-yı bendegâne",
+      "literal_English_translation": "and corner-choosing-of retirement and in-need-of mercy and compassion being some veterans-of servants-to",
+      "flowing_english_modernisation_translation": "and to some veteran servants who have chosen the corner of retirement and are in need of mercy and compassion,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "و كچن ده بك اوغلنده وقوعبولان حريقده خانه لرى محترق و كندولرى اماكن",
+      "full_line_transliteration": "ve geçen de beyoğlunda vukû'bulan harîkde hâneleri muhterik ve kendüleri emâkin-i",
+      "literal_English_translation": "and past in Beyoğlu-in occurring fire-in houses-their burnt and themselves places-of",
+      "flowing_english_modernisation_translation": "and to the helpless subjects whose houses were burnt in the fire that occurred recently in Beyoğlu and who were scattered and dispersed in places",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "ضيق و سفالتده متشتت و متفرق اولمش اولان عجزه رعايايه مستوفى عطيه",
+      "full_line_transliteration": "dîk u sefâletde müteşettit ve müteferrik olmuş olan aceze-i ra'âyâya müstevfî atiyye-i",
+      "literal_English_translation": "narrowness and misery-in scattered and dispersed become being helpless-ones-of subjects-to ample gift-of",
+      "flowing_english_modernisation_translation": "of narrowness and misery, an ample Royal Imperial gift was graciously bestowed and granted.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "سنيه شاهانه عنايت و احسان و دولتلو عصمتلو والده سلطان عليه الشان",
+      "full_line_transliteration": "seniyye-i şâhâne 'inâyet ve ihsân ve devletlü 'ismetlü vâlide sultân-ı 'aliyyeü'ş-şân",
+      "literal_English_translation": "imperial-of royal favor and benevolence and illustrious chaste Valide Sultan-of high-of-glory",
+      "flowing_english_modernisation_translation": "Furthermore, from the chastity-honored high side of Her Highness the Illustrious and Chaste Valide Sultan of high glory,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "حضرتلرى طرف عصمت شرف عاليلرندن دخى در سعادتده بولنان بالجمله",
+      "full_line_transliteration": "hazretleri taraf-ı 'ismet-şeref-i 'âlîlerinden dahi der-sa'âdetde bulunan bi'l-cümle",
+      "literal_English_translation": "excellency-her side-of chastity-honor-of high-her-from also Istanbul-in found all",
+      "flowing_english_modernisation_translation": "high zeal was deemed appropriate for the granting of a sufficient amount of beautiful gifts to all classes of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "صنوف عساكر نظاميه و بحريه شاهانه يه و خداوندكار خلد آشيان",
+      "full_line_transliteration": "sunûf-ı 'asâkir-i nizâmiye ve bahriye-i şâhâneye ve hudâvendigâr-ı huld-âşiyân",
+      "literal_English_translation": "classes-of soldiers-of regular and naval-of royal-to and sovereign-of paradise-dwelling",
+      "flowing_english_modernisation_translation": "the Royal Regular and Naval soldiers found in Istanbul, and to the students of the School of Judicial Knowledge,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "حضرتلرينك اثر همم جليله لريله ايجاد و اجرا اولنمش اولان مكتب معارف",
+      "full_line_transliteration": "hazretleriniñ eser-i himem-i celîleleriyle îcâd ve icrâ olunmuş olan mekteb-i ma'ârif-i",
+      "literal_English_translation": "excellency-his-of work-of efforts-of glorious-his-with invention and execution made being school-of knowledge-of",
+      "flowing_english_modernisation_translation": "which was invented and executed by the glorious efforts of His Excellency the Paradise-Dwelling Sovereign [Mahmud II].",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "عدليه شاكرد ننه مقدار وافى عطيه بهيه اعطاسنه همت عليه ارزان",
+      "full_line_transliteration": "adliye şâkirdânına mikdâr-ı vâfî atiyye-i behiyye i'tâsına himmet-i 'aliyye erzân",
+      "literal_English_translation": "judicial students-its-to amount-of sufficient gift-of beautiful giving-its-to zeal-of high appropriate",
+      "flowing_english_modernisation_translation": "(Sentence continues from previous lines)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "بيورلمش و اشبو عطاياى سنيه و بهيه صنف بصنف على مقادرهم توزيع",
+      "full_line_transliteration": "buyurulmuş ve işbu 'atâyâ-yı seniyye ve behiyye sınıf be-sınıf 'alâ-makâdirihim tevzî'",
+      "literal_English_translation": "ordered and these gifts-of imperial and beautiful class by-class according-to-ranks-their distribution",
+      "flowing_english_modernisation_translation": "These imperial and beautiful gifts were distributed and divided class by class according to their ranks,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "و تقسيم ايله هر بريلرى حائز نصاب سرور و امال و مظهر بر و نوال پادشاه",
+      "full_line_transliteration": "ve taksîm ile her birileri hâ'iz-i nisâb-ı sürûr u âmâl ve mazhar-ı birr ü nevâl-i pâdişâh-ı",
+      "literal_English_translation": "and division with every ones-their possessor-of share-of joy and hopes and object-of kindness and favor-of padishah-of",
+      "flowing_english_modernisation_translation": "and each of them attained their share of joy and hopes, becoming the object of the kindness and favor of the Padishah",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "ممدوح الخصال اوله رق مواظبى اوله قلرى ادعيه مفروضه حضرت تاجدارى",
+      "full_line_transliteration": "memdûhu'l-hisâl olarak muvâzıbı oldukları ed'iye-i mefrûza-i hazret-i tâcdârî",
+      "literal_English_translation": "praised-of-qualities being diligent-its being-their prayers-of obligatory-of excellency-of crowning",
+      "flowing_english_modernisation_translation": "of praised qualities. The obligatory prayers for His Crowning Excellency, which they are diligent in,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "بتكرار رفع باركاه جناب مستعان قلنمش و حريقزاده اولان عجزه اهالى",
+      "full_line_transliteration": "bi-tekrar ref'-i bârgâh-ı cenâb-ı müste'ân kılınmış ve harîk-zâde olan aceze-i ahâlî",
+      "literal_English_translation": "repeatedly raising-of court-of excellency-of helper made-was and fire-struck being helpless-ones-of people",
+      "flowing_english_modernisation_translation": "were repeatedly raised to the Court of the Divine Helper. The ruined hearts and burns of the helpless people",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "و رعايا نك قلب و يران و سوز لرى اشبو زلال عاطفت و احسان ملوكانة ايله",
+      "full_line_transliteration": "ve ra'âyânıñ kalb-i vîrân ve sûzleri işbu zülâl-i 'âtıfet ve ihsân-ı mülûkâne ile",
+      "literal_English_translation": "and subjects-of heart-of ruined and burns-their this water-of benevolence and kindness-of royal with",
+      "flowing_english_modernisation_translation": "and subjects who were victims of the fire were extinguished by this fresh water of Royal benevolence and kindness,",
+      "visual_anomalies": [
+        "'sûzleri' (burns) fits context of 'itfa' (extinguishing) in next line"
+      ]
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "بالاطفا از سر نو معمور و آبادان بيورلمشدر",
+      "full_line_transliteration": "bi'l-itfâ ez-ser-i nev ma'mûr ve âbâdân buyurulmuşdur",
+      "literal_English_translation": "by-extinguishing from-head-new prosperous and inhabited ordered-is",
+      "flowing_english_modernisation_translation": "and they were made prosperous and flourishing anew.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "والد ماجد تاجدارى خداوندكار بهشت قرار حضرتلرينك عصر همايونلرنده",
+      "full_line_transliteration": "vâlid-i mâcid-i tâcdârî hudâvendigâr-ı behişt-karâr hazretleriniñ 'asr-ı hümâyûnlarında",
+      "literal_English_translation": "father-of glorious-of crowning sovereign-of paradise-abode excellency-his-of era-of imperial-his-in",
+      "flowing_english_modernisation_translation": "During the Imperial Era of the Glorious Crowning Father, His Excellency the Paradise-Abiding Sovereign,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "مدت مديده مابين همايون خدمت كتابت مستلزم المفخرتنده استخدام بيورلمش",
+      "full_line_transliteration": "müddet-i medîde mâbeyn-i hümâyûn hizmet-i kitâbet-i müstelzimü'l-mefharetinde istihdâm buyurulmuş",
+      "literal_English_translation": "period-of long palace-of imperial service-of secretaryship-of requiring-pride-in employment ordered",
+      "flowing_english_modernisation_translation": "the Honored Said Beg Efendi, who had been employed for a long period in the pride-requiring service of the Imperial Palace Secretariat,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "اولان عزتلو سعيد بك افندى ارباب درايت و حديتدن و خدمات دولت",
+      "full_line_transliteration": "olan 'izzetlü sa'îd beğ efendi erbâb-ı dirâyet ve ciddiyetden ve hidemât-ı devlet-i",
+      "literal_English_translation": "being honored Said Beg Efendi masters-of sagacity and seriousness-from and services-of state-of",
+      "flowing_english_modernisation_translation": "being a man of sagacity and seriousness, and one of the servants worthy of employment in the services of the Exalted State;",
+      "visual_anomalies": [
+        "'ciddiyet' written with 'ha' shape or 'hiddet'"
+      ]
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "عليه ده استخدامه شايان بندكاندن اولديغنه بناء ميرموى اليهك وقوعبولان",
+      "full_line_transliteration": "aliyyede istihdâma şâyân bendegândan olduğuna binâen mîr-i mûmâ-ileyhiñ vukû'bulan",
+      "literal_English_translation": "exalted-in employment-to worthy servants-from being-his-to based-on bey-aforesaid-of occurring",
+      "flowing_english_modernisation_translation": "based on this, it was the High Desire that the aforesaid Bey attain a suitable service",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": "خدمت و امكينه مكافاة سايه شوكتوايه حضرت شاهانه ده مناسب بر خدمته",
+      "full_line_transliteration": "hizmet ve emekine mükâfâten sâye-i şevket-vâye-i hazret-i şâhânede münâsib bir hizmete",
+      "literal_English_translation": "service and labor-his-to reward-as shadow-of majesty-abounding-of excellency-of royal-in suitable a service-to",
+      "flowing_english_modernisation_translation": "under the majesty-abounding shadow of His Royal Excellency, as a reward for his service and labor.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "قايلمسى مراد عالى بيورلمش و مهمات حربيه نظارتى داخلنده اولان",
+      "full_line_transliteration": "nâ'il olması murâd-ı 'âlî buyurulmuş ve mühimmât-ı harbiye nezâreti dâhilinde olan",
+      "literal_English_translation": "attaining being-his desire-of high ordered and munitions-of war ministry-of inside-in being",
+      "flowing_english_modernisation_translation": "The Governorship of the Imperial Gunpowder Works, which is within the Ministry of War Munitions,",
+      "visual_anomalies": [
+        "'nâ'il' written with loop resembling 'kâ'il' or 'kayılması'"
+      ]
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "باروتخانه عامره محافظ لغى من القديم مستقل مأمور ايله اداره اولنمقده ايكن",
+      "full_line_transliteration": "bârûthâne-i 'âmire muhâfızlığı min-el-kadîm müstakil me'mûr ile idâre olunmakda iken",
+      "literal_English_translation": "gunpowder-works-of imperial governorship-of from-old independent official with administration made-being while",
+      "flowing_english_modernisation_translation": "while administered by an independent official from old times,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 43,
+      "full_line_original_script": "مؤخرا هر نقدر برلشدريلمش ايسه ده اشبو مأموريت باشليجه مصالح جسيمه دن",
+      "full_line_transliteration": "mu'ahharan her ne kadar birleşdirilmiş ise de işbu me'mûriyet başlıca mesâlih-i cesîmeden",
+      "literal_English_translation": "lately every what amount united if also this official-duty mainly affairs-of great-from",
+      "flowing_english_modernisation_translation": "although lately united [with another office], since this official duty is principally among the great affairs",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 44,
+      "full_line_original_script": "اولمق و بالتقريق اصول سابقه سى وجهله اداره سى محسناتدن كورنمك",
+      "full_line_transliteration": "olmak ve bi't-tefrîk usûl-i sâbıkası vechile idâresi muhassenâtdan görünmek",
+      "literal_English_translation": "being and by-separation principle-of previous-its way-with administration-its improvements-from appearing",
+      "flowing_english_modernisation_translation": "and its administration by separation according to its previous principle appears to be an improvement,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 45,
+      "full_line_original_script": "جهت لريله اول بابده متعلق بيوريلان امر و اراده سنيه شاهانه موجبنجه",
+      "full_line_transliteration": "cihetleriyle ol bâbda mute'allik buyurulan emr ü irâde-i seniyye-i şâhâne mûcibince",
+      "literal_English_translation": "aspects-their-with that matter-in related ordered order and will-of imperial-of royal consequence-by",
+      "flowing_english_modernisation_translation": "pursuant to the Royal Imperial order and will issued on that matter due to these aspects,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 46,
+      "full_line_original_script": "ذكر اولنان باروتخانه لر مهمات حربيه نظارتنده تفريق ايله ميرموى اليهه",
+      "full_line_transliteration": "zikr olunan bârûthâneler mühimmât-ı harbiye nezâretinde tefrîk ile mîr-i mûmâ-ileyhe",
+      "literal_English_translation": "mentioned being gunpowder-works munitions-of war ministry-in separation with bey-aforesaid-to",
+      "flowing_english_modernisation_translation": "the mentioned Gunpowder Works were separated from the Ministry of War Munitions and transferred",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 47,
+      "full_line_original_script": "احاله و تفويض اولنمشدر",
+      "full_line_transliteration": "ihâle ve tefvîz olunmuşdur",
+      "literal_English_translation": "transfer and delegation made-has",
+      "flowing_english_modernisation_translation": "and delegated to the aforesaid Bey.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 48,
+      "full_line_original_script": "جلوس همايون ميامن مرهون حضرت تاجدارينك شرف و قرعندن طولايى",
+      "full_line_transliteration": "cülûs-ı hümâyûn-ı meyâmin-merhûn hazret-i tâcdârîniñ şeref-vukû'undan dolayı",
+      "literal_English_translation": "accession-of imperial-of auspiciousness-pledged excellency-of crowning-of honor-occurrence-from due-to",
+      "flowing_english_modernisation_translation": "Due to the honorable occurrence of the auspicious Imperial Accession of His Crowning Excellency...",
+      "visual_anomalies": [
+        "'vukû'undan' written with ambiguous 'vav' resembling 'ra'"
+      ]
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "When the Imperial Visit occurs to one of the brilliant [mosques/sites], to His Royal Dust-Foot,\n[people] have started daring to present petitions. Although the Imperial grace and benevolence\nis limitless, and considering the Padishah's mercy and compassion it is impossible to prevent this;\nnevertheless, it is not worthy or appropriate to disturb the Royal Stirrup at all times, timely or untimely, even for trivial matters,\nespecially since the fortunate day of Friday is counted among the holidays of Muslims.\nOut of respect for the Possessor of Command (the Sultan), the presentation and expression of such petitions on the mentioned noble day\nto the Dust-Foot of the Imam of Muslims and Caliph of the Earth must be in accordance with the manners of servitude.\nBased on this, hereafter, apart from the Imperial Sultanate's Friday Selamlik procession,\nat times other than the Royal Visit, for whatever matter it may be,\none must avoid and abstain from presenting petitions to the Royal Dust-Foot. Those with needs\nand necessities should express and state their requests according to the principles of regulation and observed rules,\nto their officer or to the place they are affiliated with, regardless of which class or degree they belong to in that matter.\nThrough their [the officers'] mediation, the request will be granted and executed, and the affair\nwill be seen to and fulfilled. As for the destitute and helpless who have no connection to any degree or affiliation to any career path,\nfor the affairs that will arise, as described above,\nthey must beware and beware of presenting petitions to the Royal Imperial Stirrup on days other than Fridays.\nSince the matter has been notified to those concerned so that they do not do so, and so that it be known to all,\nit is inserted and printed in this place as well, so that no one dares to act to the contrary.\n\nCounted among the sovereign good intentions and the royal noble qualities, compassions, and favors of His Majesty Our Master\nthat manifest regarding the servants and the crowns of all the people of the lands;\nthis time, to the officials of the bureaus and the truthfulness-characterized servants of the Sublime Porte,\nand to some veteran servants who have chosen the corner of retirement and are in need of mercy and compassion,\nand to the helpless subjects whose houses were burnt in the fire that occurred recently in Beyoğlu and who were scattered and dispersed in places\nof narrowness and misery, an ample Royal Imperial gift was graciously bestowed and granted.\nFurthermore, from the chastity-honored high side of Her Highness the Illustrious and Chaste Valide Sultan of high glory,\nhigh zeal was deemed appropriate for the granting of a sufficient amount of beautiful gifts to all classes of\nthe Royal Regular and Naval soldiers found in Istanbul, and to the students of the School of Judicial Knowledge,\nwhich was invented and executed by the glorious efforts of His Excellency the Paradise-Dwelling Sovereign [Mahmud II].\n(Sentence continues from previous lines)\nThese imperial and beautiful gifts were distributed and divided class by class according to their ranks,\nand each of them attained their share of joy and hopes, becoming the object of the kindness and favor of the Padishah\nof praised qualities. The obligatory prayers for His Crowning Excellency, which they are diligent in,\nwere repeatedly raised to the Court of the Divine Helper. The ruined hearts and burns of the helpless people\nand subjects who were victims of the fire were extinguished by this fresh water of Royal benevolence and kindness,\nand they were made prosperous and flourishing anew.\n\nDuring the Imperial Era of the Glorious Crowning Father, His Excellency the Paradise-Abiding Sovereign,\nthe Honored Said Beg Efendi, who had been employed for a long period in the pride-requiring service of the Imperial Palace Secretariat,\nbeing a man of sagacity and seriousness, and one of the servants worthy of employment in the services of the Exalted State;\nbased on this, it was the High Desire that the aforesaid Bey attain a suitable service\nunder the majesty-abounding shadow of His Royal Excellency, as a reward for his service and labor.\nThe Governorship of the Imperial Gunpowder Works, which is within the Ministry of War Munitions,\nwhile administered by an independent official from old times,\nalthough lately united [with another office], since this official duty is principally among the great affairs\nand its administration by separation according to its previous principle appears to be an improvement,\npursuant to the Royal Imperial order and will issued on that matter due to these aspects,\nthe mentioned Gunpowder Works were separated from the Ministry of War Munitions and transferred\nand delegated to the aforesaid Bey.\n\nDue to the honorable occurrence of the auspicious Imperial Accession of His Crowning Excellency...",
+  "summary": "This text from the Takvîm-i Vekâyi contains three distinct sections. First, it issues a strict royal decree regulating the presentation of petitions (`arz-ı hâl`) to the Sultan. It criticizes the public for disturbing the Sultan with trivial matters during his visits and processions, particularly on Fridays (a holy day). It mandates that petitions must now go through proper bureaucratic channels or officers, and direct petitions to the Sultan are forbidden except on Fridays during the Selamlik, and even then, only by the destitute. Second, it announces the distribution of royal monetary gifts (`atiyye`) from the Sultan and the Valide Sultan to government scribes, retired servants, victims of the recent Beyoğlu fire, and students, as an act of charity and benevolence. Third, it announces an administrative appointment: Said Beg Efendi, a former palace scribe, is appointed as the Governor of the Imperial Gunpowder Works (`Baruthane-i Amire`), which is being separated from the Ministry of War Munitions to be administered independently again."
+}
