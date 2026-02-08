@@ -1,0 +1,317 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 129",
+    "experiment_date": "Friday, December 26th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET: TAKVÎM-I VEKÂYI (TANZIMAT PROTOCOL 1839) V3",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "181",
+    "hirji_date": "28 Rabi' al-Thani 1255 AH",
+    "gregorian_date": "July 11th 1839",
+    "page": 1,
+    "column": "RH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "امور داخليه",
+      "full_line_transliteration": "Umûr-ı Dâhiliye",
+      "literal_English_translation": "Affairs-of Internal",
+      "flowing_English_modernisation_translation": "Internal Affairs",
+      "visual_anomalies": [
+        "Header text, larger font size."
+      ]
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "اریكه پیرای خلافت و دولت و زینت بخشای سریر شوكت و سلطنت اولان",
+      "full_line_transliteration": "Erîke-pîrây-ı hilâfet ve devlet ve zînet-bahşây-ı serîr-i şevket ve saltanat olan",
+      "literal_English_translation": "Throne-adorning-of caliphate and state and ornament-bestowing-of throne-of majesty and sultanate being",
+      "flowing_English_modernisation_translation": "He who is the adorner of the throne of the Caliphate and the State, and the bestower of ornament upon the seat of majesty and sultanate,",
+      "visual_anomalies": [
+        "Standard matbu rika hybrid font."
+      ]
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "غازی سلطان محمود خان ثانی حضرتلری برقاج ماهدر برو منحرف المزاج",
+      "full_line_transliteration": "Gâzî Sultân Mahmûd Hân-ı Sânî Hazretleri bir kaç mâhdan berü munharifü'l-mizâc",
+      "literal_English_translation": "Ghazi Sultan Mahmud Khan-the Second His-Excellency a few month-from since deviated-of-health",
+      "flowing_English_modernisation_translation": "His Excellency Ghazi Sultan Mahmud Khan II, having been in declining health for a few months,",
+      "visual_anomalies": [
+        "Defective spelling: 'mahdn' for 'mahdan'."
+      ]
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "اولدقلری حالده بر مقتضای تقدیر ممتنع التغییر حذاق اطبا طرفندن اجرا اولنان",
+      "full_line_transliteration": "oldukları hâlde ber-muktezâ-yı takdîr-i mümteni'ü't-tagyîr huzzâk-ı etibbâ tarafından icrâ olunan",
+      "literal_English_translation": "they-being in-state-of according-to-requirement-of destiny-of impossible-to-change skilled-ones-of doctors side-from executed being",
+      "flowing_English_modernisation_translation": "although—in accordance with the unchangeable decree of destiny—the treatments executed by skilled physicians",
+      "visual_anomalies": [
+        "Vertical stacking in 'mümteni'ü't-tagyîr'."
+      ]
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "مداوات و تدبیر كاركر تأثیر اولمیه رق سلك كوهر سنج عمر نازنینلری",
+      "full_line_transliteration": "mudâvât ve tedbîr kârger-i te'sîr olmayarak silk-i gevher-senc-i 'ömr-i nâzenînleri",
+      "literal_English_translation": "treatments and measures effective-of influence not-being thread-of jewel-weighing-of life-of delicate-their",
+      "flowing_English_modernisation_translation": "and measures proved ineffective, the thread of his delicate, jewel-measuring life",
+      "visual_anomalies": [
+        "Toothless sin in 'senc'."
+      ]
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "كسسته تار فنا واشبو شهر ربیع الثانينك اون طقوزنجی بازار ایرتسی كونی",
+      "full_line_transliteration": "güsişte-i târ-ı fenâ ve işbu şehr-i Rebî'ü'l-âhirüñ on dokuzuncu bâzâr irtesi günü",
+      "literal_English_translation": "severed-of string-of mortality and this month-of Rabi-ul-Akhir's nine-teenth market after day",
+      "flowing_English_modernisation_translation": "was severed from the mortal coil; and on Monday, the nineteenth day of this month of Rabi' al-Thani,",
+      "visual_anomalies": [
+        "Nazal 'ñ' in 'sâniñ' (Thani-nin)."
+      ]
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "علی السحر خرامندۀ كلشنسرای عقبا بیورمش ولایق تاج و تخت",
+      "full_line_transliteration": "'ale's-seher hırâmende-i gülşenserây-ı 'ukbâ buyurmuş ve lâyık-ı tâc ve taht",
+      "literal_English_translation": "upon-the-dawn walking-one-to rosegarden-palace-of afterlife he-commanded and worthy-of crown and throne",
+      "flowing_English_modernisation_translation": "at dawn, he walked into the rose-garden palace of the Hereafter. And the worthy heir to the crown and throne,",
+      "visual_anomalies": [
+        "Compound 'gülşenseray' written closely."
+      ]
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "شهزادۀ جوانبختلری شوكتلو كرامتلو مهابتلو قدرتلو سلطان عبدالمجید",
+      "full_line_transliteration": "şehzâde-i civânbahtları şevketlü kerâmetlü mehâbetlü kudretlü Sultân 'Abdülmecîd",
+      "literal_English_translation": "prince-of young-fortune-their majestic noble awesome powerful Sultan Abdülmecid",
+      "flowing_English_modernisation_translation": "his young and fortunate prince, the majestic, noble, awesome, and powerful Sultan Abdülmecid",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "خان افندمز حضرتلرينك بالارث والاستحقاق سریر كردون مصیر خلافته جلوس",
+      "full_line_transliteration": "Hân Efendimiz Hazretleriniñ bi'l-irs ve'l-istihkâk serîr-i gerdûn-masîr-i hilâfete cülûs",
+      "literal_English_translation": "Khan Lord-our Excellency-his by-inheritance and-by-right throne-of heaven-destined-of caliphate accession",
+      "flowing_English_modernisation_translation": "Khan, our Lord, by inheritance and right, his accession to the heaven-destined throne of the Caliphate",
+      "visual_anomalies": [
+        "Nazal 'ñ' in 'Hazretleriniñ'."
+      ]
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "میامن مأنوس شاهانه لری شرفوقوع ایله بالجمله وزرای عظام و علمای فخام",
+      "full_line_transliteration": "meyâmin-me'nûs-ı şâhâneleri şeref-vukû' ile bi'l-cümle vüzerâ-yı 'izâm ve 'ulemâ-yı fihâm",
+      "literal_English_translation": "auspiciousness-accustomed-of imperial-his honor-occurrence with totally viziers-of great and ulema-of illustrious",
+      "flowing_English_modernisation_translation": "occurred with imperial auspiciousness; whereupon all the great viziers, illustrious ulema,",
+      "visual_anomalies": [
+        "Bi'l-cümle prefix structure."
+      ]
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "و امرای عسكریه و رجال و خدمۀ سلطنت سنیۀ صدق اتسام سرای همایونده",
+      "full_line_transliteration": "ve ümerâ-yı 'askeriye ve ricâl ve hademe-i saltanat-ı seniyye-i sıdk-ittisâm sarây-ı hümâyûnda",
+      "literal_English_translation": "and commanders-of military and men and servants-of sultanate-of sublime-of truth-marked palace-of imperial-in",
+      "flowing_English_modernisation_translation": "military commanders, statesmen, and the truth-marked servants of the Sublime Sultanate gathered at the Imperial Palace,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "بالاجتماع دأب دیرین و آیین بهین دولت علیه اوزره رسم بیعت اجرا",
+      "full_line_transliteration": "bi'l-ictimâ' de'b-i dîrîn ve âyîn-i behîn-i devlet-i 'aliyye üzere resm-i bî'at icrâ",
+      "literal_English_translation": "by-gathering custom-of ancient and rite-of excellent-of state-of exalted upon ceremony-of allegiance execution",
+      "flowing_English_modernisation_translation": "and in accordance with the ancient custom and excellent rites of the Exalted State, the ceremony of allegiance was executed,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "و تمادی عمر و اقبال و شوكت و توافر شان و شكوه و سلطنت جناب شاهانه",
+      "full_line_transliteration": "ve temâdî-i 'ömr ve ikbâl ve şevket ve tevâfür-i şân ve şükûh ve saltanat-ı cenâb-ı şâhâne",
+      "literal_English_translation": "and prolongation-of life and fortune and majesty and abundance-of glory and splendor and sultanate-of excellency-of imperial",
+      "flowing_English_modernisation_translation": "and prayers for the prolongation of the life, fortune, and majesty, and the abundance of glory, splendor, and sovereignty of His Imperial Majesty",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "دعوات مفروضه سی لسان خلوص ایله تأدیه و ایفا اولنه رق خدا وندكار",
+      "full_line_transliteration": "da'vât-ı mefrûzası lisân-ı hulûs ile te'diye ve îfâ olunarak hudâvendigâr",
+      "literal_English_translation": "prayers-of obligatory-his tongue-of sincerity with payment and performance being-done sovereign",
+      "flowing_English_modernisation_translation": "were offered and performed with a tongue of sincerity. Following this, the late Sovereign,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "خلد آشیان حضرتلرينك نعش رحمت نقش بهشت پیمالری بعد اداء الصلاة",
+      "full_line_transliteration": "huld-âşiyân hazretleriniñ na'ş-ı rahmet-nakş-ı behişt-peymâları ba'de edâi's-salât",
+      "literal_English_translation": "paradise-nesting excellency-his corpse-of mercy-embroidered-of heaven-measuring-his after performance-of-the-prayer",
+      "flowing_English_modernisation_translation": "he who nests in eternity, His Excellency's mercy-embroidered, heaven-bound funeral bier, after the performance of the prayer,",
+      "visual_anomalies": [
+        "Nazal 'ñ' in 'Hazretleriniñ'."
+      ]
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "تعظیمات لازمه و تكریمات ایجابیه بالاجرا الای سروش پسند ایله",
+      "full_line_transliteration": "ta'zîmât-ı lâzıme ve tekrîmât-ı îcâbiye bi'l-icrâ alây-ı sürûş-pesend ile",
+      "literal_English_translation": "glorifications-of necessary and honorings-of required by-execution procession-of angel-approved with",
+      "flowing_English_modernisation_translation": "was carried with the necessary glorifications and required honors in an angel-approved procession,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "استحضار اولنان قبر نور پیوندلرینه ایصال و اسرا اولنمش اولوب خداوندكار",
+      "full_line_transliteration": "istihzâr olunan kabr-i nûr-peyvendlerine îsâl ve isrâ olunmuş olub hudâvendigâr",
+      "literal_English_translation": "preparation being-made tomb-of light-joined-to-them delivery and night-journey made being sovereign",
+      "flowing_English_modernisation_translation": "and was delivered and conveyed to the light-filled tomb prepared for him. As the Sovereign",
+      "visual_anomalies": [
+        "Defective spelling: 'olub' for 'olup'."
+      ]
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "فردوس مقام حضرتلری غنودۀ خوابكاه رحمت باری و روح پر فتوحلری",
+      "full_line_transliteration": "firdevs-makâm hazretleri gunûde-i hâbgâh-ı rahmet-i bârî ve rûh-ı pür-fütûhları",
+      "literal_English_translation": "paradise-station excellency-his sleeping-of dormitory-of mercy-of Creator and soul-of full-of-victories-his",
+      "flowing_English_modernisation_translation": "whose station is Paradise, His Excellency, sleeps in the dormitory of the Creator's mercy, and his victory-filled soul",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "مستفیض انوار مغفرت غفاری اولد قجه جناب حق و فیاض مطلق",
+      "full_line_transliteration": "müstefîz-i envâr-ı magfiret-i gaffârî oldukça cenâb-ı hakk ve feyyâz-ı mutlak",
+      "literal_English_translation": "beneficiary-of lights-of forgiveness-of Forgiver as-it-becomes Excellency-of Truth and Overflowing-One-of Absolute",
+      "flowing_English_modernisation_translation": "benefits from the lights of divine forgiveness, may the Lord of Truth and Absolute Bountiful One",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "جالس اورنك جهانبانی و بالانشین سریر سلسلۀ عثمانی اولان ولی نعمت بیمنتمز",
+      "full_line_transliteration": "câlis-i evreng-i cihânbânî ve bâlâ-nişîn-i serîr-i silsile-i 'osmânî olan velî-ni'met-i bî-minnetimiz",
+      "literal_English_translation": "sitter-of throne-of world-guarding and high-sitter-of throne-of dynasty-of Ottoman being benefactor-of without-obligation-our",
+      "flowing_English_modernisation_translation": "grant that our benefactor to whom we owe everything, who now sits upon the world-guarding throne and occupies the high seat of the Ottoman dynasty,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "شوكت مآب افندمز حضرتلرینی تأییدات سبحانیه و فیوضات ربانیه سنه مقارنتله",
+      "full_line_transliteration": "şevket-me'âb efendimiz hazretlerini te'yîdât-ı sübhâniye ve füyûzât-ı rabbâniyesine mukârenetle",
+      "literal_English_translation": "majesty-resort lord-our excellency-his confirmations-of divine and bounties-of lordly-his with-conjunction",
+      "flowing_English_modernisation_translation": "our majestic Lord, be accompanied by divine confirmations and lordly bounties,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "فرمانفرمای سلطنت و اجلال و وجود مسعود جناب شهنشاهیلرینی",
+      "full_line_transliteration": "fermânfermâ-yı saltanat ve iclâl ve vücûd-ı mes'ûd-ı cenâb-ı şehinşâhîlerini",
+      "literal_English_translation": "commander-of sultanate and glory and existence-of happy-of excellency-of king-of-kings-his",
+      "flowing_English_modernisation_translation": "making him the commander of the sultanate and glory; and may the happy existence of His Imperial Majesty",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "مادارت الشمس والقمر كمال تندرستی و عافیت و مزید صفا و مسرتله زیور دیهیم",
+      "full_line_transliteration": "mâ dâretü'ş-şems ve'l-kamer kemâl-i tendürüstî ve 'âfiyet ve mezîd-i safâ ve meserretle zîver-i dıhîm",
+      "literal_English_translation": "as-long-as turns-the-sun and-the-moon perfection-of health and wellness and increase-of pleasure and joy-with ornament-of diadem",
+      "flowing_English_modernisation_translation": "adorn the diadem of the Caliphate with perfect health, wellness, and increased pleasure and joy for as long as the sun and moon revolve,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "خلافتوسیم شوكت و اقبال بیوره رق كافۀ داعیان و بندكان و بالجمله اهالی",
+      "full_line_transliteration": "hilâfet ve sîm-i şevket ve ikbâl buyurarak kâffe-i dâ'iyân ve bendegân ve bi'l-cümle ahâlî",
+      "literal_English_translation": "caliphate and mark-of majesty and fortune commanding all-of those-who-pray and servants and totally inhabitants",
+      "flowing_English_modernisation_translation": "and commanding the mark of majesty and fortune; so that all those who pray for him, his servants, and all the inhabitants",
+      "visual_anomalies": [
+        "Compound 'hilâfetvesîm' written closely."
+      ]
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "و سكنۀ ممالك و بلدان سایۀ سلطنت سنیه لرنده همیشه اكتساب انواع",
+      "full_line_transliteration": "ve sekene-i memâlik ve büldân sâye-i saltanat-ı seniyyelerinde hemîşe iktisâb-ı envâ'-ı",
+      "literal_English_translation": "and residents-of kingdoms and cities shadow-of sultanate-of sublime-their-in always acquisition-of kinds-of",
+      "flowing_English_modernisation_translation": "and residents of the kingdoms and cities may always acquire all kinds of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "انبساط و امانی و زمان سعد اقتران ملوكانه لرینی دخی عظمت شانی",
+      "full_line_transliteration": "inbisât ve emânî ve zamân-ı sa'd-ı iktirân-ı mülûkânelerini dahi 'azamet-i şânı",
+      "literal_English_translation": "expansion and desires and time-of felicity-of conjunction-of imperial-their also greatness-of glory-his",
+      "flowing_English_modernisation_translation": "expansion and desires under the shadow of his sublime sultanate. And may his imperial time of felicitous conjunction, through the greatness of his glory",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "واسم پاك نبی ذیشانی حرمتنه روز بازار معدلت و شادمانی ایلمك دعای",
+      "full_line_transliteration": "ve ism-i pâk-i nebî-i zî-şânı hürmetine rûz-bâzâr-ı ma'delet ve şâdmânî eylemek du'â-yı",
+      "literal_English_translation": "and name-of pure-of prophet-of possessor-of-glory honor-to market-day-of justice and happiness making prayer-of",
+      "flowing_English_modernisation_translation": "and for the honor of the pure name of the glorious Prophet, be made a marketplace of justice and happiness; this obligatory prayer",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "واجب الاداسی تكرار قلنمشدر",
+      "full_line_transliteration": "vâcibü'l-edâsı tekrâr kılınmışdır",
+      "literal_English_translation": "obligatory-performance-its repetition has-been-made",
+      "flowing_English_modernisation_translation": "has been repeated.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "",
+      "full_line_transliteration": "",
+      "literal_English_translation": "",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": [
+        "Blank space / paragraph break."
+      ]
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "یوم مذكورك فرداسی صالی كونی ذات شوكتسمات شاهانه مترتب ذمت",
+      "full_line_transliteration": "Yevm-i mezkûruñ ferdâsı salı günü zât-ı şevket-simât-ı şâhâne müterettib-i zimmet",
+      "literal_English_translation": "Day-of aforesaid's morrow Tuesday day person-of majesty-marked-of imperial incumbent-upon responsibility",
+      "flowing_English_modernisation_translation": "On the morrow of the aforesaid day, Tuesday, the imperial personage marked by majesty,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "همت ملكداری و محتم عهدۀ شوكت عدۀ حضرت تاجداری اولدیغی اوزره",
+      "full_line_transliteration": "himmet-i mülkdârî ve muhattam-ı 'uhde-i şevket-'idde-i hazret-i tâcdârî olduğu üzere",
+      "literal_English_translation": "endeavor-of ruling and necessary-of charge-of majesty-equipment-of excellency-of crown-holding it-being upon",
+      "flowing_English_modernisation_translation": "as it is incumbent upon the endeavor of ruling and the necessary charge of the majesty-equipped crowned Excellency,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "بتوفیقه سبحانه و تعالی ایفای مصالح سلطنت سنیه لرینه شروع و مباشرتله",
+      "full_line_transliteration": "bi-tevfîkıhi sübhânehu ve te'âlâ îfâ-yı mesâlih-i saltanat-ı seniyyelerine şürû' ve mubâşeretle",
+      "literal_English_translation": "by-success-his praise-him and exalted performance-of affairs-of sultanate-of sublime-their-to start and commencing-with",
+      "flowing_English_modernisation_translation": "by the success granted by Him (Glory be to Him and Exalted is He), commenced and undertook the performance of the affairs of his sublime sultanate;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "مبارك قریحۀ ضیا صریحۀ حضرت شاهانه دن بالفعل و بالاستقلال",
+      "full_line_transliteration": "mübârek karîha-i zıyâ-sarîha-i hazret-i şâhâneden bi'l-fi'l ve bi'l-istiklâl",
+      "literal_English_translation": "blessed innate-talent-of light-clear-of excellency-of imperial-from actually and independently",
+      "flowing_English_modernisation_translation": "and from the blessed, light-clear innate talent of His Imperial Majesty, actually and independently,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "صدارت عظمی و وكالت مطلقۀ كبری مأموریت جلیله سی افخم و كلا",
+      "full_line_transliteration": "sadâret-i 'uzmâ ve vekâlet-i mutlaka-i kübrâ me'mûriyet-i celîlesi efham-ı vükelâ",
+      "literal_English_translation": "premiership-of grand and agency-of absolute-of great office-of sublime-its most-magnificent-of ministers",
+      "flowing_English_modernisation_translation": "the sublime office of the Grand Vizierate and the Great Absolute Agency was conferred upon the most magnificent of ministers...",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "Internal Affairs\nHe who is the adorner of the throne of the Caliphate and the State, and the bestower of ornament upon the seat of majesty and sultanate,\nHis Excellency Ghazi Sultan Mahmud Khan II, having been in declining health for a few months,\nalthough—in accordance with the unchangeable decree of destiny—the treatments executed by skilled physicians\nand measures proved ineffective, the thread of his delicate, jewel-measuring life\nwas severed from the mortal coil; and on Monday, the nineteenth day of this month of Rabi' al-Thani,\nat dawn, he walked into the rose-garden palace of the Hereafter. And the worthy heir to the crown and throne,\nhis young and fortunate prince, the majestic, noble, awesome, and powerful Sultan Abdülmecid\nKhan, our Lord, by inheritance and right, his accession to the heaven-destined throne of the Caliphate\noccurred with imperial auspiciousness; whereupon all the great viziers, illustrious ulema,\nmilitary commanders, statesmen, and the truth-marked servants of the Sublime Sultanate gathered at the Imperial Palace,\nand in accordance with the ancient custom and excellent rites of the Exalted State, the ceremony of allegiance was executed,\nand prayers for the prolongation of the life, fortune, and majesty, and the abundance of glory, splendor, and sovereignty of His Imperial Majesty\nwere offered and performed with a tongue of sincerity. Following this, the late Sovereign,\nhe who nests in eternity, His Excellency's mercy-embroidered, heaven-bound funeral bier, after the performance of the prayer,\nwas carried with the necessary glorifications and required honors in an angel-approved procession,\nand was delivered and conveyed to the light-filled tomb prepared for him. As the Sovereign\nwhose station is Paradise, His Excellency, sleeps in the dormitory of the Creator's mercy, and his victory-filled soul\nbenefits from the lights of divine forgiveness, may the Lord of Truth and Absolute Bountiful One\ngrant that our benefactor to whom we owe everything, who now sits upon the world-guarding throne and occupies the high seat of the Ottoman dynasty,\nour majestic Lord, be accompanied by divine confirmations and lordly bounties,\nmaking him the commander of the sultanate and glory; and may the happy existence of His Imperial Majesty\nadorn the diadem of the Caliphate with perfect health, wellness, and increased pleasure and joy for as long as the sun and moon revolve,\nand commanding the mark of majesty and fortune; so that all those who pray for him, his servants, and all the inhabitants\nand residents of the kingdoms and cities may always acquire all kinds of\nexpansion and desires under the shadow of his sublime sultanate. And may his imperial time of felicitous conjunction, through the greatness of his glory\nand for the honor of the pure name of the glorious Prophet, be made a marketplace of justice and happiness; this obligatory prayer\nhas been repeated.\n\nOn the morrow of the aforesaid day, Tuesday, the imperial personage marked by majesty,\nas it is incumbent upon the endeavor of ruling and the necessary charge of the majesty-equipped crowned Excellency,\nby the success granted by Him (Glory be to Him and Exalted is He), commenced and undertook the performance of the affairs of his sublime sultanate;\nand from the blessed, light-clear innate talent of His Imperial Majesty, actually and independently,\nthe sublime office of the Grand Vizierate and the Great Absolute Agency was conferred upon the most magnificent of ministers...",
+  "summary": "This document from the Takvîm-i Vekâyi (July 11, 1839) formally announces the death of Sultan Mahmud II and the accession of his son, Sultan Abdülmecid I. It details that Mahmud II, after months of illness which physicians could not cure due to destiny's decree, passed away on Monday, 19 Rabi' al-Thani 1255. The text describes the immediate accession of Abdülmecid to the throne, the gathering of state officials (viziers, ulema, military) at the Imperial Palace for the traditional ceremony of allegiance (bi'at), and the subsequent funeral procession and burial of the late Sultan. The text concludes with elaborate prayers for the new Sultan's reign, health, and justice, and notes that on the following day (Tuesday), Sultan Abdülmecid immediately commenced his imperial duties, specifically mentioning the appointment of the Grand Vizier (Sadâret-i 'Uzmâ)."
+}

@@ -1,0 +1,356 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 132",
+    "experiment_date": "Friday, December 26th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET: TAKVÎM-I VEKÂYI (TANZIMAT PROTOCOL 1839) V3",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "181",
+    "hirji_date": "28 Rabi' al-Thani 1255 AH",
+    "gregorian_date": "July 11th 1839",
+    "page": 2,
+    "column": "LH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "واستقبال قصد عالیسیله ذات طلعت سمات حضرت شهریاری دخی جوارده",
+      "full_line_transliteration": "ve istikbâl-i kasd-ı âlîsiyle zât-ı tal'at-simât-ı hazret-i şehriyârî dahi civârda",
+      "literal_English_translation": "and reception-of intent-exalted-his-with person-of countenance-marked-of presence-of imperial also vicinity-in",
+      "flowing_English_modernisation_translation": "And with his exalted intention of reception, the imperial personage of marked countenance also [being] in the vicinity,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "واقع عثمان پاشا قصرینی تشریف بیورمش اولدقلرینه بناء قصر والای",
+      "full_line_transliteration": "vâki Osman Paşa kasrını teşrîf buyurmuş olduklarına binâen kasr-ı vâlâ-yı",
+      "literal_English_translation": "situated Osman Pasha pavilion-his-to honoring commanded having-become-their-to based-on pavilion-of exalted-of",
+      "flowing_English_modernisation_translation": "based on the fact that he had honored the Osman Pasha Pavilion situated [there], the aforesaid exalted pavilion's",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "مذکور پیشگاهنده ایاصوفیه و سلطان احمد جامع شریفلری شیخلری",
+      "full_line_transliteration": "mezkûr pîşgâhında Ayasofya ve Sultân Ahmed câmi-i şerîfleri şeyhleri",
+      "literal_English_translation": "aforesaid forecourt-its-in Hagia Sophia and Sultan Ahmed mosque-noble-their sheikhs-their",
+      "flowing_English_modernisation_translation": "forecourt [hosted] the sheikhs of the noble mosques of Hagia Sophia and Sultan Ahmed,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "افندیلر طرفلرندن ادای واجبه دعا اولندقدن صکره مرتب الای والا ایله",
+      "full_line_transliteration": "efendiler taraflarından edâ-yı vâcibe-i duâ olundukdan soñra müretteb alay-ı vâlâ ile",
+      "literal_English_translation": "gentlemen sides-their-from performance-of duty-of prayer having-been-done-from after arranged procession-of exalted with",
+      "flowing_English_modernisation_translation": "and after the duty of prayer was performed by the gentlemen, with an arranged exalted procession,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "بیوك اسکله یه ایصال وترسیل واسکله مذکوردن دخی بر مدتدنبرو ساحه",
+      "full_line_transliteration": "Büyük İskele'ye îsâl ve tersîl ve iskele-i mezkûrdan dahi bir müddetdenberü sâha-i",
+      "literal_English_translation": "Great Pier-to arrival and sending and pier-of aforesaid-from also a time-since-from area-of",
+      "flowing_English_modernisation_translation": "[the coffin] was conveyed and sent to the Great Pier, and from the aforesaid pier, to the area of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "ترسانه عامره ده در دست انشا اولوب مقدمجه روی دریایه تنزیل ایله تجهیز",
+      "full_line_transliteration": "Tersâne-i Âmire'de der-dest-i inşâ olub mukaddemce rûy-ı deryâya tenzîl ile techîz",
+      "literal_English_translation": "Dockyard-of Imperial-in in-hand-of construction being previously face-of sea-to lowering with equipping",
+      "flowing_English_modernisation_translation": "the Imperial Dockyard, where, having been under construction and previously lowered to the sea surface and equipped",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "وتنظیم اولنمش اولان واپور سفینه همایوننه تیمنا وتبرکا وضع وتحمیل ایله",
+      "full_line_transliteration": "ve tanzîm olunmuş olan vapur sefîne-i hümâyûnuna teyemmünen ve teberrüken vaz' ve tahmîl ile",
+      "literal_English_translation": "and arrangement having-been-made being steamer ship-of imperial-to for-good-omen and for-blessing placing and loading with",
+      "flowing_English_modernisation_translation": "and arranged, it was placed and loaded onto the Imperial Steamship for good omen and blessing,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "طوپقپو ساحلسرای همایوننه چیقاریله رق تعظیمات لازمه وتکریمات ایجاییه",
+      "full_line_transliteration": "Topkapı sâhil-sarây-ı hümâyûnuna çıkarılarak ta'zîmât-ı lâzıme ve tekrîmât-ı îcâbiye",
+      "literal_English_translation": "Topkapi shore-palace-of imperial-to being-taken-out glorifications-of necessary and honorings-of required",
+      "flowing_English_modernisation_translation": "and being disembarked at the Topkapi Imperial Shore Palace, with necessary glorifications and required honors",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "بالاجرا محل عالیسنه وضع قلنمشدر",
+      "full_line_transliteration": "bi'l-icrâ mahall-i âlîsine vaz' kılınmışdır",
+      "literal_English_translation": "with-the-execution place-of exalted-its-to placing has-been-made",
+      "flowing_English_modernisation_translation": "being executed, it was placed in its exalted location.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "شوکت مآب مرحمت نصاب افندمز حضرتلرینه عطیه بهیه الهیه وعنایت",
+      "full_line_transliteration": "Şevket-meâb merhamet-nisâb efendimiz hazretlerine atiyye-i behiyye-i ilâhiye ve inâyet-i",
+      "literal_English_translation": "Majesty-resort mercy-origin master-our excellency-his-to gift-of beautiful-of divine and grace-of",
+      "flowing_English_modernisation_translation": "To His Excellency our Master, the resort of majesty and origin of mercy, a beautiful divine gift and grace",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "جلیله ازلیه اولان کمال رشد وفطانت وخاصه حکمداری وخلافت اقتضای",
+      "full_line_transliteration": "celîle-i ezeliye olan kemâl-i rüşd ve fetânet ve hâssa-i hükümdârî ve hilâfet iktizâ-yı",
+      "literal_English_translation": "glorious-of eternal being perfection-of maturity and intelligence and quality-of rulership and caliphate requirement-of",
+      "flowing_English_modernisation_translation": "of eternal glory, being the perfection of maturity and intelligence, and the quality of rulership; and by the requirement of the Caliphate's",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "عالیسی اوزره تخت عالیبخت عثمانی واریکه سلطنت وجها نبانی یه بالیمن",
+      "full_line_transliteration": "âlîsi üzere taht-ı âlî-baht-ı Osmânî ve erîke-i saltanat-ı cihânbâniye bi'l-yümn",
+      "literal_English_translation": "exalted-its upon throne-of high-fortune-of Ottoman and couch-of sultanate-of world-guarding with-the-luck",
+      "flowing_English_modernisation_translation": "exalted nature, upon the Ottoman throne of high fortune and the couch of the world-guarding sultanate, with luck",
+      "visual_anomalies": ["'cihanbaniye' written with detached 'ye' at end"]
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "والاقبال جلوس همایون شاهانه لرينك شرفوقوعنی متعاقب طرف اشرف",
+      "full_line_transliteration": "ve'l-ikbâl cülûs-ı hümâyûn-ı şâhânelerinin şeref-vukû'unu müteâkib taraf-ı eşref-i",
+      "literal_English_translation": "and-the-prosperity accession-of imperial-of royal-their honor-occurrence-its following side-of noblest-of",
+      "flowing_English_modernisation_translation": "and prosperity, following the honor of the occurrence of his royal imperial accession, from the noblest side of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "صدارتپناهی یه خطابا مبارك لسان معجز بیان ملوکانه لرندن شرفسنوح",
+      "full_line_transliteration": "sadâret-penâhîye hitâben mübârek lisân-ı mu'ciz-beyân-ı mülûkânelerinden şeref-sünûh",
+      "literal_English_translation": "premiership-refuge-to addressing blessed tongue-of miracle-expression-of royal-their-from honor-manifestation",
+      "flowing_English_modernisation_translation": "the Premiership, addressing [the Grand Vizier], from his blessed royal tongue of miraculous expression, the honor of manifestation",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "بیوریلان نطق همایون اصابت مقرون شهنشاهیلرنده ❀ نفس همایونمده",
+      "full_line_transliteration": "buyurulan nutk-ı hümâyûn-ı isâbet-makrûn-ı şehinşâhîlerinde [flower] nefs-i hümâyûnumda",
+      "literal_English_translation": "commanded speech-of imperial-of correctness-associated-of king-of-kings-their-in [flower] self-of imperial-my-in",
+      "flowing_English_modernisation_translation": "was granted to the imperial speech of the King of Kings, associated with correctness: 'In my imperial self,",
+      "visual_anomalies": ["Flower symbol used as punctuation"]
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "هوا وهوسه قطعا میل ورغبت اولمیوب اقدم مآرب ونخبه مطالب شاهانهم",
+      "full_line_transliteration": "hevâ ve hevese kat'â meyl ve rağbet olmayub akdem-i meârib ve nuhbe-i metâlib-i şâhânem",
+      "literal_English_translation": "desire and whim-to absolutely inclination and interest not-being most-prior-of goals and choicest-of requests-of royal-my",
+      "flowing_English_modernisation_translation": "there is absolutely no inclination or interest towards desire and whim; my most prior goal and the choicest of my royal requests",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "انجق اعمار ممالك وبلاد واراحه اهالی وعباد قضیه سندن عبارت اوله رق",
+      "full_line_transliteration": "ancak i'mâr-ı memâlik ve bilâd ve irâha-i ahâlî ve ibâd kaziyyesinden ibâret olarak",
+      "literal_English_translation": "only reconstruction-of dominions and lands and reposing-of inhabitants and servants matter-its-from consisting being",
+      "flowing_English_modernisation_translation": "consist only of the matter of the reconstruction of dominions and lands, and the bringing of repose to the inhabitants and servants;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "بتوفیقه تعالی کافه اوقات وساعاتمی بو اغوره صرف ایتمکی التزام ایتمشدر",
+      "full_line_transliteration": "bi-tevfîkıhî teâlâ kâffe-i evkât ve sââtimi bu uğura sarf itmegi iltizâm etmişdir",
+      "literal_English_translation": "with-success-his exalted all-of times and hours-my this way-to spending doing-the undertaking has-done",
+      "flowing_English_modernisation_translation": "with the success of the Exalted [God], I have undertaken to spend all my times and hours in this way.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "از جمله مصر والیسی محمد علی پاشا والد ماجد کثیر المحامدم مرحوم ومغفور",
+      "full_line_transliteration": "ez-cümle Mısır Vâlîsi Mehmed Ali Paşa vâlid-i mâcid-i kesîrü'l-mehâmidim merhûm ve mağfûr",
+      "literal_English_translation": "from-all Egypt Governor-of Mehmed Ali Pasha father-of glorious-of many-the-praises-my late and forgiven",
+      "flowing_English_modernisation_translation": "Among these matters, the Governor of Egypt Mehmed Ali Pasha, [regarding] my glorious father of many praises, the late and forgiven",
+      "visual_anomalies": ["Mehmed written as Muhammed (stacked)"]
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "سلطان محمود خان حضرتلرينك اغبرار خاطرلرینی موجب بعض حرکتده",
+      "full_line_transliteration": "Sultân Mahmûd Hân hazretlerinin iğbirâr-ı hâtırlarını mûcib ba'zı hareketde",
+      "literal_English_translation": "Sultan Mahmud Khan excellency-their-of vexation-of mind-their causing some movement-in",
+      "flowing_English_modernisation_translation": "Sultan Mahmud Khan, having been found in some movements causing the vexation of his mind,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "بولنمش وشمدی یه قدر خیلی شیلر وقوعندن بشقه بر مدتدنبرو اجرای",
+      "full_line_transliteration": "bulunmuş ve şimdiye kadar hayli şeyler vukû'undan başka bir müddetdenberü icrâ-yı",
+      "literal_English_translation": "found and now-to until many things occurrence-its-from other a time-since-from execution-of",
+      "flowing_English_modernisation_translation": "and aside from the occurrence of many things until now, for some time the execution of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "تدارکاته دخی تشبث اولنمش ایسه ده ذات شاهانه مه ودیعه جناب کبریا",
+      "full_line_transliteration": "tedârikâte dahi teşebbüs olunmuş ise de zât-ı şâhâneme vedîa-i cenâb-ı kibriyâ",
+      "literal_English_translation": "preparations-to also attempt been-made if also person-of royal-my-to trust-of excellency-of greatness",
+      "flowing_English_modernisation_translation": "preparations had also been attempted; however, [as] a trust of the Excellency of Greatness [God] to my royal person,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "اولان عباد و بلادك اسایش حالنی خللدن وقایه ومجرد سفك دماء مسلمینی",
+      "full_line_transliteration": "olan ibâd ve bilâdıñ âsâyiş-i hâlini halelden vikâye ve mücerred sefk-i dimâ-yı müslimîni",
+      "literal_English_translation": "being servants and lands-of quiet-of state-their harm-from protection and merely shedding-of blood-of Muslims",
+      "flowing_English_modernisation_translation": "to protect the quiet state of the servants and lands from harm, and merely [to prevent] the shedding of Muslim blood,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "صیانه لوازم تابعیت و فرایض عبودیت کاملا ایفا اولنمق اوزره وقوعات",
+      "full_line_transliteration": "siyâne levâzım-ı tâbiiyyet ve ferâyiz-i ubûdiyyet kâmilen îfâ olunmak üzere vukûât-ı",
+      "literal_English_translation": "protection requirements-of subjection and duties-of servitude completely performance being-made upon occurrences-of",
+      "flowing_English_modernisation_translation": "in protection, and so that the requirements of subjection and duties of servitude may be completely performed, the occurrences",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "مذکوره نسیا منسیا ومضی ما مضی حکمنه قونیله رق والی مشارالیه حقنده",
+      "full_line_transliteration": "mezkûre nesyen mensiyyen ve mazâ mâ mazâ hükmüne konularak vâlî-i müşârun-ileyh hakkında",
+      "literal_English_translation": "aforesaid forgotten forgotten-thing and passed what passed judgment-its-to being-put governor-of aforesaid-to right-his-in",
+      "flowing_English_modernisation_translation": "aforesaid are put under the judgment of 'forgotten and buried' and 'what is past is past'; and regarding the aforesaid Governor,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "عفو جمیل شاهانه وصفح بیعدیل پادشاهانه م ارزان بیورلمغین بواحسان",
+      "full_line_transliteration": "afv-ı cemîl-i şâhâne ve safh-ı bî-adîl-i pâdişâhânem erzân buyurulmağın bu ihsân",
+      "literal_English_translation": "pardon-of beautiful-of royal and forgiveness-of without-peer-of imperial-my worthy being-commanded-from this favor",
+      "flowing_English_modernisation_translation": "since my beautiful royal pardon and my peerless imperial forgiveness have been deemed worthy, this favor",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "وعنایت ملوکانه نك والی مشارالیهه تبلیغ وتبشیرینه مسارعت ایله ❀",
+      "full_line_transliteration": "ve inâyet-i mülûkâneniñ vâlî-i müşârun-ileyhe teblîğ ve tebşîrine müsâraat ile [flower]",
+      "literal_English_translation": "and grace-of royal-of governor-of aforesaid-to communication and good-news-giving-its-to haste with [flower]",
+      "flowing_English_modernisation_translation": "and royal grace must be communicated and announced as good news to the aforesaid Governor with haste.'",
+      "visual_anomalies": ["Flower symbol used as punctuation"]
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "دیو اظهار لطف ومکرمت بیورلمش وبرمنطوق امر وفرمان کرامت عنوان",
+      "full_line_transliteration": "deyu izhâr-ı lutf ve mekerremet buyurulmuş ve ber-mantûk-ı emr ve fermân-ı kerâmet-unvân",
+      "literal_English_translation": "saying manifestation-of kindness and beneficence been-commanded and according-to-meaning-of order and edict-of miracle-title",
+      "flowing_English_modernisation_translation": "Thus, kindness and beneficence were manifested; and in accordance with the miracle-titled order and edict",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "حضرت شاهانه والی مشارالیهه یازیلان تبشیر نامه سامی وکالتپناهينك",
+      "full_line_transliteration": "hazret-i şâhâne vâlî-i müşârun-ileyhe yazılan tebşîr-nâme-i sâmî-i vekâlet-penâhîniñ",
+      "literal_English_translation": "excellency-of royal governor-of aforesaid-to written good-news-letter-of high-of viceroyalty-refuge-of",
+      "flowing_English_modernisation_translation": "of His Royal Excellency, for the delivery of the high letter of good news from the Viceroyalty [Grand Vizier] written to the aforesaid Governor,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "ایصالنه وصورت اراده سنیه نك شفاها دخی بیان وافهامنه رجال دولت",
+      "full_line_transliteration": "îsâline ve sûret-i irâde-i seniyyenin şifâhen dahi beyân ve ifhâmına ricâl-i devlet-i",
+      "literal_English_translation": "delivery-its-to and form-of will-of sublime-of verbally also explanation and making-understood-its-to men-of state-of",
+      "flowing_English_modernisation_translation": "and for the verbal explanation and clarification of the form of the sublime will, from the men of the State",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "علیه دن دارشورای باب عالی کاتبی سعادتلو عاکف افندی مخصوصا مأمور",
+      "full_line_transliteration": "aliyyeden Dâr-ı Şûrâ-yı Bâb-ı Âlî Kâtibi saâdetlü Âkif Efendi mahsûsan me'mûr",
+      "literal_English_translation": "exalted-from House-of Council-of Gate-of High Clerk-of prosperous Akif Efendi specially ordered",
+      "flowing_English_modernisation_translation": "of the Exalted, the Clerk of the Council of the Sublime Porte, the prosperous Akif Efendi, was specially ordered",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "وتعیین وسفن همایون شاهانه دن پيك شوکت نام واپور سفینه سنه ارکابا",
+      "full_line_transliteration": "ve ta'yîn ve süfün-i hümâyûn-ı şâhâneden Peyk-i Şevket nâm vapur sefînesine irkâben",
+      "literal_English_translation": "and appointment and ships-of imperial-of royal-from Peyk-i Şevket named steamer ship-its-to embarking",
+      "flowing_English_modernisation_translation": "and appointed; and being embarked upon the steamship named *Peyk-i Şevket* from the royal imperial ships,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "جانب مشارالیهه سوق وتسییر اولنه رق اردوی همایونی توقیف ایلمسی",
+      "full_line_transliteration": "cânib-i müşârun-ileyhe sevk ve tesyîr olunarak ordu-yı hümâyûnu tevkîf eylemesi",
+      "literal_English_translation": "side-of aforesaid-to driving and sending being-made army-of imperial stopping making-it",
+      "flowing_English_modernisation_translation": "he was dispatched and sent to the side of the aforesaid [Governor]; and containing the matter of his stopping the Imperial Army,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "خصوصی متضمن شرق جانبی سرعسکری عطوفتلو حافظ پاشا حضرتلرینه",
+      "full_line_transliteration": "husûsunu mutazammın şark cânibi seraskeri atûfetlü Hâfız Paşa hazretlerine",
+      "literal_English_translation": "matter-its containing east side-of commander-in-chief-of kind Hafiz Pasha excellency-his-to",
+      "flowing_English_modernisation_translation": "to His Excellency the Commander-in-Chief of the Eastern Front, the kind Hafiz Pasha,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "دخی تحریرات مخصوصه اطاره وارسال اولنمش ودوتمای همایون شاهانه نك",
+      "full_line_transliteration": "dahi tahrîrât-ı mahsûsa itâre ve irsâl olunmuş ve donanma-yı hümâyûn-ı şâhâneniñ",
+      "literal_English_translation": "also writings-of special flying and sending been-made and navy-of imperial-of royal-of",
+      "flowing_English_modernisation_translation": "special correspondence was also flown and sent; and the forward movement of the royal imperial navy",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "دخی ایلر و حرکتی توقیف قلنمشدر همان جناب حق حافظ عباد وحارس",
+      "full_line_transliteration": "dahi ilerü hareketi tevkîf kılınmışdır hemân cenâb-ı hakk hâfız-ı ibâd ve hâris-i",
+      "literal_English_translation": "also forward movement-its stopping has-been-made immediately excellency-of truth protector-of servants and guardian-of",
+      "flowing_English_modernisation_translation": "was also stopped. May the Excellency of Truth [God], the Protector of servants and Guardian of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "بلاد اولان پادشاه حکمت آشنا وشهنشاه مراحم پیرا افندمز حضرتلرينك",
+      "full_line_transliteration": "bilâd olan pâdişâh-ı hikmet-âşinâ ve şehinşâh-ı merâhim-pîrâ efendimiz hazretlerinin",
+      "literal_English_translation": "lands being padishah-of wisdom-acquainted and king-of-kings-of mercies-adorning master-our excellency-their-of",
+      "flowing_English_modernisation_translation": "lands, make the life, prosperity, majesty, splendor, glory, and greatness of His Excellency our Master, the wisdom-acquainted Padishah and mercy-adorning King of Kings,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "عمر واقبال وشوکت و فر واجلال وعظمت ملوکانه لرینی مزداد وافزون",
+      "full_line_transliteration": "ömr ve ikbâl ve şevket ve ferr ve iclâl ve azamet-i mülûkânelerini müzdâd ve efzûn",
+      "literal_English_translation": "life and prosperity and majesty and splendor and glory and greatness-of royal-their increased and abundant",
+      "flowing_English_modernisation_translation": "increased and abundant;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "وهر بر عزم ونیات مستلزم الحسنات شاهانه لرنده توفیقات الهیه وتسهیلات",
+      "full_line_transliteration": "ve her bir azm ve niyyât-ı müstelzimü'l-hasenât-ı şâhânelerinde tevfîkât-ı ilâhiye ve teshîlât-ı",
+      "literal_English_translation": "and every one resolve and intentions-of requiring-the-good-deeds-of royal-their-in successes-of divine and facilitations-of",
+      "flowing_English_modernisation_translation": "and in every one of his royal resolves and intentions which entail good deeds, may He be the helper and guide with divine successes and",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": "صمدانیه سن یاور ورهنمون وسایه شوکتوایه پادشاهانه لرنده جمله عباد",
+      "full_line_transliteration": "samedâniyesin yâver ve rehnümûn ve sâye-i şevket-vâye-i pâdişâhânelerinde cümle ibâd",
+      "literal_English_translation": "eternal-his helper and guide and shadow-of majesty-sheltering-of imperial-their-in all servants",
+      "flowing_English_modernisation_translation": "eternal facilitations; and in his imperial majesty-sheltering shadow, may all servants",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "وبندکانی اسایش حال وارامش باللری حصولیله مسرور وممنون",
+      "full_line_transliteration": "ve bendegânı âsâyiş-i hâl ve ârâmiş-i bâlleri husûliyle mesrûr ve memnûn",
+      "literal_English_translation": "and slaves-his quiet-of state and peace-of minds-their acquisition-with happy and pleased",
+      "flowing_English_modernisation_translation": "and slaves be happy and pleased with the acquisition of quiet of state and peace of mind.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "بیوره آمین",
+      "full_line_transliteration": "buyura âmîn",
+      "literal_English_translation": "may-he-command amen",
+      "flowing_English_modernisation_translation": "May He command it. Amen.",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "And with his exalted intention of reception, the imperial personage of marked countenance also [being] in the vicinity,\nbased on the fact that he had honored the Osman Pasha Pavilion situated [there], the aforesaid exalted pavilion's\nforecourt [hosted] the sheikhs of the noble mosques of Hagia Sophia and Sultan Ahmed,\nand after the duty of prayer was performed by the gentlemen, with an arranged exalted procession,\n[the coffin] was conveyed and sent to the Great Pier, and from the aforesaid pier, to the area of\nthe Imperial Dockyard, where, having been under construction and previously lowered to the sea surface and equipped\nand arranged, it was placed and loaded onto the Imperial Steamship for good omen and blessing,\nand being disembarked at the Topkapi Imperial Shore Palace, with necessary glorifications and required honors\nbeing executed, it was placed in its exalted location.\nTo His Excellency our Master, the resort of majesty and origin of mercy, a beautiful divine gift and grace\nof eternal glory, being the perfection of maturity and intelligence, and the quality of rulership; and by the requirement of the Caliphate's\nexalted nature, upon the Ottoman throne of high fortune and the couch of the world-guarding sultanate, with luck\nand prosperity, following the honor of the occurrence of his royal imperial accession, from the noblest side of\nthe Premiership, addressing [the Grand Vizier], from his blessed royal tongue of miraculous expression, the honor of manifestation\nwas granted to the imperial speech of the King of Kings, associated with correctness: 'In my imperial self,\nthere is absolutely no inclination or interest towards desire and whim; my most prior goal and the choicest of my royal requests\nconsist only of the matter of the reconstruction of dominions and lands, and the bringing of repose to the inhabitants and servants;\nwith the success of the Exalted [God], I have undertaken to spend all my times and hours in this way.\nAmong these matters, the Governor of Egypt Mehmed Ali Pasha, [regarding] my glorious father of many praises, the late and forgiven\nSultan Mahmud Khan, having been found in some movements causing the vexation of his mind,\nand aside from the occurrence of many things until now, for some time the execution of\npreparations had also been attempted; however, [as] a trust of the Excellency of Greatness [God] to my royal person,\nto protect the quiet state of the servants and lands from harm, and merely [to prevent] the shedding of Muslim blood,\nin protection, and so that the requirements of subjection and duties of servitude may be completely performed, the occurrences\naforesaid are put under the judgment of 'forgotten and buried' and 'what is past is past'; and regarding the aforesaid Governor,\nsince my beautiful royal pardon and my peerless imperial forgiveness have been deemed worthy, this favor\nand royal grace must be communicated and announced as good news to the aforesaid Governor with haste.'\nThus, kindness and beneficence were manifested; and in accordance with the miracle-titled order and edict\nof His Royal Excellency, for the delivery of the high letter of good news from the Viceroyalty [Grand Vizier] written to the aforesaid Governor,\nand for the verbal explanation and clarification of the form of the sublime will, from the men of the State\nof the Exalted, the Clerk of the Council of the Sublime Porte, the prosperous Akif Efendi, was specially ordered\nand appointed; and being embarked upon the steamship named *Peyk-i Şevket* from the royal imperial ships,\nhe was dispatched and sent to the side of the aforesaid [Governor]; and containing the matter of his stopping the Imperial Army,\nto His Excellency the Commander-in-Chief of the Eastern Front, the kind Hafiz Pasha,\nspecial correspondence was also flown and sent; and the forward movement of the royal imperial navy\nwas also stopped. May the Excellency of Truth [God], the Protector of servants and Guardian of\nlands, make the life, prosperity, majesty, splendor, glory, and greatness of His Excellency our Master, the wisdom-acquainted Padishah and mercy-adorning King of Kings,\nincreased and abundant;\nand in every one of his royal resolves and intentions which entail good deeds, may He be the helper and guide with divine successes and\neternal facilitations; and in his imperial majesty-sheltering shadow, may all servants\nand slaves be happy and pleased with the acquisition of quiet of state and peace of mind.\nMay He command it. Amen.",
+  "summary": "This document from July 1839 describes the immediate aftermath of the accession of the new Sultan, Abdülmecid I, following the death of Sultan Mahmud II. It details the ceremonial transfer of the late Sultan's body from the Osman Pasha Pavilion to the Topkapi Palace via the Imperial Dockyard. Crucially, it contains a significant imperial decree regarding the ongoing conflict with Mehmed Ali Pasha of Egypt. The new Sultan, emphasizing his desire for peace and reconstruction, declares a pardon for Mehmed Ali Pasha, setting aside past grievances ('what is past is past') to prevent the shedding of Muslim blood. Akif Efendi, Clerk of the Supreme Council, is dispatched on the steamship *Peyk-i Şevket* to deliver this news to Egypt. Simultaneously, orders are sent to Hafiz Pasha, Commander of the Eastern Army, and to the Imperial Navy to halt all offensive movements, signaling a major shift towards diplomatic resolution at the start of the Tanzimat era."
+}
+```

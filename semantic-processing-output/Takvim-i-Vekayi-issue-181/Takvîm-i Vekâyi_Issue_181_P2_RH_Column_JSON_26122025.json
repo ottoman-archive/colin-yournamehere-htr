@@ -1,0 +1,396 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 131",
+    "experiment_date": "Friday, December 26th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET: TAKVÎM-I VEKÂYI (TANZIMAT PROTOCOL 1839) V3",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "181",
+    "hirji_date": "28 Rabi' al-Thani 1255 AH",
+    "gregorian_date": "July 11th 1839",
+    "page": 2,
+    "column": "RH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "ادهم بك افندى مأموريتيله باب عالى يه ميمنت بخش ورود اوله رق ايفاى لوازم",
+      "full_line_transliteration": "Adhem Beg Efendi me'mûriyetiyle Bâb-ı 'Âlî'ye meymenet-bahş vürûd olaraq îfâ-yı levâzım",
+      "literal_English_translation": "Adhem Beg Efendi, with-his-official-duty, to-the-Sublime-Porte auspiciously arrival becoming, the-performance-of necessities...",
+      "flowing_English_modernisation_translation": "Adhem Beg Efendi arrived auspiciously at the Sublime Porte on his official mission, and upon performing the necessities...",
+      "visual_anomalies": [
+        "'olaraq' written defectively as 'awlh rq'"
+      ]
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "استقبال وتعظيم واجراى مراسم اجلال وتكريم ايله بعد التقبيل والتلثيم",
+      "full_line_transliteration": "istiqbâl ve ta'zîm ve icrâ-yı merâsim-i iclâl ve tekrîm ile ba'de't-taqbîl ve't-telsîm",
+      "literal_English_translation": "...reception and honoring and the-execution-of ceremonies-of glorification and respect with, after-the-kissing and-the-greeting...",
+      "flowing_English_modernisation_translation": "...of reception and honoring, and executing the ceremonies of glorification and respect, and after the acts of kissing [the document] and greeting,",
+      "visual_anomalies": [
+        "Arabic definite articles assimilated in transliteration per protocol"
+      ]
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "فتح وقرائت ومضمون مطاوعت مقرونيله تزيين مسامع مصادقت اولنوب",
+      "full_line_transliteration": "feth ve qirâ'at ve mazmûn-ı mutâva'at-maqrûniyle tezyîn-i mesâmi'-i sadâqat olunub",
+      "literal_English_translation": "...opening and reading and the-content-of obedience-joined-with-it-by the-adornment-of ears-of friendship being-made...",
+      "flowing_English_modernisation_translation": "it was opened and read; and by adorning the ears of friendship with its content—which is joined to obedience—",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "ختامنده دعاجى افندى دست برداشته دركاه جناب خدا وذات معاليسمات",
+      "full_line_transliteration": "hitâmında du'âcı efendi dest-ber-dâşte-i dergâh-ı cenâb-ı hudâ ve zât-ı ma'âlî-simât-ı",
+      "literal_English_translation": "...at-its-conclusion the-prayer-reciter Efendi hand-raised-of the-court-of His-Excellency God and the-person-of high-attributes-of...",
+      "flowing_English_modernisation_translation": "at its conclusion, the Prayer-Reciter Efendi raised his hands to the Court of God, and [for] the person of high attributes...",
+      "visual_anomalies": [
+        "'ma'âlî-simât' written as single compound block"
+      ]
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "صدارتپناهى وسائر وكلاى فخام حضراتى وبالجمله رجال وبندكان دخى",
+      "full_line_transliteration": "sadâret-penâhî ve sâ'ir vükelâ-yı fihâm hazarâtı ve bi'l-cümle ricâl ve bendegân dahi",
+      "literal_English_translation": "...the-Grand-Vizierate-refuge and other ministers-of illustrious their-excellencies and all men and servants also...",
+      "flowing_English_modernisation_translation": "...of the Grand Vizier, as well as Their Excellencies the other illustrious ministers, and all the statesmen and servants,",
+      "visual_anomalies": [
+        "'sadâret-penâhî' written without space"
+      ]
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "كمال خلوص ايله امين كويا اوله رق مواظبى اولديغمز ادعيه خيريه",
+      "full_line_transliteration": "kemâl-i hulûs ile âmîn-gûyâ olaraq muvâzıbı olduğumuz ed'iye-i hayriye-i",
+      "literal_English_translation": "...perfection-of sincerity with amen-saying becoming assiduous-of which-we-are prayers-of charitable-of...",
+      "flowing_English_modernisation_translation": "saying \"Amen\" with perfect sincerity, the charitable prayers in which we are assiduous...",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "فزونى عمر وشوكت واقبال حضرت خلافتپناهى وبالترديف دعوات",
+      "full_line_transliteration": "füzûnî-i 'ömr ve şevket ve iqbâl-i hazret-i hilâfet-penâhî ve bi't-terdîf da'vât-ı",
+      "literal_English_translation": "...increase-of life and majesty and prosperity-of His-Excellency the-Caliphate-refuge and consecutively prayers-of...",
+      "flowing_English_modernisation_translation": "...for the increase of the life, majesty, and prosperity of His Excellency the Refuge of the Caliphate, and consecutively the prayers...",
+      "visual_anomalies": [
+        "'hilâfet-penâhî' written without space"
+      ]
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "حسن موفقيت وكالتپناهى تأديه وايفا قلنمش ومآل ميامن اشتمال",
+      "full_line_transliteration": "hüsn-i muvaffaqiyet-i vekâlet-penâhî te'diye ve îfâ qılınmış ve me'âl-i meyâmin-iştimâl-i",
+      "literal_English_translation": "...good success-of the-Vice-regency-refuge payment and performance made-was and the-outcome-of auspiciousness-comprising-of...",
+      "flowing_English_modernisation_translation": "...for the good success of the Vice-regency were paid and performed; and the auspicious outcome...",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "خط شريف شوكت اليف حضرت ملوكانه جلا ساز باصره خواص وعوام",
+      "full_line_transliteration": "hatt-ı şerîf-i şevket-elîf-i hazret-i mülûkâne cilâ-sâz-ı bâsıra-i havâs ve 'avâm",
+      "literal_English_translation": "...Rescript-of Noble-of majesty-familiar-of His-Excellency Imperial polish-maker-of the-sight-of elite and commoners...",
+      "flowing_English_modernisation_translation": "...of the Noble Rescript, familiar with the majesty of His Imperial Excellency, polishing the sight of the elite and commoners [alike],",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "اولمق اوزره تيمنا وتبركا وقلوب ناسى تفريحا اشبو محله دخى عينيله طبع وتمثيل",
+      "full_line_transliteration": "olmaq üzre teyemmünen ve teberrüken ve qulûb-ı nâsı tefrîhan işbu mahalle dahi 'ayniyle tab' ve temsîl",
+      "literal_English_translation": "...to-be upon for-blessing and for-benediction and hearts-of people for-gladdening this place also exactly printing and representation...",
+      "flowing_English_modernisation_translation": "in order to be [so], and for blessing and benediction, and to gladden the hearts of the people, it has been printed and represented exactly in this place also.",
+      "visual_anomalies": [
+        "Tanwin alifs visible on adverbs"
+      ]
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "اولنمشدر",
+      "full_line_transliteration": "olunmuşdur",
+      "literal_English_translation": "it-has-been-made.",
+      "flowing_English_modernisation_translation": "[It has been made].",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "صورت خط همايون",
+      "full_line_transliteration": "Sûret-i Hatt-ı Hümâyûn",
+      "literal_English_translation": "Copy-of Rescript-of Imperial",
+      "flowing_English_modernisation_translation": "COPY OF THE IMPERIAL RESCRIPT",
+      "visual_anomalies": [
+        "Centered Header"
+      ]
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "بنم وزير حميتسمير ومشير صداقتمصيرم خسرو محمد پاشا والد ماجد",
+      "full_line_transliteration": "Benim vezîr-i hamiyet-semîr ve müşîr-i sadâqat-masîrim Hüsrev Muhammed Pâşâ vâlid-i mâcid",
+      "literal_English_translation": "My vizier-of zeal-fruit-bearing and marshal-of loyalty-destination-my Hüsrev Muhammed Pasha father-of glorious...",
+      "flowing_English_modernisation_translation": "My zealous Vizier and loyal Marshal, Hüsrev Muhammed Pasha! My glorious father,",
+      "visual_anomalies": [
+        "'Muhammed' stacked vertically"
+      ]
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "كثير المحامدم سلطان محمود خان حضرتلرينك بتقدير اه تعالى ارتحاللمزى",
+      "full_line_transliteration": "kesîrü'l-mehâmidim Sultân Mahmûd Hân hazretleriniñ bi-taqdîri'llâhi te'âlâ irtihâlleri",
+      "literal_English_translation": "...abundant-of-the-praiseworthy-traits-my Sultan Mahmud Khan His-Excellency's by-the-decree-of-God Exalted his-passing-away...",
+      "flowing_English_modernisation_translation": "of abundant praiseworthy traits, His Excellency Sultan Mahmud Khan, upon his passing by the decree of God Exalted,",
+      "visual_anomalies": [
+        "Nazal Ñ in 'hazretleriniñ'"
+      ]
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "وقوعيله سرير شوكتنصير خلافت بالارث والاستحقاق ذات همايونمزه",
+      "full_line_transliteration": "vukû'iyle serîr-i şevket-nasîr-i hilâfet bi'l-irs ve'l-istihqâq zât-ı hümâyûnumuza",
+      "literal_English_translation": "...with-the-occurrence-of throne-of majesty-helper-of Caliphate by-the-inheritance and-the-entitlement person-of Imperial-our-to...",
+      "flowing_English_modernisation_translation": "and with the transfer of the Throne of the Caliphate—helper of majesty—to my Imperial Person by inheritance and entitlement,",
+      "visual_anomalies": [
+        "'şevket-nasîr' written as compound"
+      ]
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "انتقال ايله بالجمله ممالك وعباد من قبل الرحمن عهده شاهانه مزه تفويض",
+      "full_line_transliteration": "intiqâl ile bi'l-cümle memâlik ve 'ibâd min qibeli'r-rahmân 'uhde-i şâhânemize tefvîz",
+      "literal_English_translation": "...transfer with all kingdoms and servants from the-side-of-the-Merciful charge-of Royal-our-to committed...",
+      "flowing_English_modernisation_translation": "all kingdoms and servants have been committed and entrusted to my Royal charge from the side of the Merciful [God].",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "وتوديع بيورلمش اولديغندن بوعنايت جليله يه تشكرا وعون عنايت حضرت",
+      "full_line_transliteration": "ve tevdî' buyurulmuş olduğundan bu 'inâyet-i celîleye teşekküren ve 'avn-i 'inâyet-i hazret-i",
+      "literal_English_translation": "...and entrusted commanded having-been because-of this favor-of glorious-to in-thanks and help-of favor-of His-Excellency...",
+      "flowing_English_modernisation_translation": "Because this has been ordained, in thanks for this glorious favor, and relying upon the help of the favor of His Excellency",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "بارى وامداد روحانيت جناب پيغمبرى يه استنادا ذمت همت ملكدارانه مزه",
+      "full_line_transliteration": "bârî ve imdâd-ı rûhâniyet-i cenâb-ı peygamberîye istinâden zimmet-i himmet-i melikdârânemize",
+      "literal_English_translation": "...the-Creator and aid-of spirituality-of His-Excellency the-Prophet-to relying-upon debit-of zeal-of kingly-our-to...",
+      "flowing_English_modernisation_translation": "the Creator, and the aid of the spirituality of His Excellency the Prophet, it is incumbent upon the debit of my kingly zeal",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "مترتب اولان بالجمله خصوصاتك شرع شريفه تطبيقاً محور لايقنده اداره سيله",
+      "full_line_transliteration": "müterettib olan bi'l-cümle husûsâtıñ şer'-i şerîfe tatbîqan mihver-i lâyıqında idâresiyle",
+      "literal_English_translation": "...incumbent being all affairs-of Law-of Noble-to conforming axis-of worthy-its-in with-administration...",
+      "flowing_English_modernisation_translation": "to administer all affairs in their worthy axis, conforming to the Noble Sharia,",
+      "visual_anomalies": [
+        "Nazal Ñ in 'husûsâtıñ'"
+      ]
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "كافه اهالى وفقرا وعجزه ورعايا نك استحصال اسايش وحضورلرى امرينك",
+      "full_line_transliteration": "kâffe-i ahâlî ve fuqarâ ve 'aceze ve re'âyânıñ istihsâl-i âsâyiş ve huzûrları emriniñ",
+      "literal_English_translation": "...all-of people and poor and weak and subjects-of acquisition-of peace and comforts-their matter-of...",
+      "flowing_English_modernisation_translation": "and regarding the matter of acquiring the peace and comfort of all the people, the poor, the weak, and the subjects;",
+      "visual_anomalies": [
+        "Nazal Ñ in 're'âyânıñ'"
+      ]
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "اجراسى حظوظ نفس همايونمه ترجيح وبلكه باعث محظوظيت ومباهات",
+      "full_line_transliteration": "icrâsı huzûz-ı nefs-i hümâyûnuma tercîh ve belki bâ'is-i mahzûziyet ve mübâhât",
+      "literal_English_translation": "...execution-its pleasures-of self-of Imperial-my-to preferring and perhaps cause-of pleasure and pride...",
+      "flowing_English_modernisation_translation": "preferring its execution to the pleasures of my own Imperial self, and indeed counting it a cause of pleasure and pride,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "عد ايتمش اولديغمدن اشبو امنيه همايونمزك بتوفيقه تعالى حسن حصولى",
+      "full_line_transliteration": "'add itmiş olduğumdan işbu emniye-i hümâyûnumuzuñ bi-tevfîqihi te'âlâ hüsn-i husûlü",
+      "literal_English_translation": "...counting done having-been-my-from this desire-of Imperial-our-of by-success-His Exalted good attainment-its...",
+      "flowing_English_modernisation_translation": "and since the good attainment of this Imperial desire of ours—by the success of the Exalted [God]—",
+      "visual_anomalies": [
+        "Nazal Ñ in 'hümâyûnumuzuñ'"
+      ]
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "هر حال واطوارده مجرب وكارديده بر ذات حميتسماتك خدمت وكالت كبراده",
+      "full_line_transliteration": "her hâl ve etvârda mücerreb ve kârdîde bir zât-ı hamiyet-simâtıñ hizmet-i vekâlet-i kübrâda",
+      "literal_English_translation": "...every state and manners-in experienced and veteran a person-of zeal-attributes-of service-of deputyship-of great-in...",
+      "flowing_English_modernisation_translation": "appears dependent on the presence of a person of zealous attributes, experienced and veteran in every state and manner, in the service of the Grand Vizierate;",
+      "visual_anomalies": [
+        "Nazal Ñ in 'simâtıñ'"
+      ]
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "بولنمسنه متوقف كورينوب سن دولت عليه مزده سنين وافره دنبرو خطوب",
+      "full_line_transliteration": "bulunmasına mütevaqqıf görünub sen devlet-i 'aliyemizde sinîn-i vâfiredenberü hutûb-ı",
+      "literal_English_translation": "...being-found-his-to dependent appearing you state-of exalted-our-in years-of abundant-since difficulties-of...",
+      "flowing_English_modernisation_translation": "and since you, having acquired fame and distinction in our Exalted State for many years through proof of loyalty and zeal in great difficulties,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "جسيمه ده اثبات صداقت وهمت ايله كسب شهرت وامتياز ايتمش وشيخ الوزرا",
+      "full_line_transliteration": "cesîmede isbât-ı sadâqat ve himmet ile kesb-i şöhret ve imtiyâz itmiş ve şeyhü'l-vüzerâ",
+      "literal_English_translation": "...great-in proof-of loyalty and zeal with acquisition-of fame and distinction done and sheikh-of-the-viziers...",
+      "flowing_English_modernisation_translation": "and having acquired the name 'Doyen of Viziers',",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "نامنى احراز ايلمش اصدقای سلطنت سنيه مدن بولنديغكدن سنى قريحه",
+      "full_line_transliteration": "nâmını ihrâz eylemiş asdaqâ-yı saltanat-ı seniyemden bulunduğuñdan seni qarîha-i",
+      "literal_English_translation": "...name-his acquiring done most-loyal-ones-of sultanate-of sublime-my-from being-found-your-from you idea-of...",
+      "flowing_English_modernisation_translation": "and being found among the most loyal of my Sublime Sultanate; I have selected and appointed you with independence,",
+      "visual_anomalies": [
+        "Nazal Ñ in 'bulunduğuñdan'"
+      ]
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "صبيحه پادشاهانه مدن امور داخليه وخارجيه ومصالح ماليه وعسكريه يه",
+      "full_line_transliteration": "sabîha-i pâdişâhânemden umûr-ı dâhiliye ve hâriciye ve mesâlih-i mâliye ve 'askeriyeye",
+      "literal_English_translation": "...correct-of royal-my-from affairs-of internal and external and interests-of financial and military-to...",
+      "flowing_English_modernisation_translation": "by my correct Royal idea, to the glorious station of the Absolute Grand Vizierate and Deputyship,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "والحاصل كافه خصوصاته نظارت شامله ايله صدارت عظمى ووكالت",
+      "full_line_transliteration": "ve'l-hâsıl kâffe-i husûsâta nezâret-i şâmile ile sadâret-i 'uzmâ ve vekâlet-i",
+      "literal_English_translation": "...and-the-outcome all-of particulars-to supervision-of comprehensive with grand-vizierate-of great and deputyship-of...",
+      "flowing_English_modernisation_translation": "with comprehensive supervision over internal and external affairs, financial and military interests, and in short, all particulars.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "مطلقه كبرا مقام جليلنه بالاستقلال انتخاب وتعيين ايلدم سندخى بوعنايت",
+      "full_line_transliteration": "mutlaqa-i kübrâ maqâm-ı celîline bi'l-istiqlâl intihâb ve ta'yîn eyledim sen dahi bu 'inâyet-i",
+      "literal_English_translation": "...absolute-of great station-of glorious-its-to with-independence selection and appointment I-did you also this favor-of...",
+      "flowing_English_modernisation_translation": "You also, knowing the value and thanks of this glorious Imperial favor of mine,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "جليله پادشاهانه مك قدر وشكرينى بيله رك وحبل متين شريعت مطهره يه",
+      "full_line_transliteration": "celîle-i pâdişâhânemiñ qadr ve şükrünü bilerek ve habl-i metîn-i şerî'at-ı mutahharaya",
+      "literal_English_translation": "...glorious-of royal-my-of value and thanks-its knowing and rope-of strong-of law-of purified-to...",
+      "flowing_English_modernisation_translation": "and holding fast with perfection to the strong rope of the Purified Sharia,",
+      "visual_anomalies": [
+        "Nazal Ñ in 'pâdişâhânemiñ'"
+      ]
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "كماليله توسل وبالجمله وكلاى فخاممله مراسم اتحاد واتفاقه رعايت ايليه رك",
+      "full_line_transliteration": "kemâliyle tevessül ve bi'l-cümle vükelâ-yı fihâmımla merâsim-i ittihâd ve ittifâqa ri'âyet eyleyerek",
+      "literal_English_translation": "...perfection-its-with holding-fast and all ministers-of illustrious-my-with ceremonies-of unity and accord-to observance doing...",
+      "flowing_English_modernisation_translation": "and observing the ceremonies of unity and accord with all my illustrious ministers,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "كافه خصوصات ممالك وعبادك مقتضاى استقلالك اوزره حسن تسويه",
+      "full_line_transliteration": "kâffe-i husûsât-ı memâlik ve 'ibâdıñ muqtezâ-yı istiqlâliñ üzre hüsn-i tesviye",
+      "literal_English_translation": "...all-of affairs-of kingdoms and servants-of requirement-of independence-your upon good settlement...",
+      "flowing_English_modernisation_translation": "may you hasten to the good settlement and execution of all affairs of the kingdoms and servants, upon the requirement of your independence.",
+      "visual_anomalies": [
+        "Nazal Ñ in 'ibâdıñ' and 'istiqlâliñ'"
+      ]
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "وتمشيتنه مبادرت ايليه سن جناب حق سنى وسنكله برابر دين ودولتمه خدمت",
+      "full_line_transliteration": "ve temşiyetine mübâderet eyleyesin cenâb-ı haqq seni ve seninle berâber dîn ve devletime hizmet",
+      "literal_English_translation": "...and execution-its-to hastening may-you-do His-Excellency Truth you and you-with together religion and state-my-to service...",
+      "flowing_English_modernisation_translation": "May His Excellency the Truth [God] make you, and those together with you who render service and loyalty to my religion and state,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "وصداقت ايدنلرى دارينده موفق وعزيز ايلسون آمين",
+      "full_line_transliteration": "ve sadâqat edenleri dâreynde muvaffaq ve 'azîz eylesün âmîn",
+      "literal_English_translation": "...and loyalty those-who-do in-the-two-worlds successful and dear may-He-make amen.",
+      "flowing_English_modernisation_translation": "successful and dear in both worlds. Amen.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "بوندن اقدم دربار شوكتقراره ده نسج واعمال ايله ارسال اولنمش اولان",
+      "full_line_transliteration": "Bundan aqdem derbâr-ı şevket-qarârda nesc ve i'mâl ile irsâl olunmuş olan",
+      "literal_English_translation": "This-from before court-of majesty-abode-in weaving and manufacture with sent made being...",
+      "flowing_English_modernisation_translation": "The Noble Kiswah of the Kaaba the Great, which had been sent previously having been woven and manufactured in the Court of the Abode of Majesty,",
+      "visual_anomalies": [
+        "'şevket-qarârda' written as compound"
+      ]
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "كسوه شريفه كعبه معظمه مقام ملائك خدامنه وضع وتعليق ايله كسوه",
+      "full_line_transliteration": "kisve-i şerîfe-i ka'be-i mu'azzama maqâm-ı melâ'ik-huddâmına vaz' ve ta'lîq ile kisve-i",
+      "literal_English_translation": "...kiswa-of noble-of kaaba-of great station-of angels-servants-its-to placement and hanging with kiswa-of...",
+      "flowing_English_modernisation_translation": "and placed and hung at the station of the angel-servants; the Ancient Noble Kiswah,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "شريفه عتيقه بودفعه صره همايون امينى معاودتيله ميمنت بخش ورود",
+      "full_line_transliteration": "şerîfe-i 'atîqa bu def'a surre-i hümâyûn emîni mu'âvedetiyle meymenet-bahş vürûd",
+      "literal_English_translation": "...noble-of ancient this time surre-of imperial emin-of return-his-with auspiciousness-gift arrival...",
+      "flowing_English_modernisation_translation": "upon the return of the Superintendent of the Imperial Surre this time, arrived auspiciously.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "اولديغندن ماه مذكورك يكرمى درنجى جمعه ايرتسى كونى متعلق بيوريلان",
+      "full_line_transliteration": "olduğundan mâh-ı mezkûruñ yigirmi dördüncü cum'a irtesi günü mute'alliq buyurulan",
+      "literal_English_translation": "...being-its-from month-of mentioned-of twenty fourth Friday following day-of pertaining commanded...",
+      "flowing_English_modernisation_translation": "Therefore, in accordance with the Imperial Will of His Majesty the King which pertained to the twenty-fourth day of the mentioned month, a Saturday,",
+      "visual_anomalies": [
+        "Nazal Ñ in 'mezkûruñ'"
+      ]
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "اراده سنيه حضرت شاهانه موجبنجه بالجمله وكلاى فخام دولت عليه",
+      "full_line_transliteration": "irâde-i seniye-i hazret-i şâhâne mûcibince bi'l-cümle vükelâ-yı fihâm-ı devlet-i 'aliye",
+      "literal_English_translation": "...will-of sublime-of his-excellency royal accordance-its-in all ministers-of illustrious-of state-of exalted...",
+      "flowing_English_modernisation_translation": "all the illustrious ministers of the Exalted State and the Masters of the Procession,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": "وارباب الاى اسكدارده كائن آيريليق چشمه سى نام محلده اجتماع وقرار",
+      "full_line_transliteration": "ve erbâb-ı alay Üsküdar'da kâ'in Ayrılıq Çeşmesi nâm mahalde ictimâ' ve qarâr",
+      "literal_English_translation": "...and masters-of procession Üsküdar-in situated Ayrılık Fountain named place-in gathering and decision...",
+      "flowing_English_modernisation_translation": "gathered and halted at the place named Ayrılık Fountain situated in Üsküdar;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "وكسوه شريفه مباركه نك شرفوصولنه اظهار تحسر وانتظار ايلدكلرى",
+      "full_line_transliteration": "ve kisve-i şerîfe-i mübârekeniñ şeref-vüsûlüne izhâr-ı tahassür ve intizâr eyledikleri",
+      "literal_English_translation": "...and kiswa-of noble-of blessed-of honor-arrival-its-to manifestation-of longing and waiting done-their...",
+      "flowing_English_modernisation_translation": "and while they were manifesting longing and waiting for the honor of the arrival of the Noble Blessed Kiswah,",
+      "visual_anomalies": [
+        "Nazal Ñ in 'mübârekeniñ'"
+      ]
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "حالده كسوه مباركه محل مذكوره نور انداز ظهور ايتمش اولديغنه وتعظيم",
+      "full_line_transliteration": "hâlde kisve-i mübâreke mahal-i mezkûra nûr-endâz-ı zuhûr itmiş olduğuna ve ta'zîm",
+      "literal_English_translation": "...state-in kiswa-of blessed place-of mentioned-to light-throwing-of appearance done being-its-to and honoring...",
+      "flowing_English_modernisation_translation": "the Blessed Kiswah appeared, casting light upon the mentioned place...",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "Adhem Beg Efendi arrived auspiciously at the Sublime Porte on his official mission, and upon performing the necessities...\n...of reception and honoring, and executing the ceremonies of glorification and respect, and after the acts of kissing [the document] and greeting,\nit was opened and read; and by adorning the ears of friendship with its content—which is joined to obedience—\nat its conclusion, the Prayer-Reciter Efendi raised his hands to the Court of God, and [for] the person of high attributes...\n...of the Grand Vizier, as well as Their Excellencies the other illustrious ministers, and all the statesmen and servants,\nsaying \"Amen\" with perfect sincerity, the charitable prayers in which we are assiduous...\n...for the increase of the life, majesty, and prosperity of His Excellency the Refuge of the Caliphate, and consecutively the prayers...\n...for the good success of the Vice-regency were paid and performed; and the auspicious outcome...\n...of the Noble Rescript, familiar with the majesty of His Imperial Excellency, polishing the sight of the elite and commoners [alike],\nin order to be [so], and for blessing and benediction, and to gladden the hearts of the people, it has been printed and represented exactly in this place also.\n[It has been made].\nCOPY OF THE IMPERIAL RESCRIPT\nMy zealous Vizier and loyal Marshal, Hüsrev Muhammed Pasha! My glorious father,\nof abundant praiseworthy traits, His Excellency Sultan Mahmud Khan, upon his passing by the decree of God Exalted,\nand with the transfer of the Throne of the Caliphate—helper of majesty—to my Imperial Person by inheritance and entitlement,\nall kingdoms and servants have been committed and entrusted to my Royal charge from the side of the Merciful [God].\nBecause this has been ordained, in thanks for this glorious favor, and relying upon the help of the favor of His Excellency\nthe Creator, and the aid of the spirituality of His Excellency the Prophet, it is incumbent upon the debit of my kingly zeal\nto administer all affairs in their worthy axis, conforming to the Noble Sharia,\nand regarding the matter of acquiring the peace and comfort of all the people, the poor, the weak, and the subjects;\npreferring its execution to the pleasures of my own Imperial self, and indeed counting it a cause of pleasure and pride,\nand since the good attainment of this Imperial desire of ours—by the success of the Exalted [God]—\nappears dependent on the presence of a person of zealous attributes, experienced and veteran in every state and manner, in the service of the Grand Vizierate;\nand since you, having acquired fame and distinction in our Exalted State for many years through proof of loyalty and zeal in great difficulties,\nand having acquired the name 'Doyen of Viziers',\nand being found among the most loyal of my Sublime Sultanate; I have selected and appointed you with independence,\nby my correct Royal idea, to the glorious station of the Absolute Grand Vizierate and Deputyship,\nwith comprehensive supervision over internal and external affairs, financial and military interests, and in short, all particulars.\nYou also, knowing the value and thanks of this glorious Imperial favor of mine,\nand holding fast with perfection to the strong rope of the Purified Sharia,\nand observing the ceremonies of unity and accord with all my illustrious ministers,\nmay you hasten to the good settlement and execution of all affairs of the kingdoms and servants, upon the requirement of your independence.\nMay His Excellency the Truth [God] make you, and those together with you who render service and loyalty to my religion and state,\nsuccessful and dear in both worlds. Amen.\nThe Noble Kiswah of the Kaaba the Great, which had been sent previously having been woven and manufactured in the Court of the Abode of Majesty,\nand placed and hung at the station of the angel-servants; the Ancient Noble Kiswah,\nupon the return of the Superintendent of the Imperial Surre this time, arrived auspiciously.\nTherefore, in accordance with the Imperial Will of His Majesty the King which pertained to the twenty-fourth day of the mentioned month, a Saturday,\nall the illustrious ministers of the Exalted State and the Masters of the Procession,\ngathered and halted at the place named Ayrılık Fountain situated in Üsküdar;\nand while they were manifesting longing and waiting for the honor of the arrival of the Noble Blessed Kiswah,\nthe Blessed Kiswah appeared, casting light upon the mentioned place...",
+  "summary": "This document, dated July 11, 1839, records the formal reading of an Imperial Rescript (Hatt-ı Hümâyûn) at the Sublime Porte following the death of Sultan Mahmud II and the accession of Sultan Abdülmecid I. The text begins by describing the ceremonial arrival of Adhem Bey Efendi to deliver the rescript, followed by prayers for the new Sultan. The core of the document is the Rescript itself, addressed to Koca Hüsrev Mehmed Pasha. It confirms Hüsrev Pasha's appointment as Grand Vizier (Sadrazam) with absolute authority (vekâlet-i mutlaqa). The young Sultan emphasizes his commitment to Sharia law, justice, and the welfare of all subjects, instructing the Grand Vizier to ensure unity among ministers and effective administration. The final section reports on a separate religious ceremony in Üsküdar at the Ayrılık Fountain, marking the return of the 'Ancient Kiswah' (the old covering of the Kaaba) brought back by the Superintendent of the Imperial Surre."
+}
+```

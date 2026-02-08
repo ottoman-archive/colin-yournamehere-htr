@@ -1,0 +1,284 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 133",
+    "experiment_date": "Friday, December 26th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET: TAKVÎM-I VEKÂYI (TANZIMAT PROTOCOL 1839) V3",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "181",
+    "hirji_date": "28 Rabi' al-Thani 1255 AH",
+    "gregorian_date": "July 11th 1839",
+    "page": 3,
+    "column": "Only column"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "بر وجه بالا جلوس ميامن مأنوس حضرت شهنشاهينك شرفوقوعنه مبنى",
+      "full_line_transliteration": "Ber-vech-i bâlâ cülûs-ı meyâmin-me'nûs-ı hazret-i şehinşâhînüñ şeref-vukû'una mebnî",
+      "literal_English_translation": "On-manner-of above accession-of auspicious-familiar-of presence-of King-of-Kings-of honor-occurrence-to based",
+      "flowing_English_modernisation_translation": "Based on the honorable occurrence of the auspicious accession of His Majesty the King of Kings as described above,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "بالجمله ممالك محروسه المسالك شاهانه ده كائن جوامع شريفه منابرنده",
+      "full_line_transliteration": "bi'l-cümle memâlik-i mahrûsetü'l-mesâlik-i şâhânede kâ'in cevâmi'-i şerîfe menâbirinde",
+      "literal_English_translation": "in-the-whole domains-of guarded-the-paths-of Imperial-in existing mosques-of noble pulpits-in",
+      "flowing_English_modernisation_translation": "in the pulpits of the noble mosques located throughout all the Imperial Well-Protected Domains,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "خطبه منيفه نك نام نامى جناب جهانبانى يه قرائت اولنمسی لازم كلمش",
+      "full_line_transliteration": "hutbe-i münîfenüñ nâm-ı nâmî-i cenâb-ı cihânbânîye kırâ'at olunması lâzım gelmiş",
+      "literal_English_translation": "sermon-of exalted-of name-of illustrious-of Excellency-of World-Guardian-to reading being-done necessary come",
+      "flowing_English_modernisation_translation": "it has become necessary for the exalted sermon to be read in the illustrious name of His Excellency the World Guardian;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "اولديغندن اكا دائر وسائر وصايا وتنبيهات اصابت آيات ملوكانه يه متدائر",
+      "full_line_transliteration": "olduğıñdan aña dâ'ir ve sâ'ir vesâyâ ve tenbîhât-ı isâbet-âyât-ı mülûkâneye mütedâ'ir",
+      "literal_English_translation": "being-from-your that-to concerning and other commandments and admonitions-of correctness-signs-of royal-to circulating",
+      "flowing_English_modernisation_translation": "therefore, concerning this and regarding other commandments and admonitions of Royal correctness,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "اناطولى وروم ايلينده كائن كافه مأمورين فخام وبندكانه خطابا بشقه بشقه",
+      "full_line_transliteration": "Anadolu ve Rum-ili'nde kâ'in kâffe-i me'mûrîn-i fihâm ve bendegâne hitâben başka başka",
+      "literal_English_translation": "Anatolia and Rumelia-in existing all-of officials-of illustrious and servants-to addressing separately separately",
+      "flowing_English_modernisation_translation": "addressed separately to all the illustrious officials and servants located in Anatolia and Rumelia,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "تصدير بيوريلان اوامر معدلت مأثر حضرت شاهانه كمال رحم واشفاق",
+      "full_line_transliteration": "tasdîr buyurulan evâmir-i ma'delet-me'âsir-i hazret-i şâhâne kemâl-i rahm ve işfâk-ı",
+      "literal_English_translation": "issuing ordered orders-of justice-monuments-of presence-of Imperial perfection-of mercy and compassion-of",
+      "flowing_English_modernisation_translation": "the justice-bearing orders of His Imperial Majesty, which have been issued, [reflect] the perfection of the mercy and compassion of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "جناب پادشاهانه دن ناشى اهالى وفقرانك خدمت واقچه اعطاسى مثللو",
+      "full_line_transliteration": "cenâb-ı pâdişâhâneden nâşî ahâlî ve fukarânuñ hizmet ve akçe i'tâsı misillü",
+      "literal_English_translation": "Excellency-of Padishah-from arising inhabitants and poor-of service and money giving-of such-as",
+      "flowing_English_modernisation_translation": "His Imperial Majesty; arising from this, [to ensure] the inhabitants and the poor are spared from such things as giving service and money,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "بار وكالفتدن وقايه لرى مراد عالي سيله مباشر تعيينندن صرف نظر اولنه رق",
+      "full_line_transliteration": "bâr ve külfetden vikâyeleri murâd-ı 'âlîsiyle mübâşir ta'yîninden sarf-ı nazar olunarak",
+      "literal_English_translation": "burden and trouble-from protection-their desire-of sublime-his-with agent appointment-from spending-of view being-done",
+      "flowing_English_modernisation_translation": "and with his sublime desire for their protection from burden and trouble, the appointment of [special] agents has been dispensed with,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "يالكز تاتارلره تسليما كوندرلمش واعلان صدارتى متضمن بر معتاد تسطير",
+      "full_line_transliteration": "yalñız tatarlara teslîmen gönderilmiş ve i'lân-ı sadâreti mutazammın bir mu'tâd tastîr",
+      "literal_English_translation": "only couriers-to delivery-by sent and announcement-of Grand-Vizierate-the containing a customary writing",
+      "flowing_English_modernisation_translation": "and [the orders] have been sent for delivery solely via couriers; and a customary writing containing the announcement of the Grand Vizierate",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "اولنان تحريرات معالى ايات وكالتپناهى دخى ولاة ومتصرفين وسائر مأمورينك",
+      "full_line_transliteration": "olunan tahrîrât-ı ma'âlî-âyât-ı vekâlet-penâhî dahi vülât ve mutasarrıfîn ve sâ'ir me'mûrînuñ",
+      "literal_English_translation": "being-done writings-of high-signs-of Viceregal-Refuge also governors and mutasarrifs and other officials-of",
+      "flowing_English_modernisation_translation": "which has been drafted, along with the Viceregal missives of high import, [are to be given] to the governors, mutasarrifs, and other officials'",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "بوطرفده اولان قپو كتخدا ومدير امورلرينه ويريله رك انلرك وساطت",
+      "full_line_transliteration": "bu tarafda olan kapu kethüdâ ve müdîr-i umûrlarına virilerek anlaruñ vesâtet",
+      "literal_English_translation": "this side-at being gate steward and director-of affairs-their-to being-given their mediation",
+      "flowing_English_modernisation_translation": "representatives and directors of affairs who are present here [in the capital], and through their mediation",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "ومعرفتلريله بالارسال بو ماده لر ايچون فقرا طرفلرندن براقچه وبرحبه النمامسى",
+      "full_line_transliteration": "ve ma'rifetleriyle bi'l-irsâl bu mâddeler içün fukarâ taraflarından bir akçe ve bir habbe alınmaması",
+      "literal_English_translation": "and knowledge-their-with by-the-sending these matters for poor sides-their-from one coin and one grain not-being-taken",
+      "flowing_English_modernisation_translation": "and knowledge they are to be sent; and that for these matters not a single coin nor a grain should be taken from the poor,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "خصوصى مؤكدا تنبيه قلنمش ودارالسلطنة السنيه اهاليسنه دخى هر حالده",
+      "full_line_transliteration": "husûsı mü'ekkeden tenbîh kılınmış ve Dârü's-saltanati's-seniyye ahâlîsine dahi her hâlde",
+      "literal_English_translation": "particular-the emphatically warning made and Abode-of-Sultanate-the-Sublime inhabitants-to also every condition-in",
+      "flowing_English_modernisation_translation": "this particular point has been emphatically warned; and also to the inhabitants of the Sublime Abode of the Sultanate [Istanbul], in every case,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "اوامر الهيه نك اجراسنه وتحصيل رضاى بارى فريضه سنك بر قات دخى",
+      "full_line_transliteration": "evâmir-i ilâhiyenüñ icrâsına ve tahsîl-i rızâ-yı bârî farîzasınıñ bir kat dahi",
+      "literal_English_translation": "orders-of divine-of execution-to and acquisition-of approval-of Creator duty-of one fold also",
+      "flowing_English_modernisation_translation": "regarding the execution of Divine commands and the duty of acquiring the Creator's approval, once again",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "استكمالنه دقت واعتنا اولنمسی متضمن تنبيهات شرعيه مقتضيه اجرا ايتدرلمش",
+      "full_line_transliteration": "istikmâline dikkat ve i'tinâ olunması mutazammın tenbîhât-ı şer'iyye-i muktaziye icrâ etdirilmiş",
+      "literal_English_translation": "perfection-its-to care and attention being-done containing warnings-of Sharia-of required execution made-to-do",
+      "flowing_English_modernisation_translation": "the necessary Sharia-compliant warnings containing instructions to pay care and attention to their perfection have been carried out;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "اولمغله لاجل الاخطار بو محلده دخى بيان واشعار اولندى",
+      "full_line_transliteration": "olmağla li-ecli'l-ihtâr bu mahalde dahi beyân ve iş'âr olundı",
+      "literal_English_translation": "being-with for-reason-of-the-reminder this place-in also declaration and notification was-done",
+      "flowing_English_modernisation_translation": "therefore, for the sake of reminder, it has been declared and notified in this place as well.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "ابنيه خاصه مديرى سابق عبد الحليم افندينك بالايجاب ينه مديرلك مذكوره",
+      "full_line_transliteration": "Ebniye-i Hâssa Müdîri sâbık Abdülhalim Efendiniñ bi'l-îcâb yine müdîrlik-i mezkûre",
+      "literal_English_translation": "Buildings-of Imperial Director former Abdülhalim Efendi-of by-the-necessity again directorship-of aforesaid-to",
+      "flowing_English_modernisation_translation": "The former Director of Imperial Buildings, Abdülhalim Efendi, has by necessity been appointed again to the aforesaid directorship,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "تعيينى وخدمت مرقومه ده بولنان ديكر عبد الحليم افندينك دخى خداوندكار",
+      "full_line_transliteration": "ta'yîninden ve hizmet-i merkûmede bulunan dîger Abdülhalim Efendiniñ dahi Hüdâvendigâr",
+      "literal_English_translation": "appointment-his and service-of aforesaid-in finding other Abdülhalim Efendi-of also Hüdavendigar",
+      "flowing_English_modernisation_translation": "and the other Abdülhalim Efendi, who was in the aforesaid service, has been assigned to the Hüdavendigar [Bursa]",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "خلدآشيان حضرتلرينك تربه منيفه لرى انشا وتنظيمنه مأموريتى خصوصلی",
+      "full_line_transliteration": "huld-âşiyân hazretleriniñ türbe-i münîfeleri inşâ ve tanzîmine me'mûriyeti husûsları",
+      "literal_English_translation": "paradise-dwelling Excellencies-their-of tomb-of exalted-their construction and arrangement-to official-duty-his particulars-their",
+      "flowing_English_modernisation_translation": "Paradise-dwelling Majesty's exalted tomb construction and arrangement duty;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "تنسيب واراده بيورلمش ومومى اليهما ماه مذكورك يكرمى",
+      "full_line_transliteration": "tensîb ve irâde buyurulmuş ve mûmâ-ileyhimâ mâh-ı mezkûruñ yigirmi",
+      "literal_English_translation": "approval and decree ordered and aforesaid-two month-of aforesaid-of twenty",
+      "flowing_English_modernisation_translation": "these matters having been approved and decreed, the two aforesaid individuals, on the twentieth",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "ايكنجى پنجشنبه كونى باب عالى يه جلب ايله مأموريتلرى اجرا واعلان",
+      "full_line_transliteration": "ikinci pencşenbe güni Bâb-ı 'Âlî'ye celb ile me'mûriyetleri icrâ ve i'lân",
+      "literal_English_translation": "second Thursday day-of Gate-of High-to summoning with duties-their execution and announcement",
+      "flowing_English_modernisation_translation": "second day of the aforesaid month, a Thursday, were summoned to the Sublime Porte, and their duties were executed and announced",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "اولنمشدر",
+      "full_line_transliteration": "olunmuşdur",
+      "literal_English_translation": "has-been-done",
+      "flowing_English_modernisation_translation": "accordingly.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "توجيهات علميه",
+      "full_line_transliteration": "Tevcîhât-ı 'İlmiyye",
+      "literal_English_translation": "Appointments-of Learned-Class",
+      "flowing_English_modernisation_translation": "APPOINTMENTS OF THE ILMIYE [LEARNED CLASS]",
+      "visual_anomalies": ["Centered Header"]
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "ميمنت افزاى سنوح وصدور بيوريلان امر همايون عاطفت نمون",
+      "full_line_transliteration": "meymenet-afzâ-yı sünûh ve sudûr buyurulan emr-i hümâyûn-ı 'âtıfet-nümûn",
+      "literal_English_translation": "prosperity-increasing-of manifestation and issuance ordered command-of Imperial-of benevolence-showing",
+      "flowing_English_modernisation_translation": "By the prosperity-increasing manifestation and issuance of the benevolence-showing Imperial Command,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "واراده سنيه الافاده معالى مرهون جناب شهنشاهى اقتضاى عاليسنجه",
+      "full_line_transliteration": "ve irâde-i seniyye-i el-ifâde-i ma'âlî-merhûn-ı cenâb-ı şehinşâhî iktizâ-yı 'âlîsince",
+      "literal_English_translation": "and decree-of sublime-of the-expression-of high-pledged-of Excellency-of King-of-Kings requirement-of sublime-according-to",
+      "flowing_English_modernisation_translation": "and in accordance with the sublime requirement of the noble decree pledged to high meaning of His Majesty the King of Kings:",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "مكه مكرمه شرفها الله تعالى الى يوم الاخره قضا سى سنه اتيه محرم الحرامى",
+      "full_line_transliteration": "Mekke-i Mükerreme şerrefeha'llâhu te'âlâ ilâ yevmi'l-âhire kazâsı sene-i âtiye Muharremü'l-harâmı",
+      "literal_English_translation": "Mecca-of Honored honored-it-God Exalted to day-of the-end judgeship-its year-of coming Muharrem-of the-sacred",
+      "flowing_English_modernisation_translation": "The judgeship of Mecca the Honored—may God Exalted honor it until the Last Day—is to be held from the first of Muharrem of the coming year,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "غره سندن ضبط ايتمك ورتبه معتبره سى يوم توجيهندن اعتبار اولنمق اوزره",
+      "full_line_transliteration": "gurresinden zabt itmek ve rütbe-i mu'teberesi yevm-i tevcîhinden i'tibâr olunmak üzre",
+      "literal_English_translation": "first-day-its-from recording to-do and rank-of respected-its day-of appointment-from consideration being-done upon",
+      "flowing_English_modernisation_translation": "and its respected rank is to be considered valid from the day of appointment;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "سابقا قدس شريف قاضيسى خطوانى زاده حفيدي السيد يحيى توفيق",
+      "full_line_transliteration": "sâbıkan Kudüs-i Şerîf Kâdısı Hatvânî-zâde hafîdi es-Seyyid Yahyâ Tevfîk",
+      "literal_English_translation": "formerly Jerusalem-of Noble Judge-of Hatvani-son grandson-his es-Seyyid Yahya Tevfik",
+      "flowing_English_modernisation_translation": "[this has been granted to] the former Judge of Jerusalem the Noble, the grandson of Hatvanizade, es-Seyyid Yahya Tevfik",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "افندى يه ومدينه منوره دامت بالسعاده الازليه مسوره قضا سى كذلك",
+      "full_line_transliteration": "Efendi'ye ve Medîne-i Münevvere dâmet bi's-sa'âdeti'l-ezeliye mesûre kazâsı kezâlik",
+      "literal_English_translation": "Efendi-to and Medina-of Illuminated may-it-endure with-the-happiness-of the-eternal walled judgeship-its likewise",
+      "flowing_English_modernisation_translation": "Efendi. Likewise, the judgeship of Medina the Illuminated—may it endure with eternal happiness—",
+      "visual_anomalies": ["'Mesûre' (walled) is distinct in ink, though rare in this context."]
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "غره مرقومه دن ضبط اولنمق ورتبه سى توجيهى كونندن معتبر قلنمق اوزره",
+      "full_line_transliteration": "gurre-i merkûmeden zabt olunmak ve rütbesi tevcîhi gününden mu'teber kılınmak üzre",
+      "literal_English_translation": "first-day aforesaid-from recording being-done and rank-its appointment-its day-from valid being-made upon",
+      "flowing_English_modernisation_translation": "is to be held from the aforesaid first day [of Muharrem], with its rank valid from the day of appointment,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "قره حصار صاحبلى احمد افندى يه اشبو ربيع الاخرك يكرمى صالى كونى",
+      "full_line_transliteration": "Karahisâr-ı Sâhibli Ahmed Efendi'ye işbu Rebî'ü'l-âhiriñ yigirmi salı güni",
+      "literal_English_translation": "Karahisar-i Sahib-from Ahmed Efendi-to this Rabi-al-Thani-of twenty Tuesday day-of",
+      "flowing_English_modernisation_translation": "[and has been granted to] Ahmed Efendi of Afyonkarahisar. On this Tuesday, the twentieth of Rabi' al-Thani,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "با اشارت عليه جناب فتواپناهى توجيه واحسان وبشقه بشقه امر عاليلرى",
+      "full_line_transliteration": "bâ-işâret-i 'aliyye-i cenâb-ı fetvâ-penâhî tevcîh ve ihsân ve başka başka emr-i 'âlîleri",
+      "literal_English_translation": "by-sign-of high-of Excellency-of Fatwa-Refuge appointment and favor and separate separate command-of sublime-their",
+      "flowing_English_modernisation_translation": "by the high sign of His Excellency the Refuge of Fatwas [Sheikh ul-Islam], these appointments and favors were granted, and separate sublime orders",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "اصداريله مومى اليهما شادان بيورلمشدر",
+      "full_line_transliteration": "ısdârıyla mûmâ-ileyhimâ şâdân buyurulmuşdur",
+      "literal_English_translation": "issuance-with aforesaid-two happy ordered",
+      "flowing_English_modernisation_translation": "were issued, thereby gladdening the two aforesaid individuals.",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "Based on the honorable occurrence of the auspicious accession of His Majesty the King of Kings as described above,\nin the pulpits of the noble mosques located throughout all the Imperial Well-Protected Domains,\nit has become necessary for the exalted sermon to be read in the illustrious name of His Excellency the World Guardian;\ntherefore, concerning this and regarding other commandments and admonitions of Royal correctness,\naddressed separately to all the illustrious officials and servants located in Anatolia and Rumelia,\nthe justice-bearing orders of His Imperial Majesty, which have been issued, [reflect] the perfection of the mercy and compassion of\nHis Imperial Majesty; arising from this, [to ensure] the inhabitants and the poor are spared from such things as giving service and money,\nand with his sublime desire for their protection from burden and trouble, the appointment of [special] agents has been dispensed with,\nand [the orders] have been sent for delivery solely via couriers; and a customary writing containing the announcement of the Grand Vizierate\nwhich has been drafted, along with the Viceregal missives of high import, [are to be given] to the governors, mutasarrifs, and other officials'\nrepresentatives and directors of affairs who are present here [in the capital], and through their mediation\nand knowledge they are to be sent; and that for these matters not a single coin nor a grain should be taken from the poor,\nthis particular point has been emphatically warned; and also to the inhabitants of the Sublime Abode of the Sultanate [Istanbul], in every case,\nregarding the execution of Divine commands and the duty of acquiring the Creator's approval, once again\nthe necessary Sharia-compliant warnings containing instructions to pay care and attention to their perfection have been carried out;\ntherefore, for the sake of reminder, it has been declared and notified in this place as well.\nThe former Director of Imperial Buildings, Abdülhalim Efendi, has by necessity been appointed again to the aforesaid directorship,\nand the other Abdülhalim Efendi, who was in the aforesaid service, has been assigned to the Hüdavendigar [Bursa]\nParadise-dwelling Majesty's exalted tomb construction and arrangement duty;\nthese matters having been approved and decreed, the two aforesaid individuals, on the twentieth\nsecond day of the aforesaid month, a Thursday, were summoned to the Sublime Porte, and their duties were executed and announced\naccordingly.\nAPPOINTMENTS OF THE ILMIYE [LEARNED CLASS]\nBy the prosperity-increasing manifestation and issuance of the benevolence-showing Imperial Command,\nand in accordance with the sublime requirement of the noble decree pledged to high meaning of His Majesty the King of Kings:\nThe judgeship of Mecca the Honored—may God Exalted honor it until the Last Day—is to be held from the first of Muharrem of the coming year,\nand its respected rank is to be considered valid from the day of appointment;\n[this has been granted to] the former Judge of Jerusalem the Noble, the grandson of Hatvanizade, es-Seyyid Yahya Tevfik\nEfendi. Likewise, the judgeship of Medina the Illuminated—may it endure with eternal happiness—\nis to be held from the aforesaid first day [of Muharrem], with its rank valid from the day of appointment,\n[and has been granted to] Ahmed Efendi of Afyonkarahisar. On this Tuesday, the twentieth of Rabi' al-Thani,\nby the high sign of His Excellency the Refuge of Fatwas [Sheikh ul-Islam], these appointments and favors were granted, and separate sublime orders\nwere issued, thereby gladdening the two aforesaid individuals.",
+  "summary": "This document from the Takvîm-i Vekâyi (July 1839) outlines administrative and religious appointments following the accession of the new Sultan (Abdülmecid I). It mandates that the Friday sermon (hutbe) be read in the new Sultan's name across all imperial domains. To spare the populace from financial burden, the dispatch of special agents is cancelled; instead, orders are sent via couriers to local officials through their representatives in Istanbul, with strict warnings against extracting money from the poor. Administratively, Abdülhalim Efendi is reinstated as Director of Imperial Buildings, while another Abdülhalim Efendi is assigned to oversee the construction of the late Sultan's tomb in Bursa. In the Ilmiye (religious) class, es-Seyyid Yahya Tevfik is appointed Judge of Mecca, and Ahmed Efendi is appointed Judge of Medina, effective from the coming Muharrem."
+}
+```
