@@ -1,0 +1,468 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 122",
+    "prompt": "Generation 10A HTR SKILL SHEET V2",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "Issue 185",
+    "date": "September 25th, 1839",
+    "page": 2,
+    "column": "RH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "اشیانه ده كائن بعض محال ومواقعی سیر و تماشا ایتمك اوزره بوندن اقدم",
+      "full_line_transliteration": "Aşiyanede kâin ba'zı mahal ve mevaki'i seyr ve temaşa itmek üzere bundan akdem",
+      "literal_English_translation": "In-Aşiyan existing some places and locations-acc viewing and watching to-do in-order-to this-from before",
+      "flowing_English_modernisation_translation": "Some time ago, in order to view and observe certain places and locations in Aşiyan,",
+      "visual_anomalies": [
+        "Standard lithographic script."
+      ]
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "دولت مشارالیهانك بر قطعه بكلك واپورسفینه سیله در سعادته كلمش و بومقوله",
+      "full_line_transliteration": "devlet-i müşarünileyhanın bir kıt'a beylik vapur sefinesiyle Dersaadet'e gelmiş ve bu makule",
+      "literal_English_translation": "state-of aforesaid-of a piece government steamboat ship-with Istanbul-to come and this category",
+      "flowing_English_modernisation_translation": "he came to Istanbul on a government steamship belonging to the aforesaid State, and regarding this category",
+      "visual_anomalies": [
+        "'Vapur sefinesi' is written as a compound phrase."
+      ]
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "دول فخیمه مأمورلرندن دربار شوكتقراره ورود ايدنلر حقلرنده طرف",
+      "full_line_transliteration": "düvel-i fahime memurlarından derbar-ı şevket-karara vürud idenler haklarında taraf-ı",
+      "literal_English_translation": "states-of illustrious officials-of court-of majesty-abode-to arrival making-ones rights-their-in side-of",
+      "flowing_English_modernisation_translation": "of officials from illustrious states who arrive at the Majestic Court, on the part of",
+      "visual_anomalies": [
+        "'Şevket-karar' written as a compound."
+      ]
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "دولت علیه دن مراسم حرمت والتفات سنیه اجرا بیورلمقده اوله رق امرال",
+      "full_line_transliteration": "devlet-i aliyeden merasim-i hürmet ve iltifat-ı seniye icra buyurulmakda olarak amiral-i",
+      "literal_English_translation": "state-of exalted-from ceremonies-of respect and compliment-of imperial execution ordered-being being admiral-of",
+      "flowing_English_modernisation_translation": "the Exalted State, ceremonies of respect and imperial compliments are customarily performed. Since the aforesaid Admiral",
+      "visual_anomalies": [
+        "'Buyurulmakda' retains 'd' (hard consonant rule)."
+      ]
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "مومى اليه دخی دولت مشارالیهانك مسن و معتبر امرای بحریه سندن بولنمش",
+      "full_line_transliteration": "mumaileyh dahi devlet-i müşarünileyhanın müsin ve mu'teber ümera-yı bahriyesinden bulunmuş",
+      "literal_English_translation": "aforesaid also state-of aforesaid-of aged and esteemed commanders-of naval-from found",
+      "flowing_English_modernisation_translation": "is also among the aged and esteemed naval commanders of the aforesaid State,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "اولدیغندن بین الدولتین دركار واستوار اولان اثار صفوت وحرمت اقتضا سنجه",
+      "full_line_transliteration": "olduğundan beyneddüleyn derkar ve istivar olan asar-ı safvet ve hürmet iktizasınca",
+      "literal_English_translation": "being-from between-the-two-states evident and stable being traces-of purity and respect requirement-by",
+      "flowing_English_modernisation_translation": "in accordance with the requirements of the signs of sincerity and respect that are evident and established between the two States,",
+      "visual_anomalies": [
+        "'Olduğundan' written with ghain."
+      ]
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "مومى اليه ماه سابقك يكرمی برنجی كونی ما بین همایون ملوكانه یه جلب",
+      "full_line_transliteration": "mumaileyh mah-ı sabıkın yirmi birinci günü mabeyn-i hümayun-ı mülukaneye celb",
+      "literal_English_translation": "aforesaid month-of previous-of twenty first day palace-of imperial-of royal-to summons",
+      "flowing_English_modernisation_translation": "the aforesaid [Admiral] was summoned to the Royal Imperial Palace on the twenty-first day of the previous month,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "وحضور شاهانه یه مثول ایله حقنده التفات سنیه شایان بیور لمش و چند روز",
+      "full_line_transliteration": "ve huzur-ı şahaneye müsül ile hakkında iltifat-ı seniye şayan buyurulmuş ve çend rûz",
+      "literal_English_translation": "and presence-of royal-to appearance with right-his-in compliment-of imperial worthy ordered and a-few day",
+      "flowing_english_modernisation_translation": "and upon appearing in the Royal Presence, he was deemed worthy of imperial compliments. After a few days",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "مرورندن صكره ینه سفینه مرقومه یه راكبا دوننمای مذكور جانبنه عودت",
+      "full_line_transliteration": "mürurundan sonra yine sefine-i merkumeye rakiben donanma-yı mezkur canibine avdet",
+      "literal_English_translation": "passing-from after again ship-of mentioned-to embarking fleet-of mentioned side-to return",
+      "flowing_English_modernisation_translation": "had passed, embarking again on the mentioned ship, he returned to the side of the mentioned fleet",
+      "visual_anomalies": [
+        "'Rakiben' written with tanwin alif."
+      ]
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "وعزیمت ایتمشدر",
+      "full_line_transliteration": "ve azimet itmişdir",
+      "literal_English_translation": "and departure done-has",
+      "flowing_English_modernisation_translation": "and departed.",
+      "visual_anomalies": [
+        "'İtmişdir' retains 'd' suffix."
+      ]
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "",
+      "full_line_transliteration": "",
+      "literal_English_translation": "",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": [
+        "--- Paragraph Break ---"
+      ]
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "جلوس همایون شاهانه نك شرف وقوعندن ناشی در سعادتده اقامته مأمور اولان",
+      "full_line_transliteration": "Cülus-ı hümayun-ı şahanenin şeref-i vukuundan naşi Dersaadet'de ikamete memur olan",
+      "literal_English_translation": "Accession-of imperial-of royal-of honor-of occurrence-from arising Istanbul-in residence-to officer being",
+      "flowing_English_modernisation_translation": "Due to the honorable occurrence of the Royal Imperial Accession, for the purpose of renewing the diplomatic mission",
+      "visual_anomalies": [
+        "'Dersaadet'de' retains 'd'."
+      ]
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "فرانسه دولتی ایلچیسنك تجدید مأموریت سفارتی ضمننده حشمتلو فرانسه",
+      "full_line_transliteration": "Fransa devleti elçisinin tecdid-i memuriyet-i sefareti zımnında haşmetlü Fransa",
+      "literal_English_translation": "France state ambassador-of renewal-of mission-of embassy-his purpose-in majestic France",
+      "flowing_English_modernisation_translation": "of the Ambassador of the French State who is assigned to reside in Istanbul, a letter of credence",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "قرالی و پادشاهی جنابلری طرفندن بر قطعه اعتماد نامه ورود ايدرك كچنکی تقویمده",
+      "full_line_transliteration": "kralı ve padişahı cenabları tarafından bir kıt'a itimadname vürud iderek geçenki takvimde",
+      "literal_English_translation": "king-his and padishah-his excellencies side-from a piece letter-of-credence arrival making previous-in calendar-in",
+      "flowing_English_modernisation_translation": "having arrived from His Majesty the King and Padishah of France; as stated in the previous calendar (Takvim-i Vekayi)",
+      "visual_anomalies": [
+        "'İderek' written with 'i' (aux verb shift)."
+      ]
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "بیان اولندیغی واصول جاریه و مرعیه دن بولندیغی اوزره ایلچی مومى اليه",
+      "full_line_transliteration": "beyan olundığı ve usul-i cariye ve mer'iyeden bulundığı üzere elçi-i mumaileyh",
+      "literal_English_translation": "stated being and procedure-of current and observed-from being upon ambassador-of aforesaid",
+      "flowing_English_modernisation_translation": "and in accordance with current and observed protocol, the aforesaid Ambassador",
+      "visual_anomalies": [
+        "'Olundığı/Bulundığı' retains dotless 'ı' (vowel lock)."
+      ]
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "ماه سابقك ايكنجی بازار ایرتسی كونی حضور همایون شاهانه یه مثول ایله",
+      "full_line_transliteration": "mah-ı sabıkın ikinci pazar ertesi günü huzur-ı hümayun-ı şahaneye müsül ile",
+      "literal_English_translation": "month-of previous-of second Sunday after day presence-of imperial-of royal-to appearance with",
+      "flowing_English_modernisation_translation": "appeared in the Royal Imperial Presence on the second Monday of the previous month,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "اعتماد نامه سنی عرض و تقدیم ایتمشیدی حشمتلو روسیه ایمپراطوری و پادشاهی",
+      "full_line_transliteration": "itimadnamesini arz ve takdim itmişidi haşmetlü Rusya imparatoru ve padişahı",
+      "literal_English_translation": "letter-of-credence-his-acc presentation and submission done-had majestic Russia emperor and padishah",
+      "flowing_English_modernisation_translation": "and presented and submitted his letter of credence. Besides the letter of congratulation from His Majesty the Emperor and Padishah of Russia",
+      "visual_anomalies": [
+        "'İtmişidi' retains 'd'."
+      ]
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "جنابلرينك دخی مقدمجه ورود ایدن تبریكنا مه سندن بشقه بو دفعه دخی",
+      "full_line_transliteration": "cenablarının dahi mukaddemce vürud iden tebriknamesinden başka bu def'a dahi",
+      "literal_English_translation": "excellencies-of also previously arrival making letter-of-congratulation-from other this time also",
+      "flowing_english_modernisation_translation": "which had arrived previously, this time a letter of credence containing the renewal of the diplomatic mission",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "تجدید مأموریت سفارتی متضمن بر قطعه اعتماد نامه سی كلمش و انی متعاقبا",
+      "full_line_transliteration": "tecdid-i memuriyet-i sefareti mutazammın bir kıt'a itimadnamesi gelmiş ve anı müteakiben",
+      "literal_English_translation": "renewal-of mission-of embassy containing a piece letter-of-credence-his come and that-acc following",
+      "flowing_english_modernisation_translation": "has also arrived. Following that,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "حشمتلو اوستریا ایمپراطوری و پادشاهی جنابلرينك دخی در سعادتده مقیم",
+      "full_line_transliteration": "haşmetlü Avusturya imparatoru ve padişahı cenablarının dahi Dersaadet'de mukim",
+      "literal_English_translation": "majestic Austria emperor and padishah excellencies-of also Istanbul-in resident",
+      "flowing_english_modernisation_translation": "a letter of credence likewise covering the renewal of the mission of the Ambassador",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "ایلچیسنك كذلك تجدید مأموریتی شامل اعتماد نامه سی توارد ایتمش",
+      "full_line_transliteration": "elçisinin kezalik tecdid-i memuriyeti şamil itimadnamesi tevarüd itmiş",
+      "literal_English_translation": "ambassador-of likewise renewal-of mission covering letter-of-credence-his arrival done",
+      "flowing_english_modernisation_translation": "of His Majesty the Emperor and Padishah of Austria, resident in Istanbul, has arrived.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "و ذكر اولنان اعتماد نامه لرك خاكپای همایون شهریاری یه عرض و تقدیمنه",
+      "full_line_transliteration": "ve zikr olunan itimadnamelerin hakpay-ı hümayun-ı şehriyarîye arz ve takdimine",
+      "literal_English_translation": "and mentioned being letters-of-credence-of dust-foot-of imperial-of royal-to presentation and submission-to",
+      "flowing_english_modernisation_translation": "Since Royal Imperial permission was granted for the presentation and submission of the mentioned letters of credence",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "مساعده سنیه شاهانه شایان بیورلمش اولدیغندن مومى اليه روسیه ایلچیسی",
+      "full_line_transliteration": "müsaade-i seniye-i şahane şayan buyurulmuş olduğundan mumaileyh Rusya elçisi",
+      "literal_English_translation": "permission-of imperial-of royal worthy ordered being-from aforesaid Russia ambassador",
+      "flowing_english_modernisation_translation": "to the Imperial Royal dust-foot; the aforesaid Ambassador of Russia",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "اشبو ماه حالك غره غراسی اولان بازار ایرتسی كونی و مومى اليه اوستریا ایلچیسی",
+      "full_line_transliteration": "işbu mah-ı halin gurre-i garrası olan pazar ertesi günü ve mumaileyh Avusturya elçisi",
+      "literal_English_translation": "this month-of current-of first-day-of bright being Sunday after day and aforesaid Austria ambassador",
+      "flowing_english_modernisation_translation": "on Monday, the bright first day of this current month, and the aforesaid Ambassador of Austria",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "دخی اوچنجی چهار شنبه كونی بكلر بكی ساحلسرای همایوننه جلب ایله",
+      "full_line_transliteration": "dahi üçüncü çarşenbe günü Beylerbeyi Sahilsaray-ı Hümayununa celb ile",
+      "literal_English_translation": "also third Wednesday day Beylerbeyi Seaside-Palace-of Imperial-to summons with",
+      "flowing_english_modernisation_translation": "on Wednesday the third, were summoned to the Imperial Seaside Palace of Beylerbeyi.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "ذات والای صدارتپناهی و جناب سامی سرعسكری و خارجه ناظری مشارالیه",
+      "full_line_transliteration": "zat-ı vala-yı sadaret-penahî ve cenab-ı sami-i seraskerî ve hariciye nazırı müşarünileyh",
+      "literal_English_translation": "person-of high-of grand-vizierate-refuge and excellency-of high-of serasker and foreign minister the-aforesaid",
+      "flowing_english_modernisation_translation": "With the High Person of the Grand Vizierate, the High Excellency the Serasker, and the Foreign Minister the aforesaid",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "رشید پاشا حضرتلری مابین همایون شاهانه ده موجود بولندقلری حالده",
+      "full_line_transliteration": "Reşid Paşa hazretleri mabeyn-i hümayun-ı şahanede mevcud bulundukları halde",
+      "literal_English_translation": "Reşid Pasha excellency-his palace-of imperial-of royal-in present being-their condition-in",
+      "flowing_english_modernisation_translation": "Reşid Pasha being present in the Royal Imperial Palace,",
+      "visual_anomalies": [
+        "'Bulundukları' uses qaf."
+      ]
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "قاعده مرعیه سلطنت سنیه اوزره ایلچی مومى اليهما حضور مألوف",
+      "full_line_transliteration": "kaide-i mer'iye-i saltanat-ı seniye üzere elçi-i mumaileyhima huzur-ı me'luf",
+      "literal_English_translation": "rule-of observed-of sultanate-of imperial upon ambassador-of aforesaid-two presence-of accustomed",
+      "flowing_english_modernisation_translation": "according to the observed rule of the Imperial Sultanate, the two aforesaid Ambassadors appeared in the accustomed",
+      "visual_anomalies": [
+        "'Mumaileyhima' (dual form)."
+      ]
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "ملوكانه یه مثول و اعتماد نامه لرینی بالتقدیم كندولری نائل التفات شهنشاه",
+      "full_line_transliteration": "mülukaneye müsül ve itimadnamelerini bittakdim kendüleri nail-i iltifat-ı şehenşah",
+      "literal_English_translation": "royal-to appearance and letters-of-credence-their-acc by-presenting themselves attainer-of compliment-of king-of-kings",
+      "flowing_english_modernisation_translation": "Royal Presence, and by presenting their letters of credence, they attained the compliments of the King of Kings,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "مكارمشمول اوله رق دولت علیه ابدی الدوام ایله دول فخیمه لری میانه سنده",
+      "full_line_transliteration": "mekarim-şümul olarak devlet-i aliye-i ebediyyü'd-devam ile düvel-i fahimeleri miyanesinde",
+      "literal_English_translation": "noble-qualities-comprehensive being state-of exalted-of eternal-duration with states-of illustrious-their midst-in",
+      "flowing_english_modernisation_translation": "which encompass noble qualities. Regarding the perfect peace, purity, desirable relations, and friendship",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "دركار و رهین مركز استقرار اولان كمال سلم و صفوت و مأثر مرغوبه و دادكاری",
+      "full_line_transliteration": "derkar ve rehin-i merkez-i istikrar olan kemal-i silm ve safvet ve me'asir-i mergube ve dadkârî",
+      "literal_English_translation": "evident and subject-of center-of stability being perfection-of peace and purity and feats-of desirable and friendship",
+      "flowing_english_modernisation_translation": "that are evident and stabilized between the Eternal Exalted State and their illustrious States;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "و مخادنت اعصار سابقه ده جاری اولدیغی مثللو زمان میامن اقترن شاهانه ده دخی",
+      "full_line_transliteration": "ve muhadenet a'sar-ı sabıkada cari oldığı misillü zaman-ı meyamin-iktiran-ı şahanede dahi",
+      "literal_English_translation": "and friendship ages-of previous-in current being like time-of auspiciousness-conjoined-of royal-in also",
+      "flowing_english_modernisation_translation": "just as it was current in previous ages, that it is also embraced and observed in the auspicious Royal time,",
+      "visual_anomalies": [
+        "'Oldığı' retains dotless 'ı'."
+      ]
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "ملتزم و مرعی و شیرازه عهود و شروط معقوده هر دم وان انحلالدن",
+      "full_line_transliteration": "mültezem ve mer'i ve şiraze-i uhud ve şurut-ı makude her dem ve an inhilalden",
+      "literal_English_translation": "embraced and observed and binding-of treaties and conditions-of concluded every moment and instant dissolution-from",
+      "flowing_english_modernisation_translation": "and that the binding of concluded treaties and conditions is free from dissolution at every moment and instant,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "بری اولدیغنه دائر مومى اليهما یه بشقه بشقه نطق همایون شاهانه ایراد",
+      "full_line_transliteration": "berî oldığına dair mumaileyhimaya başka başka nutk-ı hümayun-ı şahane irad",
+      "literal_English_translation": "free being-to about aforesaid-two-to separate separate speech-of imperial-of royal delivery",
+      "flowing_english_modernisation_translation": "separate Royal Imperial speeches were delivered and recalled to the two aforesaid [Ambassadors].",
+      "visual_anomalies": [
+        "'Oldığına' retains dotless 'ı'."
+      ]
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "و تذكار بیورلمشدر",
+      "full_line_transliteration": "ve tezkar buyurulmuşdur",
+      "literal_English_translation": "and mention ordered-is",
+      "flowing_english_modernisation_translation": "(Sentence completion)",
+      "visual_anomalies": [
+        "'Buyurulmuşdur' retains 'd'."
+      ]
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "",
+      "full_line_transliteration": "",
+      "literal_English_translation": "",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": [
+        "--- Paragraph Break ---"
+      ]
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "ذات شوكتسمات حضرت شهنشاهينك باليمن والاجلال تخت عالبخت",
+      "full_line_transliteration": "Zat-ı şevket-simat hazret-i şehinşahînin bi'l-yümn ve'l-iclal taht-ı alibaht-ı",
+      "literal_English_translation": "Person-of majesty-marked excellency-of king-of-kings-of by-luck and-glory throne-of high-fortune-of",
+      "flowing_English_modernisation_translation": "Since the fortunate day of the accession of the Majesty-Marked Person of the King of Kings to the high-fortuned throne",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "سلطنت عثمانیه یه جلوس شرف مأنوس ملكدار یلری روز فیروزندنبرو",
+      "full_line_transliteration": "saltanat-ı Osmaniyeye cülus-ı şeref-me'nus-ı melikdârileri rûz-ı firuzundanberü",
+      "literal_English_translation": "sultanate-of Ottoman-to accession-of honor-familiar-of sovereignty-his day-of fortunate-from-since",
+      "flowing_english_modernisation_translation": "of the Ottoman Sultanate with luck and glory; the most prior thoughts of his shadow-casting Sovereignty",
+      "visual_anomalies": [
+        "'Melikdârileri' is a specific compound."
+      ]
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "اقدم افكار ظلیت اثار تاجدار یلری اسایش حال ممالك و بلاد و ارامش بال اهالی",
+      "full_line_transliteration": "akdem-i efkar-ı zılliyet-asar-ı tacdarîleri asayiş-i hal-i memalik ve bilad ve arayiş-i bal-i ahali",
+      "literal_English_translation": "most-prior-of thoughts-of shadow-trace-of crowning-his comfort-of condition-of dominions and cities and peace-of mind-of people",
+      "flowing_english_modernisation_translation": "have been directed toward the charitable matter of the comfort of the condition of the dominions and cities, and the peace of mind of the people",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": "و عباد قضیه خیریه سنه مصروف و علو همت مكارم منقبت جهانبانیلری",
+      "full_line_transliteration": "ve ibad kaziye-i hayriyesine masruf ve ulüvv-i himmet-i mekarim-menkıbet-i cihanbanîleri",
+      "literal_English_translation": "and servants matter-of charitable-to spent and height-of zeal-of noble-virtue-of world-guarding-his",
+      "flowing_english_modernisation_translation": "and servants. His world-guarding noble zeal is always directed toward",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "همیشه حسن تسویه مصالح خواص و عوام و یسر تنظیم و تمشیت مواد مهمه",
+      "full_line_transliteration": "hemîşe hüsn-i tesviye-i mesalih-i havas ve avam ve yüsr-i tanzim ve temşiyet-i mevad-ı mühimme-i",
+      "literal_English_translation": "always beauty-of settlement-of affairs-of elite and commoners and ease-of arrangement and execution-of matters-of important-of",
+      "flowing_english_modernisation_translation": "the good settlement of the affairs of the elite and commoners, and the ease of arrangement and execution of important matters",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "لازمة الاقدام اسباب مقتضیه سنك استحصال چاره و تدبیرینه معطوف اوله رق",
+      "full_line_transliteration": "lazımetü'l-ikdam esbab-ı muktaziyesinin istihsal-i çare ve tedbirine ma'tuf olarak",
+      "literal_English_translation": "necessary-of-perseverance causes-of required-its procurement-of remedy and measure-to directed being",
+      "flowing_english_modernisation_translation": "requiring perseverance, specifically the procurement of the necessary means and measures.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 43,
+      "full_line_original_script": "بونیت خیریه و مقاصد جلیله حضرت شاهانه نك ادای فریضه تشكر",
+      "full_line_transliteration": "bu niyet-i hayriye ve makasid-i celile-i hazret-i şahanenin eda-yı fariza-i teşekkürü",
+      "literal_English_translation": "this intention-of charitable and purposes-of glorious-of excellency-of royal-of performance-of duty-of thanks-his",
+      "flowing_english_modernisation_translation": "While our inability to perform the duty of thanks and praise for this charitable intention and glorious purposes of His Royal Excellency",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 44,
+      "full_line_original_script": "و محمدتنده بالوجوه عجز مز دركار و تخم عهده عبودیتمز اولان دعای دوام",
+      "full_line_transliteration": "ve mahmedetinde bi'l-vücuh aczimiz derkar ve tohm-ı uhde-i ubudiyetimiz olan dua-yı devam-ı",
+      "literal_English_translation": "and praise-his-in by-faces inability-our evident and seed-of charge-of servitude-our being prayer-of continuation-of",
+      "flowing_english_modernisation_translation": "is evident in every way; along with fulfilling day and night the prayer for the continuation of the Royal life, fortune, and majesty,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 45,
+      "full_line_original_script": "عمر و اقبال و شوكت شاهانه نك لیل و نهار ادا و اكماليله برابر جان",
+      "full_line_transliteration": "ömr ve ikbal ve şevket-i şahanenin leyl ve nehar eda ve ikmaliyle beraber can",
+      "literal_English_translation": "life and fortune and majesty-of royal-of night and day performance and completion-with together soul",
+      "flowing_english_modernisation_translation": "which is the seed of our charge of servitude; we must extremely avoid and abstain",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 46,
+      "full_line_original_script": "و جهانمزدن عزیز و محترم اولان وجود مراحم الود حضرت جهاندارينك",
+      "full_line_transliteration": "ve cihanımızdan aziz ve muhterem olan vücud-ı merahim-alud-ı hazret-i cihandarînin",
+      "literal_English_translation": "and world-our-from dear and respected being existence-of mercy-filled-of excellency-of world-ruler-of",
+      "flowing_english_modernisation_translation": "from situations that would cause even an atom's weight of headache to the mercy-filled Existence of the World Ruler,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 47,
+      "full_line_original_script": "ذره قدر تصدیعنی وجب اوله جق حالاتدن بغایت اجتناب و احتراز ایتمكلكمز دخی",
+      "full_line_transliteration": "zerre kadar tasdi'ini vacib olacak halatdan begayet ictinab ve ihtiraz itmekliğimiz dahi",
+      "literal_English_translation": "atom amount headache-his-acc necessary will-be situations-from extremely avoidance and abstention doing-our also",
+      "flowing_english_modernisation_translation": "who is dearer and more respected than our soul and world. While it is obvious and clear",
+      "visual_anomalies": [
+        "'Mucib' written as 'vecib' (waw-jim-ba) likely typo for 'mucib' or archaic 'vacib' but context suggests 'mucib'. Ink looks like 'vecib' or 'vacib'. Transcribed 'mucib' based on context but ink is ambiguous.",
+        "Correction: Ink clearly shows 'vacib' (وجب). Transliteration: 'vacib'."
+      ]
+    },
+    {
+      "line_number": 48,
+      "full_line_original_script": "جهات متعدده ایله الزم اولدیغی بدیهی و اشكار ایكن بعض ارباب طلب",
+      "full_line_transliteration": "cihat-ı müteaddide ile elzem oldığı bedihi ve aşikâr iken ba'zı erbab-ı taleb",
+      "literal_English_translation": "aspects-of multiple with most-necessary being-its evident and clear while some masters-of request",
+      "flowing_english_modernisation_translation": "that this is most necessary for multiple reasons; some petitioners,",
+      "visual_anomalies": [
+        "'Oldığı' retains dotless 'ı'."
+      ]
+    },
+    {
+      "line_number": 49,
+      "full_line_original_script": "سلب حیا و ادب ایله جزئی شی ایچون تصدیع سر شوكت افسر عالی یه سبب",
+      "full_line_transliteration": "selb-i haya ve edeb ile cüz'i şey içün tasdi'-i ser-şevket-efser-i aliye sebeb",
+      "literal_English_translation": "stripping-of shame and manners with trivial thing for headache-of head-majesty-crown-of high-to cause",
+      "flowing_english_modernisation_translation": "stripping themselves of shame and manners, cause a headache to the Majestic High Crowned Head for trivial things.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 50,
+      "full_line_original_script": "اولدقلرندن بشقه جمعه كونلرینه قناعت ایتمیه رك ایام سائره ده دخی",
+      "full_line_transliteration": "olduklarından başka cum'a günlerine kanaat itmeyerek eyyam-ı sairede dahi",
+      "literal_English_translation": "being-their-from other Friday days-to content making-not days-of other-in also",
+      "flowing_english_modernisation_translation": "Besides causing this headache, not content with Fridays [the standard petition day], even on other days",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 51,
+      "full_line_original_script": "ذات ملائكسمات شاهانه نك نزهتكاه عالی و بعض مواقع مخصوصه",
+      "full_line_transliteration": "zat-ı melaik-simat-ı şahanenin nüzhetgâh-ı ali ve ba'zı mevaki-i mahsusa",
+      "literal_English_translation": "person-of angel-marked-of royal-of promenade-place-of high and some locations-of special",
+      "flowing_english_modernisation_translation": "they [intrude upon] the high promenade places and certain special locations of the Angel-Marked Royal Person...",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "Some time ago, in order to view and observe certain places and locations in Aşiyan,\nhe came to Istanbul on a government steamship belonging to the aforesaid State, and regarding this category\nof officials from illustrious states who arrive at the Majestic Court, on the part of\nthe Exalted State, ceremonies of respect and imperial compliments are customarily performed. Since the aforesaid Admiral\nis also among the aged and esteemed naval commanders of the aforesaid State,\nin accordance with the requirements of the signs of sincerity and respect that are evident and established between the two States,\nthe aforesaid [Admiral] was summoned to the Royal Imperial Palace on the twenty-first day of the previous month,\nand upon appearing in the Royal Presence, he was deemed worthy of imperial compliments. After a few days\nhad passed, embarking again on the mentioned ship, he returned to the side of the mentioned fleet\nand departed.\n\nDue to the honorable occurrence of the Royal Imperial Accession, for the purpose of renewing the diplomatic mission\nof the Ambassador of the French State who is assigned to reside in Istanbul, a letter of credence\nhaving arrived from His Majesty the King and Padishah of France; as stated in the previous calendar (Takvim-i Vekayi)\nand in accordance with current and observed protocol, the aforesaid Ambassador\nappeared in the Royal Imperial Presence on the second Monday of the previous month,\nand presented and submitted his letter of credence. Besides the letter of congratulation from His Majesty the Emperor and Padishah of Russia\nwhich had arrived previously, this time a letter of credence containing the renewal of the diplomatic mission\nhas also arrived. Following that,\na letter of credence likewise covering the renewal of the mission of the Ambassador\nof His Majesty the Emperor and Padishah of Austria, resident in Istanbul, has arrived.\nSince Royal Imperial permission was granted for the presentation and submission of the mentioned letters of credence\nto the Imperial Royal dust-foot; the aforesaid Ambassador of Russia\non Monday, the bright first day of this current month, and the aforesaid Ambassador of Austria\non Wednesday the third, were summoned to the Imperial Seaside Palace of Beylerbeyi.\nWith the High Person of the Grand Vizierate, the High Excellency the Serasker, and the Foreign Minister the aforesaid\nReşid Pasha being present in the Royal Imperial Palace,\naccording to the observed rule of the Imperial Sultanate, the two aforesaid Ambassadors appeared in the accustomed\nRoyal Presence, and by presenting their letters of credence, they attained the compliments of the King of Kings,\nwhich encompass noble qualities. Regarding the perfect peace, purity, desirable relations, and friendship\nthat are evident and stabilized between the Eternal Exalted State and their illustrious States;\njust as it was current in previous ages, that it is also embraced and observed in the auspicious Royal time,\nand that the binding of concluded treaties and conditions is free from dissolution at every moment and instant,\nseparate Royal Imperial speeches were delivered and recalled to the two aforesaid [Ambassadors].\n(Sentence completion)\n\nSince the fortunate day of the accession of the Majesty-Marked Person of the King of Kings to the high-fortuned throne\nof the Ottoman Sultanate with luck and glory; the most prior thoughts of his shadow-casting Sovereignty\nhave been directed toward the charitable matter of the comfort of the condition of the dominions and cities, and the peace of mind of the people\nand servants. His world-guarding noble zeal is always directed toward\nthe good settlement of the affairs of the elite and commoners, and the ease of arrangement and execution of important matters\nrequiring perseverance, specifically the procurement of the necessary means and measures.\nWhile our inability to perform the duty of thanks and praise for this charitable intention and glorious purposes of His Royal Excellency\nis evident in every way; along with fulfilling day and night the prayer for the continuation of the Royal life, fortune, and majesty,\nwhich is the seed of our charge of servitude; we must extremely avoid and abstain\nfrom situations that would cause even an atom's weight of headache to the mercy-filled Existence of the World Ruler,\nwho is dearer and more respected than our soul and world. While it is obvious and clear\nthat this is most necessary for multiple reasons; some petitioners,\nstripping themselves of shame and manners, cause a headache to the Majestic High Crowned Head for trivial things.\nBesides causing this headache, not content with Fridays [the standard petition day], even on other days\nthey [intrude upon] the high promenade places and certain special locations of the Angel-Marked Royal Person...",
+  "summary": "This text from the Takvîm-i Vekâyi reports on three distinct events. First, it details the visit of a senior British Admiral (implied by context) to view Aşiyan, noting his reception with full state honors due to his rank and the strong relations between the Ottoman Empire and Britain (the \"aforesaid State\"). Second, it describes the formal presentation of credentials by the French, Russian, and Austrian Ambassadors to the new Sultan following his accession. The Ambassadors were received at the Beylerbeyi Palace in the presence of key Ottoman officials like Reşid Pasha, reaffirming the continuity of peace and treaties. Third, it transitions into an official admonition regarding public behavior. It praises the new Sultan's dedication to the welfare of his people but criticizes petitioners who lack \"shame and manners\" for disturbing the Sultan with trivial requests outside of the designated Friday petition times, even intruding upon his private promenades."
+}
+```

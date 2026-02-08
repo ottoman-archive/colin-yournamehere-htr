@@ -1,0 +1,276 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experimen 128",
+    "experiment_date": "Thursday, December 25th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET: TAKVÎM-I VEKÂYI (TANZIMAT PROTOCOL 1839) V3",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "185",
+    "date": "September 25th, 1839",
+    "page": 4,
+    "column": "LH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "علیه توجیه اولنوب ماه سابق مزبورك اون طقوزنجی کونیله مورخ رؤس",
+      "full_line_transliteration": "aliye tevcîh olunub mâh-ı sâbık-ı mezbûruñ on dokuzuncu güniyle müverrah rü'ûs-ı",
+      "literal_English_translation": "high conferred being month-of previous-of mentioned-of nineteen day-with dated warrants-of",
+      "flowing_English_modernisation_translation": "[the rank] was conferred, and by the granting of the Imperial warrants dated the nineteenth day of the mentioned previous month,",
+      "visual_anomalies": [
+        "Standard matbu script.",
+        "The word 'aliye' is likely part of a previous phrase like 'uhde-i aliye' carried over."
+      ]
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "همایونی تسیار اولنمشدر",
+      "full_line_transliteration": "hümâyûnı tesyâr olunmuşdur",
+      "literal_English_translation": "imperial-their sending made-has-been",
+      "flowing_English_modernisation_translation": "they have been sent.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "مواد عسکریه",
+      "full_line_transliteration": "MEVÂDD-I ASKERİYE",
+      "literal_English_translation": "MATTERS-OF MILITARY",
+      "flowing_English_modernisation_translation": "MILITARY MATTERS",
+      "visual_anomalies": [
+        "Large header font.",
+        "Calligraphic style."
+      ]
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "بوز اوق و قیصریه و قیر شهری سنجاقلرندن تحریری مقتضای اراده سنیه دن",
+      "full_line_transliteration": "Bozok ve Kayseriye ve Kırşehri sancaklarından tahrîri muktezâ-yı irâde-i seniyyeden",
+      "literal_English_translation": "Bozok and Kayseri and Kırşehir sanjaks-from conscription-its requirement-of will-of imperial-from",
+      "flowing_English_modernisation_translation": "From the Reserve Army (Asakir-i Redife) regiments, whose conscription from the Sanjaks of Bozok, Kayseri, and Kırşehir was required by Imperial Will;",
+      "visual_anomalies": [
+        "Place names: Bozok, Kayseriye, Kırşehri clearly visible."
+      ]
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "اولان اوچ الای عساکر ردیفه دن قیر شهری سنجاغیله لواء مزبور دن",
+      "full_line_transliteration": "olan üç alay asâkir-i redîfeden Kırşehri sancâğıyla livâ-yı mezbûrdan",
+      "literal_English_translation": "being three regiment soldiers-of reserve-from Kırşehir sanjak-with liva-of mentioned-from",
+      "flowing_english_modernisation_translation": "regarding the Third Regiment organized from the Sanjak of Kırşehir and the districts attached to the Keskin Mine",
+      "visual_anomalies": [
+        "Redîfe: Military reserve troops."
+      ]
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "مفرز کشکان معدن همایونه مربوط قضازدن مرتب اوچنجی الای قلت",
+      "full_line_transliteration": "müfrez Keşkân ma'den-i hümâyûna merbût kazâlardan müretteb üçüncü alay kıllet-i",
+      "literal_English_translation": "separated Keskin mine-of imperial-to attached districts-from arranged third regiment scarcity-of",
+      "flowing_english_modernisation_translation": "detached from the mentioned Liva; although it remained consisting of two battalions due to scarcity of population,",
+      "visual_anomalies": [
+        "Keşkân (Keskin) mine reference."
+      ]
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "نفوس جهتيله ایکی طابوردن عبارت قالمش ایسه ده مؤخرا دیگر بر طابور",
+      "full_line_transliteration": "nüfûs cihetiyle iki taburdan ibâret kalmış ise de mu'ahharan dîger bir tabur",
+      "literal_English_translation": "population aspect-with two battalion-from consisting remained if also lately other a battalion",
+      "flowing_english_modernisation_translation": "lately, since another battalion was conscripted and completed,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "دخی تحریر و اکمال اولنمش اولدیغندن طابور مزبوره الای مذکورك برنجی",
+      "full_line_transliteration": "dahi tahrîr ve ikmâl olunmuş olduğundan tabur-ı mezbûra alay-ı mezkûruñ birinci",
+      "literal_English_translation": "also writing and completion made being-from battalion-of mentioned-to regiment-of mentioned-of first",
+      "flowing_english_modernisation_translation": "the appointment of Muhammed Es'ad Agha from the Kırşehir dynasty, who is the Right Wing Commander (Sağkol Ağası) of the First Battalion of the mentioned Regiment,",
+      "visual_anomalies": [
+        "Grammar check: 'olduğundan' matches ink."
+      ]
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "طابوری صاغقول اغاسی بولنان قیر شهری خاندانندن محمد اسعد اغانك",
+      "full_line_transliteration": "taburu sağkol ağası bulunan Kırşehri hânedânından Muhammed Es'ad Ağa'nıñ",
+      "literal_English_translation": "battalion-his right-wing commander being Kırşehir dynasty-from Muhammed Es'ad Agha-of",
+      "flowing_english_modernisation_translation": "as Major (Binbaşı) to the mentioned [new] battalion was proposed by His Excellency Osman Pasha, Divisional General of Ankara.",
+      "visual_anomalies": [
+        "Rank: Sağkol Ağası."
+      ]
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "بیکباشی نصبی انقره فریقی عثمان پاشا حضرتلری طرفندن انها اولنمش",
+      "full_line_transliteration": "biñbaşı nasbı Ankara ferîki Osmân Paşa hazretleri tarafından inhâ olunmuş",
+      "literal_English_translation": "major appointment-his Ankara general-of Osman Pasha excellency-his side-from proposal made",
+      "flowing_english_modernisation_translation": "Consequently, the appointment and assignment of the aforesaid Muhammed Es'ad Agha as Major to the mentioned battalion",
+      "visual_anomalies": [
+        "Rank: Ferîk (Divisional General)."
+      ]
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "اولدیغندن مومی الیه محمد اسعد اغانك اولوجهله طابور مزبوره بیکباشی نصب",
+      "full_line_transliteration": "olduğundan mûmâ-ileyh Muhammed Es'ad Ağa'nıñ ol-vechle tabur-ı mezbûra biñbaşı nasb",
+      "literal_English_translation": "being-from aforesaid Muhammed Es'ad Agha-of that-way-with battalion-of mentioned-to major appointment",
+      "flowing_english_modernisation_translation": "was carried out in that manner.",
+      "visual_anomalies": [
+        "Protocol: 'Mûmâ-ileyh' used for Ağa rank."
+      ]
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "و تعیینی",
+      "full_line_transliteration": "ve ta'yîni",
+      "literal_English_translation": "and assignment-his",
+      "flowing_english_modernisation_translation": "(Section Break)",
+      "visual_anomalies": [
+        "Centered text, indicates section break or conclusion of the specific order."
+      ]
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "و طرابلس غربده بولنان میرلوا طوسون پاشانك تحت لواسنده بولنان عساکر",
+      "full_line_transliteration": "Ve Trablusgarb'da bulunan Mîrlivâ Tosun Paşa'nıñ taht-ı livâsında bulunan asâkir-i",
+      "literal_English_translation": "And Tripoli-West-in being Brigadier-General Tosun Pasha-of under liva-his-in being soldiers-of",
+      "flowing_english_modernisation_translation": "And regarding the Regular Royal Troops under the command of Brigadier General Tosun Pasha in Tripoli (Libya):",
+      "visual_anomalies": [
+        "Location: Trablusgarb (Tripoli, Libya).",
+        "Name: Tosun Paşa."
+      ]
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "منتظمه شاهانه اوننجی الایك برنجی طابوری بیکباشیسی امین اغا بوندن مقدمجه",
+      "full_line_transliteration": "muntazama-i şâhâne onuncu alayıñ birinci taburu biñbaşısı Emîn Ağa bundan mukaddemce",
+      "literal_English_translation": "regular-of royal tenth regiment-of first battalion-his major-of Emin Agha this-from previously",
+      "flowing_english_modernisation_translation": "Since Emin Agha, Major of the First Battalion of the Tenth Regiment, was previously",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "با اراده سنیه ردیف منصوره قائممقاملیغیله بکام بیورلمش اولدیغندن یرینه",
+      "full_line_transliteration": "bâ-irâde-i seniyye redîf-i mansûre kâ'im-makâmlığıyla bekâm buyurulmuş olduğundan yerine",
+      "literal_English_translation": "by-will-of imperial reserve-of victorious lieutenant-colonelcy-with honored ordered being-from place-his-to",
+      "flowing_english_modernisation_translation": "honored with the rank of Lieutenant Colonel (Kaymakam) of the Victorious Reserve by Imperial Will,",
+      "visual_anomalies": [
+        "Rank: Kâ'im-makâm (Lieutenant Colonel).",
+        "Phrase: 'Bekâm buyurulmuş' (promoted/honored)."
+      ]
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "بر بیکباشينك نصبی لازم کلش و طابور مزبورك صاغقول اغاسی ابرايلی محمد",
+      "full_line_transliteration": "bir biñbaşınıñ nasbı lâzım gelmiş ve tabur-ı mezbûruñ sağkol ağası İbrâîlli Muhammed",
+      "literal_English_translation": "a major-of appointment-his necessary come and battalion-of mentioned-of right-wing commander-of Ibrail-from Muhammed",
+      "flowing_english_modernisation_translation": "the appointment of a Major to his place became necessary. And stating that Muhammed Agha from Ibrail,",
+      "visual_anomalies": [
+        "Place/Nisba: 'İbrâîlli' (Ibrail/Braila)."
+      ]
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "اغانك از هر جهت لیاقت و استحقاقی نمایان ایدوکی بیانيله طابور مزبوره",
+      "full_line_transliteration": "Ağa'nıñ ez-her cihet liyâkat ve istihkâkı nümâyân idüği beyâniyle tabur-ı mezbûra",
+      "literal_English_translation": "Agha-of from-every direction merit and entitlement-his evident being-his statement-with battalion-of mentioned-to",
+      "flowing_english_modernisation_translation": "the Right Wing Commander of the mentioned battalion, has evident merit and entitlement in every respect;",
+      "visual_anomalies": [
+        "Spelling: 'idüği' (standard archaic form for 'olduğu')."
+      ]
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "بیکباشی نصبی و بونك یرینه دخی رفیقی بولنان صولقول اغاسنك صاغقول",
+      "full_line_transliteration": "biñbaşı nasbı ve bunuñ yerine dahi refîki bulunan solkol ağasınıñ sağkol",
+      "literal_English_translation": "major appointment-his and this-of place-to also companion-his being left-wing commander-of right-wing",
+      "flowing_english_modernisation_translation": "his appointment as Major to the mentioned battalion, and to his place, the transfer of his companion, the Left Wing Commander (Solkol Ağası),",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "اغالغنه نقلی خصوصی پاشای مومی الیه ایله طرابلس غرب والیسی عطوفتلو",
+      "full_line_transliteration": "ağalığına nakli husûsu paşa-yı mûmâ-ileyh ile Trablusgarb vâlîsi atûfetlü",
+      "literal_English_translation": "commandership-to transfer-his matter-of pasha-of aforesaid with Tripoli-West governor-of kindly",
+      "flowing_english_modernisation_translation": "to the Right Wing Commandership, was requested via correspondence by the aforesaid Pasha [Tosun] and the Governor of Tripoli, the Kindly",
+      "visual_anomalies": [
+        "Honorific: 'Atûfetlü' (used for Valis)."
+      ]
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "عشقر علی پاشا حضرتلری طرفندن بالتحریرات التماس اولنمش اولدیغنه مبنی اصول",
+      "full_line_transliteration": "Aşkar Ali Paşa hazretleri tarafından bi't-tahrîrât iltimâs olunmuş olduğuna mebnî usûl-i",
+      "literal_English_translation": "Aşkar Ali Pasha excellency-his side-from by-correspondence request made being-to based-on principle-of",
+      "flowing_english_modernisation_translation": "Aşkar Ali Pasha. Based on this request, when the necessary examinations were referred to the Military Council",
+      "visual_anomalies": [
+        "Name: Aşkar Ali Paşa."
+      ]
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "مستحسنه سی وجهله تدقیقات ایجابیه سی دارشورای عسکری یه لدی الحواله",
+      "full_line_transliteration": "müstahsenesi vechle tedkîkât-ı îcâbiyesi Dâr-ı Şûrâ-yı Askerî'ye lede'l-havâle",
+      "literal_English_translation": "approved-its way-with examinations-of required-its Abode-of Council-of Military-to upon-referral",
+      "flowing_english_modernisation_translation": "in accordance with approved procedure; since in reality the aforesaid Emin Agha was previously promoted",
+      "visual_anomalies": [
+        "Institution: Dâr-ı Şûrâ-yı Askerî (Military Council)."
+      ]
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "فی الحقیقه مومی الیه امین اغا بوندن اقدم با اراده سنیه ردیف عساکر ملوکانه",
+      "full_line_transliteration": "fi'l-hakîka mûmâ-ileyh Emîn Ağa bundan akdem bâ-irâde-i seniyye redîf-i asâkir-i mülûkâne",
+      "literal_English_translation": "in-truth aforesaid Emin Agha this-from before by-will-of imperial reserve-of soldiers-of royal",
+      "flowing_english_modernisation_translation": "to the rank of Lieutenant Colonel of the Royal Reserve Troops by Imperial Will,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "قائممقاملیغی رتبه سیله بکام بیورلمش اولدیغندن یرینه طابور مزبورك صاغقول",
+      "full_line_transliteration": "kâ'im-makâmlığı rütbesiyle bekâm buyurulmuş olduğundan yerine tabur-ı mezbûruñ sağkol",
+      "literal_English_translation": "lieutenant-colonelcy rank-with honored ordered being-from place-his-to battalion-of mentioned-of right-wing",
+      "flowing_english_modernisation_translation": "matters regarding the appointment of the aforesaid Muhammed Agha, Right Wing Commander of the mentioned battalion, to his place,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "اغاسی مومی الیه محمد اغا و بونك یرینه دخی رفیقی صولقول اغاسنك صاغقول",
+      "full_line_transliteration": "ağası mûmâ-ileyh Muhammed Ağa ve bunuñ yerine dahi refîki solkol ağasınıñ sağkol",
+      "literal_English_translation": "commander-his aforesaid Muhammed Agha and this-of place-to also companion-his left-wing commander-of right-wing",
+      "flowing_english_modernisation_translation": "and to his place, the appointment of his companion the Left Wing Commander as Right Wing Commander,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "اغاسی نصب و تعیین بیورلمسی خصوصاری دار شورای عسکریده بالتنسب",
+      "full_line_transliteration": "ağası nasb ve ta'yîn buyurulması husûsları Dâr-ı Şûrâ-yı Askerî'de bi't-tensîb",
+      "literal_English_translation": "commander-his appointment and assignment ordered-being matters-their Abode-of Council-of Military-in by-approval",
+      "flowing_english_modernisation_translation": "were approved in the Military Council. Pursuant to the honor-occurring",
+      "visual_anomalies": [
+        "Spelling: 'bi't-tensîb' (by approval/arrangement)."
+      ]
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "قرار ویریله رك اولبابده شرفسنوح بیوریلان امر و اراده جناب جهانبانی",
+      "full_line_transliteration": "karâr virilerek ol-bâbda şeref-sünûh buyurulan emr ü irâde-i cenâb-ı cihânbânî",
+      "literal_English_translation": "decision given-being that-matter-in honor-occurrence ordered command and will-of excellency-of world-guardian",
+      "flowing_english_modernisation_translation": "command and will of His Excellency the World Guardian issued on that matter,",
+      "visual_anomalies": [
+        "Honorific: 'Cenâb-ı Cihânbânî' (The Sultan)."
+      ]
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "موجبنجه اقتضای مأموریتلری اجرا قلنمشدر",
+      "full_line_transliteration": "mûcibince iktizâ-yı me'mûriyetleri icrâ kılınmışdır",
+      "literal_English_translation": "consequence-by requirement-of official-duties-their execution made-has-been",
+      "flowing_english_modernisation_translation": "the requirements of their duties have been executed.",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "[the rank] was conferred, and by the granting of the Imperial warrants dated the nineteenth day of the mentioned previous month,\nthey have been sent.\n\nMILITARY MATTERS\n\nFrom the Reserve Army (Asakir-i Redife) regiments, whose conscription from the Sanjaks of Bozok, Kayseri, and Kırşehir was required by Imperial Will;\nregarding the Third Regiment organized from the Sanjak of Kırşehir and the districts attached to the Keskin Mine\ndetached from the mentioned Liva; although it remained consisting of two battalions due to scarcity of population,\nlately, since another battalion was conscripted and completed,\nthe appointment of Muhammed Es'ad Agha from the Kırşehir dynasty, who is the Right Wing Commander (Sağkol Ağası) of the First Battalion of the mentioned Regiment,\nas Major (Binbaşı) to the mentioned [new] battalion was proposed by His Excellency Osman Pasha, Divisional General of Ankara.\nConsequently, the appointment and assignment of the aforesaid Muhammed Es'ad Agha as Major to the mentioned battalion\nwas carried out in that manner.\n(Section Break)\nAnd regarding the Regular Royal Troops under the command of Brigadier General Tosun Pasha in Tripoli (Libya):\nSince Emin Agha, Major of the First Battalion of the Tenth Regiment, was previously\nhonored with the rank of Lieutenant Colonel (Kaymakam) of the Victorious Reserve by Imperial Will,\nthe appointment of a Major to his place became necessary. And stating that Muhammed Agha from Ibrail,\nthe Right Wing Commander of the mentioned battalion, has evident merit and entitlement in every respect;\nhis appointment as Major to the mentioned battalion, and to his place, the transfer of his companion, the Left Wing Commander (Solkol Ağası),\nto the Right Wing Commandership, was requested via correspondence by the aforesaid Pasha [Tosun] and the Governor of Tripoli, the Kindly\nAşkar Ali Pasha. Based on this request, when the necessary examinations were referred to the Military Council\nin accordance with approved procedure; since in reality the aforesaid Emin Agha was previously promoted\nto the rank of Lieutenant Colonel of the Royal Reserve Troops by Imperial Will,\nmatters regarding the appointment of the aforesaid Muhammed Agha, Right Wing Commander of the mentioned battalion, to his place,\nand to his place, the appointment of his companion the Left Wing Commander as Right Wing Commander,\nwere approved in the Military Council. Pursuant to the honor-occurring\ncommand and will of His Excellency the World Guardian issued on that matter,\nthe requirements of their duties have been executed.",
+  "summary": "This section of the Takvîm-i Vekâyi focuses on military promotions and appointments within the Reserve (Redife) and Regular (Muntazama) armies. First, it details the expansion of the 3rd Regiment of the Reserve Army in Kırşehir. Due to a new battalion being raised, Muhammed Es'ad Agha is promoted to Major (Binbaşı) upon the recommendation of Divisional General Osman Pasha. Second, it reports on appointments in Tripoli (Libya) under Brigadier Tosun Pasha and Governor Aşkar Ali Pasha. Following the promotion of Emin Agha to Lieutenant Colonel, Muhammed Agha from Ibrail is promoted to Major to replace him, and his previous position as Right Wing Commander is filled by the former Left Wing Commander. These changes were ratified by the Military Council (Dâr-ı Şûrâ-yı Askerî) and the Sultan."
+}

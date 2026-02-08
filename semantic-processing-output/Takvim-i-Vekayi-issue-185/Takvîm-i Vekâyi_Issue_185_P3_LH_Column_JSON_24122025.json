@@ -1,0 +1,500 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experimen 125",
+    "experiment_date": "Wednesday, December 24th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET V2",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "185",
+    "date": "September 25th, 1839",
+    "page": 3,
+    "column": "LH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "قپوجی باشیلق وسامح افندی یه دیوان همایون خواجه لکی رتبه معتبره لری",
+      "full_line_transliteration": "Kapıcıbaşılık ve Samih Efendi'ye Divan-ı Hümayun hocalığı rütbe-i mutebereleri",
+      "literal_English_translation": "Head-doorkeeper-ship and Samih Efendi-to Divan-of Imperial clerkship-of rank-of esteemed-their",
+      "flowing_English_modernisation_translation": "[the rank of] Head Doorkeeper, and to Samih Efendi, the esteemed rank of Clerk of the Imperial Divan,",
+      "visual_anomalies": [
+        "'Samih' written clearly.",
+        "'Hocalığı' uses kef."
+      ]
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "توجیه و اعطا و رؤس همایونلری تسطیر و املا اولنمشدر",
+      "full_line_transliteration": "tevcih ve i'ta ve ru'us-ı hümayunları tastir ve imla olunmuşdur",
+      "literal_English_translation": "conferring and giving and warrants-of imperial-their writing and dictation made-has-been",
+      "flowing_english_modernisation_translation": "were conferred and given, and their Imperial Warrants were written and dictated.",
+      "visual_anomalies": [
+        "'Olunmuşdur' ends with dal-ra ligature."
+      ]
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "قلبه ناظری سابق ادهم افندی ایله اماسیه متسلمی اسبق شاکر بكك مقدما",
+      "full_line_transliteration": "Galata nazırı sabık Edhem Efendi ile Amasya mütesellimi esbak Şakir Bey'in mukaddema",
+      "literal_English_translation": "Galata superintendent-of former Edhem Efendi with Amasya deputy-governor-of former Şakir Bey-of previously",
+      "flowing_English_modernisation_translation": "Regarding the former Superintendent of Galata, Edhem Efendi, and the former Deputy Governor of Amasya, Şakir Bey;",
+      "visual_anomalies": [
+        "'Galata' written as 'Kalbe' or 'Galata' (looks like Qaf-Lam-Ba-Ha, likely Galata intended but written Qalba).",
+        "'Mütesellimi' clear."
+      ]
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "بالایجاب رتبه لری حط و تنزیل اولنمش اولمسيله كندولری پریشان حال",
+      "full_line_transliteration": "bi'l-icab rütbeleri hatt ve tenzil olunmuş olmasıyla kendüleri perişan hal",
+      "literal_English_translation": "by-necessity ranks-their lowering and demotion made being-with themselves wretched state",
+      "flowing_English_modernisation_translation": "since their ranks were previously lowered and demoted by necessity, leaving them in a wretched state",
+      "visual_anomalies": [
+        "'Hatt' written with Ha-Ta.",
+        "'Kendüleri' with kef."
+      ]
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "و منكسر البال اوله رق رفع اولنان رتبه لرينك توجیه و احسان بیورلمسنی",
+      "full_line_transliteration": "ve münkesirü'l-bal olarak ref' olunan rütbelerinin tevcih ve ihsan buyurulmasını",
+      "literal_English_translation": "and broken-hearted being removed being ranks-their-of conferring and benevolence ordered-being-its",
+      "flowing_English_modernisation_translation": "and broken-hearted; they requested and begged with a petition that their removed ranks be conferred and granted back.",
+      "visual_anomalies": [
+        "'Münkesirü'l-bal' clear.",
+        "'Rütbelerinin' uses kef for nazal n."
+      ]
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "مومى اليهما با عرضحال استدعا و استرحام ایتمش و واقعا مومى اليهما مأيوس",
+      "full_line_transliteration": "muma-ileyhima ba-arzuhal istida ve istirham etmiş ve vakıa muma-ileyhima me'yus",
+      "literal_English_translation": "aforesaid-two with-petition request and entreaty done and in-fact aforesaid-two despondent",
+      "flowing_English_modernisation_translation": "And indeed, since the two aforesaid persons were found despondent",
+      "visual_anomalies": [
+        "'Muma-ileyhima' dual form used."
+      ]
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "و مكدر و بالوجوه شایسته رحم و اشفاق شهنشاه عاطفت كستر بولنمش",
+      "full_line_transliteration": "ve mükedder ve bi'l-vücuh şayeste-i rahm ve işfak-ı şehinşah-ı atıfet-güster bulunmuş",
+      "literal_English_translation": "and grieved and by-faces worthy-of mercy and compassion-of king-of-kings-of benevolence-spreading found",
+      "flowing_english_modernisation_translation": "and grieved, and in every way worthy of the mercy and compassion of the benevolence-spreading King of Kings;",
+      "visual_anomalies": [
+        "'Güster' written with kef-sin-te-ra."
+      ]
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "اولدقلرینه بناء مومى اليهمادن ادهم فندينك مقدما نائل اولدیغی دیوان همایون",
+      "full_line_transliteration": "olduklarına binaen muma-ileyhimadan Edhem Efendi'nin mukaddema nail olduğu Divan-ı Hümayun",
+      "literal_English_translation": "being-their-to based-on aforesaid-two-from Edhem Efendi-of previously attainer being-his Divan-of Imperial",
+      "flowing_english_modernisation_translation": "based on this, the correction and continuation of the rank of Clerk of the Imperial Divan, which Edhem Efendi from the aforesaid two had previously attained,",
+      "visual_anomalies": [
+        "'Efendi'nin' written as 'fendinin' (alif dropped).",
+        "'Oldığı' with ghain-ya."
+      ]
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "خواجه لكى و شاکر بكك دخی رکاب همایون قپوجی باشیلیغی رتبه لرينك",
+      "full_line_transliteration": "hocalığı ve Şakir Bey'in dahi Rikab-ı Hümayun kapıcıbaşılığı rütbelerinin",
+      "literal_English_translation": "clerkship-his and Şakir Bey-of also Stirrup-of Imperial head-doorkeeper-ship-of ranks-their-of",
+      "flowing_english_modernisation_translation": "and likewise the rank of Head Doorkeeper of the Imperial Stirrup for Şakir Bey,",
+      "visual_anomalies": [
+        "'Hocalığı' written 'haceligi'.",
+        "'Kapıcıbaşılığı' written with ghain-ya."
+      ]
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "كما فى السابق متصرف اولمق اوزره تصحیح و بقاسنه مساعده رأفتعاده",
+      "full_line_transliteration": "kema fi's-sabık mutasarrıf olmak üzere tashih ve bekasına müsaade-i re'fet-ade-i",
+      "literal_English_translation": "as in-the-past possessor being upon correction and continuation-its-to permission-of kindness-habit-of",
+      "flowing_english_modernisation_translation": "so that they may possess them as in the past, were granted by the unsparing and worthy kindness-accustomed permission",
+      "visual_anomalies": [
+        "'Re'fet-ade' combined."
+      ]
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "حضرت شاهانه بی دریغ و سزا و ذكر اولنان رتبه لر مجددا كندولره بالتوجيه",
+      "full_line_transliteration": "hazret-i şahane bi-dirig ve seza ve zikr olunan rütbeler müceddeden kendülere bi't-tevcih",
+      "literal_English_translation": "excellency-of royal without-sparing and worthy and mentioned being ranks anew themselves-to by-conferring",
+      "flowing_english_modernisation_translation": "of His Royal Excellency; and by conferring the mentioned ranks upon them anew,",
+      "visual_anomalies": [
+        "'Kendülere' written 'kendülere'."]
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "مومى اليهما از سر نو چراغ و احیا بیورلمشدر",
+      "full_line_transliteration": "muma-ileyhima ez-ser-i nev çerağ ve ihya buyurulmuşdur",
+      "literal_English_translation": "aforesaid-two from-head-new promoted and revived ordered-has-been",
+      "flowing_english_modernisation_translation": "the two aforesaid persons were promoted and revived from scratch.",
+      "visual_anomalies": [
+        "'Çerağ' clear."
+      ]
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": " ",
+      "full_line_transliteration": "[Space]",
+      "literal_English_translation": "[Space]",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "سلانيك خاندانندن و دركاه عالى قپوجی باشیلرندن یوسف صديق بك زاده",
+      "full_line_transliteration": "Selanik hanedanından ve Dergah-ı Ali kapıcıbaşılarından Yusuf Sıddık Bey-zade",
+      "literal_English_translation": "Thessaloniki dynasty-from and Court-of High head-doorkeepers-from Yusuf Sıddık Bey-son-of",
+      "flowing_english_modernisation_translation": "Since Mustafa Bey, son of Yusuf Sıddık Bey from the Thessaloniki dynasty and of the Head Doorkeepers of the Sublime Court,",
+      "visual_anomalies": [
+        "'Sıddık' written with sad-dal-ya-qaf."
+      ]
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "مصطفى بك و يكبشهر وجوهندن عزت بكزاده راتب بك اصحاب درایتدن اولوب",
+      "full_line_transliteration": "Mustafa Bey ve Yenişehir vücuhundan İzzet Bey-zade Ratib Bey ashab-ı dirayetden olup",
+      "literal_English_translation": "Mustafa Bey and Larissa notables-from Izzet Bey-son-of Ratib Bey masters-of sagacity-from being",
+      "flowing_english_modernisation_translation": "and Ratib Bey, son of Izzet Bey from the notables of Larissa (Yenişehir), are men of sagacity",
+      "visual_anomalies": [
+        "'Yenişehir' written 'Yekişehir' (kef used for nazal n/ng sound, common archaic spelling)."
+      ]
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "خدمات دولت علیه ده استخداممه شایان اولدقلرینه بناء قپوجی باشیلق",
+      "full_line_transliteration": "hidemat-ı devlet-i aliyye'de istihdama şayan olduklarına binaen kapıcıbaşılık",
+      "literal_English_translation": "services-of state-of exalted-in employment-to worthy being-their-to based-on head-doorkeeper-ship",
+      "flowing_english_modernisation_translation": "and worthy of employment in the services of the Exalted State; their being gratified with the grant of the high rank of Head Doorkeeper",
+      "visual_anomalies": [
+        "'İstihdama' written with ha-dal-alif-mim-he."
+      ]
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "رتبه رفیعه سی احسانیله بكام بیورلملری الویه خمسه مشیری عطوفتلو مصطفى",
+      "full_line_transliteration": "rütbe-i refiası ihsanıyla bi-kam buyurulmaları Elviye-i Hamse Müşiri atufetlü Mustafa",
+      "literal_English_translation": "rank-of high-its favor-with sucessful ordered-being-their Sanjaks-of Five Marshal-of kindly Mustafa",
+      "flowing_english_modernisation_translation": "was requested by His Excellency the Kindly Mustafa Nuri Pasha, Marshal of the Five Sanjaks (Elviye-i Hamse).",
+      "visual_anomalies": [
+        "'Bi-kam' (to achieve desire/success).",
+        "'Elviye-i Hamse' clear."
+      ]
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "نوری پاشا حضرتلری طرفلرندن التماس اولنمش و بايندر و یوده سی",
+      "full_line_transliteration": "Nuri Paşa hazretleri taraflarından iltimas olunmuş ve Bayındır voyvodası",
+      "literal_English_translation": "Nuri Pasha excellency-his sides-from request made-was and Bayındır voyvoda-of",
+      "flowing_english_modernisation_translation": "Additionally, Edhem Agha, brother of the Bayındır Voyvoda [Arib?] Pasha,",
+      "visual_anomalies": [
+        "'Voyvodası' written 'voyvodası'."
+      ]
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "اريب پاشا برادری ادهم اغا و دركاه عالى قپوجی باشیلرندن و راه بك زاده",
+      "full_line_transliteration": "Arib Paşa biraderi Edhem Ağa ve Dergah-ı Ali kapıcıbaşılarından Verah? Bey-zade",
+      "literal_English_translation": "Arib Pasha brother-of Edhem Agha and Court-of High head-doorkeepers-from Verah? Bey-son-of",
+      "flowing_english_modernisation_translation": "and Galib Bey, son of [Verah?] Bey from the Head Doorkeepers of the Sublime Court,",
+      "visual_anomalies": [
+        "'Arib' or 'Erib'.",
+        "'Verah' or 'Vrah' - name is ambiguous, transcribed literally as ink shows (waw-ra-alif-he)."
+      ]
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "غالب بك دخی اصدقای دولت علیه دن اوله رق كدلك سزاوار عنایت بولنمش",
+      "full_line_transliteration": "Galib Bey dahi asdika-yı devlet-i aliyye'den olarak kezalik sezavar-ı inayet bulunmuş",
+      "literal_English_translation": "Galib Bey also loyal-ones-of state-of exalted-from being likewise worthy-of favor found",
+      "flowing_english_modernisation_translation": "being among the loyal servants of the Exalted State, were likewise found worthy of favor.",
+      "visual_anomalies": [
+        "'Kezalik' written 'kdlk'."
+      ]
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "اولدقلرینه بناء شرف افزای صدور بیوریلان امر و اراده احسانعاده",
+      "full_line_transliteration": "olduklarına binaen şeref-efza-yı sudur buyurulan emr ve irade-i ihsan-ade",
+      "literal_English_translation": "being-their-to based-on honor-increasing-of issuance ordered command and will-of benevolence-habit",
+      "flowing_english_modernisation_translation": "Based on this, pursuant to the honor-increasing benevolence-accustomed Royal command and will issued,",
+      "visual_anomalies": [
+        "'İhsan-ade' combined."
+      ]
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "جناب جهان داری موجبنجه عواطف علیه ملوکانه دن مومى اليهمـدن",
+      "full_line_transliteration": "cenab-ı cihandari mucibince avatıf-ı aliyye-i mülukaneden muma-ileyhimden",
+      "literal_English_translation": "excellency-of world-ruling consequence-by favors-of high-of royal-from aforesaid-from",
+      "flowing_english_modernisation_translation": "from the Royal High Favors, the Head Doorkeepership of the Exalted Court was conferred and granted",
+      "visual_anomalies": [
+        "'Muma-ileyhimden' plural."
+      ]
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "مصطفى بك و راتب بك و ادهم اغایه دركاه معلا قپوجی باشلغی و غالب بكه دخی",
+      "full_line_transliteration": "Mustafa Bey ve Ratib Bey ve Edhem Ağa'ya Dergah-ı Mualla kapıcıbaşılığı ve Galib Bey'e dahi",
+      "literal_English_translation": "Mustafa Bey and Ratib Bey and Edhem Agha-to Court-of Exalted head-doorkeeper-ship-of and Galib Bey-to also",
+      "flowing_english_modernisation_translation": "to Mustafa Bey, Ratib Bey, and Edhem Agha; and the Head Doorkeepership of the Imperial Stirrup to Galib Bey.",
+      "visual_anomalies": [
+        "'Mualla' written with ayn-lam-alif."
+      ]
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "ركاب همایون قپوجی باشیلغی توجیه و احسان و شهر سابق مرقومك يكرمی",
+      "full_line_transliteration": "Rikab-ı Hümayun kapıcıbaşılığı tevcih ve ihsan ve şehr-i sabık-ı merkumun yirmi",
+      "literal_English_translation": "Stirrup-of Imperial head-doorkeeper-ship-of conferring and benevolence and month-of previous-of mentioned-of twenty",
+      "flowing_english_modernisation_translation": "By the granting of their Imperial Warrants dated the twenty-ninth day of the mentioned previous month,",
+      "visual_anomalies": [
+        "'Merkumun' written 'mrqumk' (kef for genitive)."
+      ]
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "طقوزنجی كونیله مورخ رؤس همایونلری اعطاسیله مومى اليهم مظهر عنایت",
+      "full_line_transliteration": "dokuzuncu günüyle müverrah ru'us-ı hümayunları i'tasıyla muma-ileyhim mazhar-ı inayet",
+      "literal_English_translation": "ninth day-with dated warrants-of imperial-their giving-with aforesaid-ones object-of favor",
+      "flowing_english_modernisation_translation": "the aforesaid persons were made the objects of infinite favor.",
+      "visual_anomalies": [
+        "'Müverrah' clear."
+      ]
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "بی پایان قلنمشدر",
+      "full_line_transliteration": "bi-payan kılınmışdır",
+      "literal_English_translation": "without-end made-has-been",
+      "flowing_english_modernisation_translation": "(Sentence completion)",
+      "visual_anomalies": [
+        "'Kılınmışdır' written 'qlnmşdr'."
+      ]
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": " ",
+      "full_line_transliteration": "[Space]",
+      "literal_English_translation": "[Space]",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "حرمین شریفین رجالی اسعد افندی ارباب هنر و معارفدن اولوب هر وجهله",
+      "full_line_transliteration": "Haremeyn-i Şerifeyn ricali Esad Efendi erbab-ı hüner ve maarifden olup her vechle",
+      "literal_English_translation": "Two-Sanctuaries-of Noble men-of Esad Efendi masters-of skill and knowledge-from being every way-with",
+      "flowing_english_modernisation_translation": "Esad Efendi, one of the officials of the Two Noble Sanctuaries (Mecca and Medina), being a man of skill and knowledge,",
+      "visual_anomalies": [
+        "'Ricali' written 'rcali'."
+      ]
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "سزاوار عنایت اولدیغنه مبنی خواجه لك رتبه سی توجیهنه اراده احسانعاده",
+      "full_line_transliteration": "sezavar-ı inayet olduğuna mebni hocalık rütbesi tevcihine irade-i ihsan-ade-i",
+      "literal_English_translation": "worthy-of favor being-his-to based-on clerkship rank-of conferring-to will-of benevolence-habit-of",
+      "flowing_english_modernisation_translation": "and based on his being worthy of favor in every way; the benevolence-accustomed will of the World Ruler",
+      "visual_anomalies": [
+        "'Hocalık' written 'hacelik'."
+      ]
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "جناب جهانداری متعلق بیورلمش اولمغین عوارف بهیه ملوکانه دن مومى اليهه",
+      "full_line_transliteration": "cenab-ı cihandari müteallik buyurulmuş olmağın avarif-i behiyye-i mülukaneden muma-ileyhe",
+      "literal_English_translation": "excellency-of world-ruling related ordered being-from favors-of beautiful-of royal-from aforesaid-to",
+      "flowing_english_modernisation_translation": "having been issued regarding the conferring of the rank of Clerkship; from the beautiful Royal favors, the Clerkship of the Imperial Divan",
+      "visual_anomalies": [
+        "'Olmağın' written 'olmagin' (ghain-ya-nun)."
+      ]
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "دیوان همایون خواجه لكى توجیه و ماه سابق مزبورك يكرمی اوچنجی كونیله",
+      "full_line_transliteration": "Divan-ı Hümayun hocalığı tevcih ve mah-ı sabık-ı mezburun yirmi üçüncü günüyle",
+      "literal_English_translation": "Divan-of Imperial clerkship-of conferring and month-of previous-of mentioned-of twenty third day-with",
+      "flowing_english_modernisation_translation": "was conferred upon the aforesaid, and by the granting of his Imperial Warrant dated the twenty-third day of the mentioned previous month,",
+      "visual_anomalies": [
+        "'Mezburun' written 'mzburk' (kef)."
+      ]
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "مورخ رؤس همایونی اعطاسیله قدری تنویه اولنمشدر",
+      "full_line_transliteration": "müverrah ru'us-ı hümayunu i'tasıyla kadri tenvih olunmuşdur",
+      "literal_English_translation": "dated warrant-of imperial-his giving-with value-his elevation made-has-been",
+      "flowing_english_modernisation_translation": "his status was elevated.",
+      "visual_anomalies": [
+        "'Tenvih' (to praise/elevate) written 'tnvyh'."
+      ]
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": " ",
+      "full_line_transliteration": "[Space]",
+      "literal_English_translation": "[Space]",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "* * توجیهات علمیه * *",
+      "full_line_transliteration": "* * Tevcihat-ı İlmiye * *",
+      "literal_English_translation": "* * Appointments-of Scholarly * *",
+      "flowing_english_modernisation_translation": "* * Scholarly Appointments * *",
+      "visual_anomalies": [
+        "Centered heading."
+      ]
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": " ",
+      "full_line_transliteration": "[Space]",
+      "literal_English_translation": "[Space]",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "عنایتریز سنوح و صدور بیوریلان امر و اراده جناب خلافتپناهی موجبنجه",
+      "full_line_transliteration": "inayet-riz-i sünuh ve sudur buyurulan emr ve irade-i cenab-ı hilafet-penahi mucibince",
+      "literal_English_translation": "favor-scattering-of occurrence and issuance ordered command and will-of excellency-of caliphate-refuge consequence-by",
+      "flowing_english_modernisation_translation": "Pursuant to the favor-scattering command and will of His Excellency the Refuge of the Caliphate issued and occurred:",
+      "visual_anomalies": [
+        "'Hilafet-penahi' combined."
+      ]
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "اشبو رجب شریف غره سندن ضبط يلمك اوزره دارالخلافه العلیه قاضیلغی",
+      "full_line_transliteration": "işbu Receb-i Şerif gurresinden zabt eylemek üzere Darü'l-hilafe el-Aliyye kadılığı",
+      "literal_English_translation": "this Receb-of Noble first-day-from holding doing upon Abode-of-the-Caliphate the-High judgeship-of",
+      "flowing_english_modernisation_translation": "The Judgeship of the Sublime Abode of the Caliphate (Istanbul), to be held effective from the first day of this Noble Receb,",
+      "visual_anomalies": [
+        "'Gurre' (first day of month)."
+      ]
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "عواطف علیه ملوکانه دن عمر اغا زاده محمد توفیق بك افندی حضرتلرینه",
+      "full_line_transliteration": "avatıf-ı aliyye-i mülukaneden Ömer Ağa-zade Mehmed Tevfik Bey Efendi hazretlerine",
+      "literal_English_translation": "favors-of high-of royal-from Ömer Agha-son-of Mehmed Tevfik Bey Efendi excellencies-his-to",
+      "flowing_english_modernisation_translation": "was conferred from the Royal High Favors upon His Excellency Mehmed Tevfik Bey Efendi, son of Ömer Agha.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "توجیه و ایجاب ایدن امر عالیسی اعطاسیله میر مومى اليه ترفیه بیورلمشدر",
+      "full_line_transliteration": "tevcih ve icab eden emr-i alisi i'tasıyla mir muma-ileyh terfih buyurulmuşdur",
+      "literal_English_translation": "conferring and requirement doing order-of high-his giving-with bey aforesaid making-prosperous ordered-has-been",
+      "flowing_english_modernisation_translation": "By the giving of the High Order required, the aforesaid Bey was made prosperous.",
+      "visual_anomalies": [
+        "'Terfih' (to make comfortable/prosperous)."
+      ]
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": " ",
+      "full_line_transliteration": "[Space]",
+      "literal_English_translation": "[Space]",
+      "flowing_English_modernisation_translation": "",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "شام شریف قضاسی اشبو سنه مبارکه شوالى غره سندن ضبط ایلمك اوزره",
+      "full_line_transliteration": "Şam-ı Şerif kazası işbu sene-i mübareke Şevval'i gurresinden zabt eylemek üzere",
+      "literal_English_translation": "Damascus-of Noble district-of this year-of blessed Şevval-of first-day-from holding doing upon",
+      "flowing_english_modernisation_translation": "The Judgeship of Noble Damascus, to be held effective from the first day of Şevval of this blessed year,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "سابقا قدس شریف قاضیسی ابو بكر افندی زاده السيد مصطفى افندی یه",
+      "full_line_transliteration": "sabıka Kudüs-i Şerif kadısı Ebu Bekir Efendi-zade es-Seyyid Mustafa Efendi'ye",
+      "literal_English_translation": "formerly Jerusalem-of Noble judge-of Ebu Bekir Efendi-son-of es-Seyyid Mustafa Efendi-to",
+      "flowing_english_modernisation_translation": "[was conferred upon] the former Judge of Noble Jerusalem, es-Seyyid Mustafa Efendi, son of Ebu Bekir Efendi.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 43,
+      "full_line_original_script": "و مومى اليهك بروجه ارپه لق عهده سندن منحل اولان نكوش قضاسی شهر آتی",
+      "full_line_transliteration": "ve muma-ileyhin ber-vech-i arpalık uhdesinden münhal olan Nikuş? kazası şehr-i ati",
+      "literal_English_translation": "and aforesaid-of by-way-of barley-money charge-his-from vacant being Nicosia district-of month-of coming",
+      "flowing_english_modernisation_translation": "And the Judgeship of Nicosia, which became vacant from the charge of the aforesaid as an 'arpalık' (benefice), to be held effective from the first day of the coming month,",
+      "visual_anomalies": [
+        "'Nikuş' or 'Nikoş' (likely Nicosia/Lefkoşa, written Nun-Kef-Waw-Şin)."
+      ]
+    },
+    {
+      "line_number": 44,
+      "full_line_original_script": "غره سندن ضبط يتمك اوزره سابقا اسكدار قاضیسی صالح زاده افندی",
+      "full_line_transliteration": "gurresinden zabt etmek üzere sabıka Üsküdar kadısı Salih-zade Efendi",
+      "literal_English_translation": "first-day-from holding doing upon formerly Üsküdar judge-of Salih-zade Efendi",
+      "flowing_english_modernisation_translation": "[was conferred upon] Mehmed Rüşdi Efendi, grandson of the former Judge of Üsküdar, Salih-zade Efendi.",
+      "visual_anomalies": [
+        "'Etmek' written 'ytmk' (yetmek/etmek)."
+      ]
+    },
+    {
+      "line_number": 45,
+      "full_line_original_script": "حفیدی محمد رشدی افندی یه و مصرف قضاسی ینه سوار المكرم غره سندن",
+      "full_line_transliteration": "hafidi Mehmed Rüşdi Efendi'ye ve Masraf? kazası yine Şevvalü'l-mükerrem gurresinden",
+      "literal_English_translation": "grandson-his Mehmed Rüşdi Efendi-to and Masraf? district-of again Şevval-the-honored first-day-from",
+      "flowing_english_modernisation_translation": "And the Judgeship of [Masraf/Mısır?], to be held effective again from the first day of the Honored Şevval,",
+      "visual_anomalies": [
+        "'Masraf' or 'Mısır' - looks like Mim-Sad-Ra-Fe. Could be a place name 'Masraf'.",
+        "'Süvar' likely typo for 'Şevval' (Shin-Waw-Alif-Lam), ink looks like Sin-Waw-Alif-Ra."
+      ]
+    },
+    {
+      "line_number": 46,
+      "full_line_original_script": "ضبط يلمك اوزره سابقا قدس شریف قاضیسی طر قچی زاده السيد مصطفى بك",
+      "full_line_transliteration": "zabt eylemek üzere sabıka Kudüs-i Şerif kadısı Tarakçızade es-Seyyid Mustafa Bey",
+      "literal_English_translation": "holding doing upon formerly Jerusalem-of Noble judge-of Tarakçızade es-Seyyid Mustafa Bey",
+      "flowing_english_modernisation_translation": "[was conferred upon] the former Judge of Noble Jerusalem, Tarakçızade es-Seyyid Mustafa Bey Efendi.",
+      "visual_anomalies": [
+        "'Tarakçızade' written 'Trqçyzade'."
+      ]
+    },
+    {
+      "line_number": 47,
+      "full_line_original_script": "افندی یه و مومى اليهك عهده سندن منحل اولان لابسکی قضاسی كذلك",
+      "full_line_transliteration": "Efendi'ye ve muma-ileyhin uhdesinden münhal olan Lapseki kazası kezalik",
+      "literal_English_translation": "Efendi-to and aforesaid-of charge-his-from vacant being Lapseki district-of likewise",
+      "flowing_english_modernisation_translation": "And the Judgeship of Lapseki, which became vacant from the charge of the aforesaid,",
+      "visual_anomalies": [
+        "'Lapseki' written 'Labski'."
+      ]
+    },
+    {
+      "line_number": 48,
+      "full_line_original_script": "شهر آتی غره سندن ضبط ایتمك اوزره بر وجه ارپه لق سابقا خواص رفیعه",
+      "full_line_transliteration": "şehr-i ati gurresinden zabt etmek üzere ber-vech-i arpalık sabıka Havas-ı Refia",
+      "literal_English_translation": "month-of coming first-day-from holding doing upon by-way-of barley-money formerly Havas-ı Refia",
+      "flowing_english_modernisation_translation": "to be held effective from the first day of the coming month as an 'arpalık', [was conferred upon] es-Seyyid Yahya Bey,",
+      "visual_anomalies": [
+        "'Havas-ı Refia' (Eyüp)."
+      ]
+    },
+    {
+      "line_number": 49,
+      "full_line_original_script": "قاضیسی خانم سلطان حفیدی السيد یحیی بكه و بلاد دوربه دن قلبه قضاسی",
+      "full_line_transliteration": "kadısı Hanım Sultan hafidi es-Seyyid Yahya Bey'e ve bilad-ı devriye'den Galata kazası",
+      "literal_English_translation": "judge-of Hanım Sultan grandson-of es-Seyyid Yahya Bey-to and towns-of rotational-from Galata district-of",
+      "flowing_english_modernisation_translation": "grandson of Hanım Sultan, former Judge of Eyüp (Havas-ı Refia). And from the 'Rotational Towns', the Judgeship of Galata...",
+      "visual_anomalies": [
+        "'Galata' written 'Kalbe' again (Qaf-Lam-Ba-Ha)."
+      ]
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "[the rank of] Head Doorkeeper, and to Samih Efendi, the esteemed rank of Clerk of the Imperial Divan,\nwere conferred and given, and their Imperial Warrants were written and dictated.\nRegarding the former Superintendent of Galata, Edhem Efendi, and the former Deputy Governor of Amasya, Şakir Bey;\nsince their ranks were previously lowered and demoted by necessity, leaving them in a wretched state\nand broken-hearted; they requested and begged with a petition that their removed ranks be conferred and granted back.\nAnd indeed, since the two aforesaid persons were found despondent\nand grieved, and in every way worthy of the mercy and compassion of the benevolence-spreading King of Kings;\nbased on this, the correction and continuation of the rank of Clerk of the Imperial Divan, which Edhem Efendi from the aforesaid two had previously attained,\nand likewise the rank of Head Doorkeeper of the Imperial Stirrup for Şakir Bey,\nso that they may possess them as in the past, were granted by the unsparing and worthy kindness-accustomed permission\nof His Royal Excellency; and by conferring the mentioned ranks upon them anew,\nthe two aforesaid persons were promoted and revived from scratch.\n\nSince Mustafa Bey, son of Yusuf Sıddık Bey from the Thessaloniki dynasty and of the Head Doorkeepers of the Sublime Court,\nand Ratib Bey, son of Izzet Bey from the notables of Larissa (Yenişehir), are men of sagacity\nand worthy of employment in the services of the Exalted State; their being gratified with the grant of the high rank of Head Doorkeeper\nwas requested by His Excellency the Kindly Mustafa Nuri Pasha, Marshal of the Five Sanjaks (Elviye-i Hamse).\nAdditionally, Edhem Agha, brother of the Bayındır Voyvoda [Arib?] Pasha,\nand Galib Bey, son of [Verah?] Bey from the Head Doorkeepers of the Sublime Court,\nbeing among the loyal servants of the Exalted State, were likewise found worthy of favor.\nBased on this, pursuant to the honor-increasing benevolence-accustomed Royal command and will issued,\nfrom the Royal High Favors, the Head Doorkeepership of the Exalted Court was conferred and granted\nto Mustafa Bey, Ratib Bey, and Edhem Agha; and the Head Doorkeepership of the Imperial Stirrup to Galib Bey.\nBy the granting of their Imperial Warrants dated the twenty-ninth day of the mentioned previous month,\nthe aforesaid persons were made the objects of infinite favor.\n(Sentence completion)\n\nEsad Efendi, one of the officials of the Two Noble Sanctuaries (Mecca and Medina), being a man of skill and knowledge,\nand based on his being worthy of favor in every way; the benevolence-accustomed will of the World Ruler\nhaving been issued regarding the conferring of the rank of Clerkship; from the beautiful Royal favors, the Clerkship of the Imperial Divan\nwas conferred upon the aforesaid, and by the granting of his Imperial Warrant dated the twenty-third day of the mentioned previous month,\nhis status was elevated.\n\n* * Scholarly Appointments * *\n\nPursuant to the favor-scattering command and will of His Excellency the Refuge of the Caliphate issued and occurred:\nThe Judgeship of the Sublime Abode of the Caliphate (Istanbul), to be held effective from the first day of this Noble Receb,\nwas conferred from the Royal High Favors upon His Excellency Mehmed Tevfik Bey Efendi, son of Ömer Agha.\nBy the giving of the High Order required, the aforesaid Bey was made prosperous.\n\nThe Judgeship of Noble Damascus, to be held effective from the first day of Şevval of this blessed year,\n[was conferred upon] the former Judge of Noble Jerusalem, es-Seyyid Mustafa Efendi, son of Ebu Bekir Efendi.\nAnd the Judgeship of Nicosia, which became vacant from the charge of the aforesaid as an 'arpalık' (benefice), to be held effective from the first day of the coming month,\n[was conferred upon] Mehmed Rüşdi Efendi, grandson of the former Judge of Üsküdar, Salih-zade Efendi.\nAnd the Judgeship of [Masraf/Mısır?], to be held effective again from the first day of the Honored Şevval,\n[was conferred upon] the former Judge of Noble Jerusalem, Tarakçızade es-Seyyid Mustafa Bey Efendi.\nAnd the Judgeship of Lapseki, which became vacant from the charge of the aforesaid,\nto be held effective from the first day of the coming month as an 'arpalık', [was conferred upon] es-Seyyid Yahya Bey,\ngrandson of Hanım Sultan, former Judge of Eyüp (Havas-ı Refia). And from the 'Rotational Towns', the Judgeship of Galata...",
+  "summary": "This section of the Takvîm-i Vekâyi lists various civil and religious appointments. Civil appointments include the restoration of ranks for Edhem Efendi (Imperial Clerk) and Şakir Bey (Head Doorkeeper) after a period of demotion. New Head Doorkeeper titles were granted to Mustafa Bey (Thessaloniki), Ratib Bey (Larissa), Edhem Agha, and Galib Bey upon recommendation. Esad Efendi was made a Clerk of the Imperial Divan. The 'Scholarly Appointments' section announces major judicial postings: Mehmed Tevfik Bey Efendi becomes Judge of Istanbul; es-Seyyid Mustafa Efendi (son of Ebu Bekir) becomes Judge of Damascus; Mehmed Rüşdi Efendi becomes Judge of Nicosia; Tarakçızade Mustafa Bey becomes Judge of [Masraf?]; and Yahya Bey becomes Judge of Lapseki."
+}

@@ -1,0 +1,396 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experimen 126",
+    "experiment_date": "Wednesday, December 24th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET V2",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "185",
+    "date": "September 25th, 1839",
+    "page": 4,
+    "column": "RH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "كذلك شوال شريف غره سندن ضبط ايتمك اوزره ارضرومى ابراهيم افندى يه",
+      "full_line_transliteration": "Kezâlik Şevvâl-i şerîf gurresinden zabt itmek üzere Erzurûmî İbrâhîm Efendi'ye",
+      "literal_English_translation": "Likewise Şevval-noble-of first-day-from holding to-do upon Erzurumi Ibrahim Efendi-to",
+      "flowing_English_modernisation_translation": "Likewise, the Judgeship of [Erzurum?], to be held effective from the first day of Noble Şevval, to Erzurumi Ibrahim Efendi,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "توجيه واقتضا ايدن امر عاليلرى اعطا اولنمشدر",
+      "full_line_transliteration": "Tevcîh ve iktizâ iden emr-i 'âlîleri i'tâ olunmuşdur",
+      "literal_English_translation": "Conferring and requirement doing order-high-their giving made-has-been",
+      "flowing_english_modernisation_translation": "was conferred, and the required High Order was given.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "عنايت افزاى سنوح وصدور بيوريلان امر وارادۀ حضرت جهانبانى",
+      "full_line_transliteration": "'İnâyet-efzây-ı sünûh ve sudûr buyurulan emr ve irâde-i hazret-i cihânbânî",
+      "literal_English_translation": "Favor-increasing-of occurrence and issuance ordered command and will-of excellency-of world-guardian",
+      "flowing_english_modernisation_translation": "Pursuant to the favor-increasing command and will of His Excellency the World Guardian issued and occurred:",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "موجبنجه حالا يكبشهر فار قاضيسى عشاقى زاده حفيدي السيد بهاء الدين",
+      "full_line_transliteration": "Mûcibince hâlâ Yenişehir Fâr Kâdısı 'Uşşâkîzâde hafîdi es-Seyyid Bahâeddîn",
+      "literal_English_translation": "Consequence-by currently Larissa Fener Judge-of Uşşakizade grandson-his es-Seyyid Bahaeddin",
+      "flowing_english_modernisation_translation": "Regarding the specified term of es-Seyyid Bahaeddin Efendi, grandson of Uşşakizade and current Judge of Larissa (Yenişehir Fener),",
+      "visual_anomalies": [
+        "'Fâr' (فار) appears where 'Fener' is expected; ink clearly shows Fa-Alif-Ra."
+      ]
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "افندينك اشبو رجب الفردك غايتنده ختامه رسيده اوله جق مدت معينه سنه",
+      "full_line_transliteration": "Efendi'nin işbu Recebü'l-ferdin gâyesinde hitâma resîde olacak müddet-i mu'ayyenyesine",
+      "literal_English_translation": "Efendi-of this Receb-the-unique-of end-in completion-to reached being-will period-of specified-his-to",
+      "flowing_english_modernisation_translation": "which will reach its completion at the end of this current Receb;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "اوچ ماه مد وضم اولنوب ماه مرقومك بشنجى كونيله مورخ امر عاليسى",
+      "full_line_transliteration": "Üç mâh medd ve zamm olunub mâh-ı merkûmun beşinci güniyle müverrah emr-i 'âlîsi",
+      "literal_English_translation": "Three month extension and addition made-being month-of mentioned-of fifth day-with dated order-of high-his",
+      "flowing_english_modernisation_translation": "three months were extended and added, and his High Order dated the fifth day of the mentioned month",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "اعطا اولنمشدر",
+      "full_line_transliteration": "İ'tâ olunmuşdur",
+      "literal_English_translation": "Giving made-has-been",
+      "flowing_english_modernisation_translation": "was given.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "عاطفت افزاى صدور بيوريلان امر وارادۀ عنايتعادۀ جناب شاهانه موجبنجه",
+      "full_line_transliteration": "'Âtıfet-efzây-ı sudûr buyurulan emr ve irâde-i 'inâyet-'âde-i cenâb-ı şâhâne mûcibince",
+      "literal_English_translation": "Benevolence-increasing-of issuance ordered command and will-of favor-habit-of excellency-of royal consequence-by",
+      "flowing_english_modernisation_translation": "Pursuant to the benevolence-increasing command and favor-accustomed will of His Royal Excellency issued:",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "درسيۀ محسن افندى در خاصكوى حافظ سيد افندى يه وثانيۀ كيريدى",
+      "full_line_transliteration": "Dersiye-i Muhsin Efendi der Hasköy Hâfız Seyyid Efendi'ye ve sâniye-i Giritî",
+      "literal_English_translation": "Lectureship-of Muhsin Efendi in Hasköy Hafız Seyyid Efendi-to and second-rank-of Cretan",
+      "flowing_english_modernisation_translation": "The Lectureship of Muhsin Efendi in Hasköy to Hafız Seyyid Efendi; the Second Rank (Saniye) of Cretan",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "احمد افندى السيد يوسف خلوصى افندى يه ودرسيۀ نظمى زاده در جامع",
+      "full_line_transliteration": "Ahmed Efendi es-Seyyid Yûsuf Hulûsî Efendi'ye ve dersiye-i Nazmîzâde der câmi'-i",
+      "literal_English_translation": "Ahmed Efendi es-Seyyid Yusuf Hulusi Efendi-to and lectureship-of Nazmizade in mosque-of",
+      "flowing_english_modernisation_translation": "Ahmed Efendi [Madrasa] to es-Seyyid Yusuf Hulusi Efendi; the Lectureship of Nazmizade in the Mosque of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "ابن ملك قسطمونيلى السيد محمد افندى يه ودرسيۀ ذوالنون افندى در جامع",
+      "full_line_transliteration": "İbn-i Melek Kastamonulu es-Seyyid Muhammed Efendi'ye ve dersiye-i Zünnûn Efendi der câmi'-i",
+      "literal_English_translation": "Ibn-i Melek Kastamonu-from es-Seyyid Muhammed Efendi-to and lectureship-of Zunnun Efendi in mosque-of",
+      "flowing_english_modernisation_translation": "Ibn-i Melek to es-Seyyid Muhammed Efendi from Kastamonu; the Lectureship of Zunnun Efendi in the Mosque of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "نصوح پاشا وزير كوبريلى السيد مصطفى افندى يه وثانيۀ طيفور بك",
+      "full_line_transliteration": "Nasûh Paşa Vezîr Köprülü es-Seyyid Mustafâ Efendi'ye ve sâniye-i Tayfûr Bey",
+      "literal_English_translation": "Nasuh Pasha Vizier Köprülü es-Seyyid Mustafa Efendi-to and second-rank-of Tayfur Bey",
+      "flowing_english_modernisation_translation": "Nasuh Pasha to Vizier Köprülü es-Seyyid Mustafa Efendi; the Second Rank of Tayfur Bey",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "مدرسه سى قسطمونيلى السيد مصطفى افندى يه وثانيۀ ارضرومى عباس",
+      "full_line_transliteration": "Medresesi Kastamonulu es-Seyyid Mustafâ Efendi'ye ve sâniye-i Erzurûmî 'Abbâs",
+      "literal_English_translation": "Madrasa-of Kastamonu-from es-Seyyid Mustafa Efendi-to and second-rank-of Erzurumi Abbas",
+      "flowing_english_modernisation_translation": "Madrasa to es-Seyyid Mustafa Efendi from Kastamonu; the Second Rank of Erzurumi Abbas",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "افندى مدرسه سى دكزليلى مصطفى افندى يه ودرسيۀ فيضى زاده در قرب",
+      "full_line_transliteration": "Efendi medresesi Denizlili Mustafâ Efendi'ye ve dersiye-i Feyzîzâde der kurb-i",
+      "literal_English_translation": "Efendi madrasa-of Denizli-from Mustafa Efendi-to and lectureship-of Feyzizade in vicinity-of",
+      "flowing_english_modernisation_translation": "Efendi Madrasa to Mustafa Efendi from Denizli; the Lectureship of Feyzizade in the vicinity of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "جهانكير الاشهرلى السيد خليل افندى يه ودرسيۀ ذوالقفار اغا",
+      "full_line_transliteration": "Cihângîr Alaşehirli es-Seyyid Halîl Efendi'ye ve dersiye-i Zülfikâr Ağa",
+      "literal_English_translation": "Cihangir Alaşehir-from es-Seyyid Halil Efendi-to and lectureship-of Zülfikar Agha",
+      "flowing_english_modernisation_translation": "Cihangir to es-Seyyid Halil Efendi from Alaşehir; the Lectureship of Zülfikar Agha",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "در جامع حمزه بك انقره وى على افندى يه وثانيۀ اسفنديار بك مدرسه سى",
+      "full_line_transliteration": "Der câmi'-i Hamza Bey Ankarevî 'Alî Efendi'ye ve sâniye-i İsfendiyâr Bey medresesi",
+      "literal_English_translation": "In mosque-of Hamza Bey Ankara-from Ali Efendi-to and second-rank-of Isfendiyar Bey madrasa-of",
+      "flowing_english_modernisation_translation": "in the Mosque of Hamza Bey to Ali Efendi from Ankara; the Second Rank of Isfendiyar Bey Madrasa",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "قيصريه وى سليمان افندى يه ودرسيۀ زبور افندى در جامع ممك زاده",
+      "full_line_transliteration": "Kayseriyevî Süleymân Efendi'ye ve dersiye-i Zebûr Efendi der câmi'-i Memekzâde",
+      "literal_English_translation": "Kayseri-from Süleyman Efendi-to and lectureship-of Zebur Efendi in mosque-of Memekzade",
+      "flowing_english_modernisation_translation": "to Süleyman Efendi from Kayseri; the Lectureship of Zebur Efendi in the Mosque of Memekzade",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "بروسه وى محمد سعيد افندى يه وثالثۀ احمديه مدرسه سى ي قوه لى على افندى يه",
+      "full_line_transliteration": "Burusavî Muhammed Sa'îd Efendi'ye ve sâlise-i Ahmediye medresesi Yakovalı 'Alî Efendi'ye",
+      "literal_English_translation": "Bursa-from Muhammed Said Efendi-to and third-rank-of Ahmediye madrasa-of Yakova-from Ali Efendi-to",
+      "flowing_english_modernisation_translation": "to Muhammed Said Efendi from Bursa; the Third Rank (Salise) of Ahmediye Madrasa to Ali Efendi from Yakova;",
+      "visual_anomalies": [
+        "'Yakovalı' written disjointed as 'y kove lı' (ي قوه لى)."
+      ]
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "ودرسيۀ مؤذن زاده شريف افندى در جامع كفدلى اوده مشلى محمد افندى يه",
+      "full_line_transliteration": "Ve dersiye-i Müezzinzâde Şerîf Efendi der câmi'-i Kefedli Ödemişli Muhammed Efendi'ye",
+      "literal_English_translation": "And lectureship-of Müezzinzade Şerif Efendi in mosque-of Kefeli Ödemiş-from Muhammed Efendi-to",
+      "flowing_english_modernisation_translation": "and the Lectureship of Müezzinzade Şerif Efendi in the Mosque of Kefeli to Muhammed Efendi from Ödemiş;",
+      "visual_anomalies": [
+        "'Kefeli' appears written as 'Kefedli' (كفدلى) with a Dal."
+      ]
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "وثانيۀ مصنف عبداه افندى مدرسه سى برشتنه لى سليمان افندى يه ودرسيۀ",
+      "full_line_transliteration": "Ve sâniye-i Musannif 'Abdullâh Efendi medresesi Priştineli Süleymân Efendi'ye ve dersiye-i",
+      "literal_English_translation": "And second-rank-of Musannif Abdullah Efendi madrasa-of Pristina-from Süleyman Efendi-to and lectureship-of",
+      "flowing_english_modernisation_translation": "and the Second Rank of Musannif Abdullah Efendi Madrasa to Süleyman Efendi from Pristina; and the Lectureship of",
+      "visual_anomalies": [
+        "'Abdullâh' abbreviated as 'Abdâh' (عبداه)."
+      ]
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "وحيد بك در مسجد سرى زاده اكينلى خليل افندى يه وثانيۀ وانى زاده",
+      "full_line_transliteration": "Vahîd Bey der mescid-i Sırrızâde Eğinli Halîl Efendi'ye ve sâniye-i Vânîzâde",
+      "literal_English_translation": "Vahid Bey in masjid-of Sırrızade Eğin-from Halil Efendi-to and second-rank-of Vanizade",
+      "flowing_english_modernisation_translation": "Vahid Bey in the Masjid of Sırrızade to Halil Efendi from Eğin; and the Second Rank of Vanizade",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "شمس الدين افندى مدرسه سى دكزليلى على افندى يه ودرسيۀ مفتى زاده در خانقاه",
+      "full_line_transliteration": "Şemseddîn Efendi medresesi Denizlili 'Alî Efendi'ye ve dersiye-i Müftîzâde der hânkâh-ı",
+      "literal_English_translation": "Şemseddin Efendi madrasa-of Denizli-from Ali Efendi-to and lectureship-of Müftizade in lodge-of",
+      "flowing_english_modernisation_translation": "Şemseddin Efendi Madrasa to Ali Efendi from Denizli; and the Lectureship of Müftizade in the Lodge (Hânkâh) of",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "جمال بك السيد بلال افندى يه وثانيۀ الحاج سنان اغا مدرسه سى اوده مشلى",
+      "full_line_transliteration": "Cemâl Bey es-Seyyid Bilâl Efendi'ye ve sâniye-i el-Hâcc Sinân Ağa medresesi Ödemişli",
+      "literal_English_translation": "Cemal Bey es-Seyyid Bilal Efendi-to and second-rank-of el-Hacc Sinan Agha madrasa-of Ödemiş-from",
+      "flowing_english_modernisation_translation": "Cemal Bey to es-Seyyid Bilal Efendi; and the Second Rank of Hacı Sinan Agha Madrasa to",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "احمد افندى يه ودرسيۀ محرم اغا در جامع شرف الدين اياسلى محمود صدقى افندى يه",
+      "full_line_transliteration": "Ahmed Efendi'ye ve dersiye-i Muharrem Ağa der câmi'-i Şerefeddîn Ayaşlı Mahmûd Sıdkı Efendi'ye",
+      "literal_English_translation": "Ahmed Efendi-to and lectureship-of Muharrem Agha in mosque-of Şerefeddin Ayaş-from Mahmud Sıdkı Efendi-to",
+      "flowing_english_modernisation_translation": "Ahmed Efendi from Ödemiş; and the Lectureship of Muharrem Agha in the Mosque of Şerefeddin to Mahmud Sıdkı Efendi from Ayaş;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "وثانيۀ عبد الجليل زاده عمر بك مدرسه سى محمود زهدى افندى يه ودرسيۀ دباغ",
+      "full_line_transliteration": "Ve sâniye-i 'Abdülcelîlzâde 'Ömer Bey medresesi Mahmûd Zühdî Efendi'ye ve dersiye-i Debbâğ",
+      "literal_English_translation": "And second-rank-of Abdülcelilzade Ömer Bey madrasa-of Mahmud Zühdi Efendi-to and lectureship-of Debbağ",
+      "flowing_english_modernisation_translation": "and the Second Rank of Abdülcelilzade Ömer Bey Madrasa to Mahmud Zühdi Efendi; and the Lectureship of Debbağ",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "يوسف افندى در مسجد سفيان اغا نوشهرى مفتى زاده السيد احمد حازم",
+      "full_line_transliteration": "Yûsuf Efendi der mescid-i Sufyân Ağa Nevşehirli Müftîzâde es-Seyyid Ahmed Hâzım",
+      "literal_English_translation": "Yusuf Efendi in masjid-of Sufyan Agha Nevşehir-from Müftizade es-Seyyid Ahmed Hazım",
+      "flowing_english_modernisation_translation": "Yusuf Efendi in the Masjid of Sufyan Agha to Müftizade es-Seyyid Ahmed Hazım from Nevşehir;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "افندى يه ودرسيۀ حمزه زاده در جامع عوض پاشا بورابلى خواجه زاده",
+      "full_line_transliteration": "Efendi'ye ve dersiye-i Hamzazâde der câmi'-i 'Ivaz Paşa Borabeyli Hâcezâde",
+      "literal_English_translation": "Efendi-to and lectureship-of Hamzazade in mosque-of Ivaz Pasha Borabey-from Hacezade",
+      "flowing_english_modernisation_translation": "and the Lectureship of Hamzazade in the Mosque of Ivaz Pasha to Hacezade from Borabey",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "محمد امين افندى يه و روانى چلبى مدرسه سى قره حصار نعللى خواجه زاده",
+      "full_line_transliteration": "Muhammed Emîn Efendi'ye ve Revânî Çelebi medresesi Karahisar-ı Na'llı Hâcezâde",
+      "literal_English_translation": "Muhammed Emin Efendi-to and Revani Çelebi madrasa-of Karahisar-Na'llı-from Hacezade",
+      "flowing_english_modernisation_translation": "Muhammed Emin Efendi; and the Revani Çelebi Madrasa to Hacezade from Karahisar-ı Na'llı (Nallıhan?)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "عبدالرحمن افندى يه ودرسيۀ غازى حسن پاشا عصمتلو صالحه سلطان علية",
+      "full_line_transliteration": "'Abdurrahmân Efendi'ye ve dersiye-i Gâzî Hasan Paşa 'ismetlü Sâliha Sultân 'aliyetü",
+      "literal_English_translation": "Abdurrahman Efendi-to and lectureship-of Gazi Hasan Pasha chaste Saliha Sultan high-of",
+      "flowing_english_modernisation_translation": "Abdurrahman Efendi; and the Lectureship of Gazi Hasan Pasha to the Imam of Her Highness the Chaste Saliha Sultan,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "الشان حضرتلرى امامى حافظ يوسف افندى يه وثانيۀ رستم بق مدرسه سى",
+      "full_line_transliteration": "ş-şân hazretleri imâmı Hâfız Yûsuf Efendi'ye ve sâniye-i Rüstem Beq medresesi",
+      "literal_English_translation": "glory excellency-her imam-of Hafız Yusuf Efendi-to and second-rank-of Rüstem Beg madrasa-of",
+      "flowing_english_modernisation_translation": "Hafız Yusuf Efendi; and the Second Rank of Rüstem Bey Madrasa",
+      "visual_anomalies": [
+        "'Rüstem Bey' written as 'Rüstem Beq' (رستم بق) with two dots on the final letter."
+      ]
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "قيصريه لى ابو بكر صدقى افندى يه ودرسيۀ ولى الدين اغا قره اغاجى السيد",
+      "full_line_transliteration": "Kayseriyeli Ebûbekir Sıdkı Efendi'ye ve dersiye-i Veliyyüddîn Ağa Karaağacî es-Seyyid",
+      "literal_English_translation": "Kayseri-from Ebubekir Sıdkı Efendi-to and lectureship-of Veliyyüddin Agha Karaağaç-from es-Seyyid",
+      "flowing_english_modernisation_translation": "to Ebubekir Sıdkı Efendi from Kayseri; and the Lectureship of Veliyyüddin Agha to es-Seyyid",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "ابراهيم افندى يه ودرسيۀ داماد محمد افندى بوزقيرلى السيد اسماعيل افندى يه",
+      "full_line_transliteration": "İbrâhîm Efendi'ye ve dersiye-i Dâmâd Muhammed Efendi Bozkırlı es-Seyyid İsmâ'îl Efendi'ye",
+      "literal_English_translation": "Ibrahim Efendi-to and lectureship-of Damad Muhammed Efendi Bozkır-from es-Seyyid Ismail Efendi-to",
+      "flowing_english_modernisation_translation": "Ibrahim Efendi from Karaağaç; and the Lectureship of Damad Muhammed Efendi to es-Seyyid Ismail Efendi from Bozkır;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "ورابعۀ يوسف پاشا مدرسه سى لفكه وى حافظ احمد شكرى افندى يه وبياضيه",
+      "full_line_transliteration": "Ve râbi'a-i Yûsuf Paşa medresesi Lefkevî Hâfız Ahmed Şükrî Efendi'ye ve Beyâziye",
+      "literal_English_translation": "And fourth-rank-of Yusuf Pasha madrasa-of Lefke-from Hafız Ahmed Şükrü Efendi-to and Beyaziye",
+      "flowing_english_modernisation_translation": "and the Fourth Rank (Rabia) of Yusuf Pasha Madrasa to Hafız Ahmed Şükrü Efendi from Lefke; and the Beyaziye",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "مدرسه سى ادرنه لى السيد احمد افندى يه ابتدا خارج ايله با اشارت عليه توجيه",
+      "full_line_transliteration": "Medresesi Edirneli es-Seyyid Ahmed Efendi'ye ibtidâ hâric ile bâ-işâret-i 'aliyye tevcîh",
+      "literal_English_translation": "Madrasa-of Edirne-from es-Seyyid Ahmed Efendi-to initially hariç with by-sign-of high conferring",
+      "flowing_english_modernisation_translation": "Madrasa to es-Seyyid Ahmed Efendi from Edirne; were conferred and granted as 'Initial Exterior' (İbtida Hariç) by High Decree,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "واحسان وشهر سابقك اون يدنجى كونيله مورخ رؤس همايونلرى اعطاسيله",
+      "full_line_transliteration": "Ve ihsân ve şehr-i sâbıkın on yedinci güniyle müverrah ru'ûs-ı hümâyûnları i'tâsıyla",
+      "literal_English_translation": "And benevolence and month-of previous-of seventeen day-with dated warrants-of imperial-their giving-with",
+      "flowing_english_modernisation_translation": "and by the giving of their Imperial Warrants dated the seventeenth day of the previous month,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "مومى اليهم شادان قلنمشدر",
+      "full_line_transliteration": "Mûmâ-ileyhim şâdân kılınmışdır",
+      "literal_English_translation": "Aforesaid-ones joyful made-have-been",
+      "flowing_english_modernisation_translation": "the aforesaid persons were made joyful.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "شرف افزاى صدور بيوريلان امر وارادۀ مراجعتعادۀ جناب شاهانه",
+      "full_line_transliteration": "Şeref-efzây-ı sudûr buyurulan emr ve irâde-i mürâca'at-'âde-i cenâb-ı şâhâne",
+      "literal_English_translation": "Honor-increasing-of issuance ordered command and will-of recurrence-habit-of excellency-of royal",
+      "flowing_english_modernisation_translation": "Pursuant to the honor-increasing benevolence-accustomed Royal command and will issued:",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "موجبنجه ثانيۀ يعقوب پاشا مدرسه سى عطوفتلو مصطفى نورى پاشا حضرتلرى",
+      "full_line_transliteration": "Mûcibince sâniye-i Ya'kûb Paşa medresesi 'atûfetlü Mustafâ Nûrî Paşa hazretleri",
+      "literal_English_translation": "Consequence-by second-rank-of Yakub Pasha madrasa-of kindly Mustafa Nuri Pasha excellencies-his",
+      "flowing_english_modernisation_translation": "The Second Rank of Yakub Pasha Madrasa to Mir Hasan Efendi, son of Hacı Muhammed Agha, steward (Kethüda) of His Excellency the Kindly Mustafa Nuri Pasha;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "كتخدالرى الحاج محمد اغا زاده مير حسن افندى يه وثانيۀ خصالى چلبى",
+      "full_line_transliteration": "Kethüdâları el-Hâcc Muhammed Ağa-zâde Mîr Hasan Efendi'ye ve sâniye-i Hısâlî Çelebi",
+      "literal_English_translation": "Stewards-his el-Hacc Muhammed Agha-son-of Mir Hasan Efendi-to and second-rank-of Hısali Çelebi",
+      "flowing_english_modernisation_translation": "and the Second Rank of Hısali Çelebi",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": "مدرسه سى مشار اليه حضرتلرينك امام لرى حافظ محمد افندى يه وثالثۀ ملا",
+      "full_line_transliteration": "Medresesi müşârün-ileyh hazretlerinin imâmları Hâfız Muhammed Efendi'ye ve sâlise-i Mollâ",
+      "literal_English_translation": "Madrasa-of aforesaid excellency-his-of imams-their Hafız Muhammed Efendi-to and third-rank-of Molla",
+      "flowing_english_modernisation_translation": "Madrasa to Hafız Muhammed Efendi, Imam of His aforesaid Excellency; and the Third Rank of Molla",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "شرف مدرسه سى يكبشهرلى عثمان اغا زاده غالب افندى يه ابتدا خارج ايله",
+      "full_line_transliteration": "Şeref medresesi Yenişehirli 'Osmân Ağa-zâde Gâlib Efendi'ye ibtidâ hâric ile",
+      "literal_English_translation": "Şeref madrasa-of Larissa-from Osman Agha-son-of Galib Efendi-to initially hariç with",
+      "flowing_english_modernisation_translation": "Şeref Madrasa to Galib Efendi, son of Osman Agha from Larissa; were conferred and granted as 'Initial Exterior' (İbtida Hariç)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "با اشارت عليه توجيه واحسان واشبو رجب شريفك اوچنجى كونيله مورخ",
+      "full_line_transliteration": "Bâ-işâret-i 'aliyye tevcîh ve ihsân ve işbu Receb-i şerîfin üçüncü güniyle müverrah",
+      "literal_English_translation": "By-sign-of high conferring and benevolence and this Receb-of noble-of third day-with dated",
+      "flowing_english_modernisation_translation": "by High Decree, and by the granting and sending of their Imperial Warrants dated the third day of this Noble Receb,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 43,
+      "full_line_original_script": "رؤس همايونلرى اعطا وتسياريله مومى اليهم فرحان بيورلمشدر",
+      "full_line_transliteration": "Ru'ûs-ı hümâyûnları i'tâ ve tesyârıyla mûmâ-ileyhim ferhân buyurulmuşdur",
+      "literal_English_translation": "Warrants-of imperial-their giving and sending-with aforesaid-ones happy ordered-has-been",
+      "flowing_english_modernisation_translation": "the aforesaid persons were made happy.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 44,
+      "full_line_original_script": "سانحه پيراى صدور بيوريلان امر وارادۀ احسانعادۀ جناب خلافتپناهى",
+      "full_line_transliteration": "Sâniha-pîrây-ı sudûr buyurulan emr ve irâde-i ihsân-'âde-i cenâb-ı hilâfet-penâhî",
+      "literal_English_translation": "Occurrence-adorning-of issuance ordered command and will-of benevolence-habit-of excellency-of caliphate-refuge",
+      "flowing_english_modernisation_translation": "Pursuant to the benevolence-accustomed command and will of His Excellency the Refuge of the Caliphate issued and adorned with occurrence:",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 45,
+      "full_line_original_script": "موجبنجه درسيۀ اشرف زاده در جامع حاجى يونس سالف الذكر مناستر",
+      "full_line_transliteration": "Mûcibince dersiye-i Eşrefzâde der câmi'-i Hacı Yûnus sâlifü'z-zikr Manastır",
+      "literal_English_translation": "Consequence-by lectureship-of Eşrefzade in mosque-of Hacı Yunus previous-the-mention Manastır",
+      "flowing_english_modernisation_translation": "The Lectureship of Eşrefzade in the Mosque of Hacı Yunus to Hafız Ahmed Efendi, son of Süleyman Efendi, the previously mentioned Mufti of Manastır,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 46,
+      "full_line_original_script": "مفتيسى سليمان افندى زاده حافظ احمد افندى يه ابتدا خارج ايله با اشارت",
+      "full_line_transliteration": "Müftîsi Süleymân Efendi-zâde Hâfız Ahmed Efendi'ye ibtidâ hâric ile bâ-işâret",
+      "literal_English_translation": "Mufti-of Süleyman Efendi-son-of Hafız Ahmed Efendi-to initially hariç with by-sign",
+      "flowing_english_modernisation_translation": "as 'Initial Exterior' (İbtida Hariç) by [High] Decree...",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "Likewise, the Judgeship of [Erzurum?], to be held effective from the first day of Noble Şevval, to Erzurumi Ibrahim Efendi,\nwas conferred, and the required High Order was given.\nPursuant to the favor-increasing command and will of His Excellency the World Guardian issued and occurred:\nRegarding the specified term of es-Seyyid Bahaeddin Efendi, grandson of Uşşakizade and current Judge of Larissa (Yenişehir Fener),\nwhich will reach its completion at the end of this current Receb;\nthree months were extended and added, and his High Order dated the fifth day of the mentioned month\nwas given.\nPursuant to the benevolence-increasing command and favor-accustomed will of His Royal Excellency issued:\nThe Lectureship of Muhsin Efendi in Hasköy to Hafız Seyyid Efendi; the Second Rank (Saniye) of Cretan\nAhmed Efendi [Madrasa] to es-Seyyid Yusuf Hulusi Efendi; the Lectureship of Nazmizade in the Mosque of\nIbn-i Melek to es-Seyyid Muhammed Efendi from Kastamonu; the Lectureship of Zunnun Efendi in the Mosque of\nNasuh Pasha to Vizier Köprülü es-Seyyid Mustafa Efendi; the Second Rank of Tayfur Bey\nMadrasa to es-Seyyid Mustafa Efendi from Kastamonu; the Second Rank of Erzurumi Abbas\nEfendi Madrasa to Mustafa Efendi from Denizli; the Lectureship of Feyzizade in the vicinity of\nCihangir to es-Seyyid Halil Efendi from Alaşehir; the Lectureship of Zülfikar Agha\nin the Mosque of Hamza Bey to Ali Efendi from Ankara; the Second Rank of Isfendiyar Bey Madrasa\nto Süleyman Efendi from Kayseri; the Lectureship of Zebur Efendi in the Mosque of Memekzade\nto Muhammed Said Efendi from Bursa; the Third Rank (Salise) of Ahmediye Madrasa to Ali Efendi from Yakova;\nand the Lectureship of Müezzinzade Şerif Efendi in the Mosque of Kefeli to Muhammed Efendi from Ödemiş;\nand the Second Rank of Musannif Abdullah Efendi Madrasa to Süleyman Efendi from Pristina; and the Lectureship of\nVahid Bey in the Masjid of Sırrızade to Halil Efendi from Eğin; and the Second Rank of Vanizade\nŞemseddin Efendi Madrasa to Ali Efendi from Denizli; and the Lectureship of Müftizade in the Lodge (Hânkâh) of\nCemal Bey to es-Seyyid Bilal Efendi; and the Second Rank of Hacı Sinan Agha Madrasa to\nAhmed Efendi from Ödemiş; and the Lectureship of Muharrem Agha in the Mosque of Şerefeddin to Mahmud Sıdkı Efendi from Ayaş;\nand the Second Rank of Abdülcelilzade Ömer Bey Madrasa to Mahmud Zühdi Efendi; and the Lectureship of Debbağ\nYusuf Efendi in the Masjid of Sufyan Agha to Müftizade es-Seyyid Ahmed Hazım from Nevşehir;\nand the Lectureship of Hamzazade in the Mosque of Ivaz Pasha to Hacezade from Borabey\nMuhammed Emin Efendi; and the Revani Çelebi Madrasa to Hacezade from Karahisar-ı Na'llı (Nallıhan?)\nAbdurrahman Efendi; and the Lectureship of Gazi Hasan Pasha to the Imam of Her Highness the Chaste Saliha Sultan,\nHafız Yusuf Efendi; and the Second Rank of Rüstem Bey Madrasa\nto Ebubekir Sıdkı Efendi from Kayseri; and the Lectureship of Veliyyüddin Agha to es-Seyyid\nIbrahim Efendi from Karaağaç; and the Lectureship of Damad Muhammed Efendi to es-Seyyid Ismail Efendi from Bozkır;\nand the Fourth Rank (Rabia) of Yusuf Pasha Madrasa to Hafız Ahmed Şükrü Efendi from Lefke; and the Beyaziye\nMadrasa to es-Seyyid Ahmed Efendi from Edirne; were conferred and granted as 'Initial Exterior' (İbtida Hariç) by High Decree,\nand by the giving of their Imperial Warrants dated the seventeenth day of the previous month,\nthe aforesaid persons were made joyful.\nPursuant to the honor-increasing benevolence-accustomed Royal command and will issued:\nThe Second Rank of Yakub Pasha Madrasa to Mir Hasan Efendi, son of Hacı Muhammed Agha, steward (Kethüda) of His Excellency the Kindly Mustafa Nuri Pasha;\nand the Second Rank of Hısali Çelebi\nMadrasa to Hafız Muhammed Efendi, Imam of His aforesaid Excellency; and the Third Rank of Molla\nŞeref Madrasa to Galib Efendi, son of Osman Agha from Larissa; were conferred and granted as 'Initial Exterior' (İbtida Hariç)\nby High Decree, and by the granting and sending of their Imperial Warrants dated the third day of this Noble Receb,\nthe aforesaid persons were made happy.\nPursuant to the benevolence-accustomed command and will of His Excellency the Refuge of the Caliphate issued and adorned with occurrence:\nThe Lectureship of Eşrefzade in the Mosque of Hacı Yunus to Hafız Ahmed Efendi, son of Süleyman Efendi, the previously mentioned Mufti of Manastır,\nas 'Initial Exterior' (İbtida Hariç) by [High] Decree...",
+  "summary": "This section of the Takvîm-i Vekâyi lists a large number of scholarly and judicial appointments (Tevcihat-ı İlmiye). It announces the appointment of Ibrahim Efendi as Judge of [Erzurum?] and the extension of the term of Bahaeddin Efendi as Judge of Larissa. A significant portion is dedicated to the assignment of various Madrasa ranks (Saniye, Salise, Rabia, Ibtida Hariç) and Lectureships (Dersiye) in specific mosques to numerous scholars from different regions (Crete, Kastamonu, Denizli, Kayseri, etc.). Notable recipients include the Imam of Saliha Sultan (Hafız Yusuf Efendi) and the Steward and Imam of Mustafa Nuri Pasha. Finally, it grants a lectureship to Hafız Ahmed Efendi, son of the Mufti of Manastır mentioned in previous sections."
+}

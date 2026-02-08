@@ -1,0 +1,407 @@
+```json
+{
+  "header": {
+    "experiment": "Ottoman Turkish Experiment 124",
+    "experiment_date": "Wednesday, December 24th 2025",
+    "experimenter": "Colin Greenstreet",
+    "prompt": "Generation 10A HTR SKILL SHEET V2",
+    "document": "Takvîm-i Vekâyi",
+    "issue": "185",
+    "date": "September 25th, 1839",
+    "page": 3,
+    "column": "RH"
+  },
+  "batch_analysis": [
+    {
+      "line_number": 1,
+      "full_line_original_script": "روم ایلی مشیرلکی داخلنده کائن قضا لراها لیسی طرفندن بالوکاله مراسم بیعت",
+      "full_line_transliteration": "Rumeli müşirliği dahilinde kain kazalar ahalisi tarafından bil-vekale merasim-i biat",
+      "literal_English_translation": "Rumeli field-marshalship-of inside-in existing districts people-of side-from by-proxy ceremonies-of allegiance",
+      "flowing_English_modernisation_translation": "In order to perform, by proxy, the ceremonies of allegiance on behalf of the people of the districts within the Rumeli Field Marshalship,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 2,
+      "full_line_original_script": "ولوازم تبریك و تهنیت ایچون مناستر مفتیسی سلیمان فارس افندی",
+      "full_line_transliteration": "ve levazım-ı tebrik ve tehniyet içün Manastır müftüsü Süleyman Faris Efendi",
+      "literal_English_translation": "and requirements-of congratulation and felicitation for Manastır mufti-of Süleyman Faris Efendi",
+      "flowing_English_modernisation_translation": "and the requirements of congratulation and felicitation; the Mufti of Manastır, Süleyman Faris Efendi,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 3,
+      "full_line_original_script": "و وجوهدن متوفی اوحریلی محمود پاشا زاده شریف بك و اوچ نفر رعایا",
+      "full_line_transliteration": "ve vücuhdan müteveffa Ohri'li Mahmud Paşa-zade Şerif Bey ve üç nefer reaya",
+      "literal_English_translation": "and notables-from deceased Ohrid-from Mahmud Pasha-son-of Şerif Bey and three person subjects",
+      "flowing_English_modernisation_translation": "and from the notables, Şerif Bey, son of the late Mahmud Pasha of Ohrid, and three non-Muslim subject",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 4,
+      "full_line_original_script": "قوجه با شیلری بر طاقم معروضات ایله دربار شوکتقراره کوندرلمش",
+      "full_line_transliteration": "kocabaşıları bir takım maruzat ile derbar-ı şevket-karara gönderilmiş",
+      "literal_English_translation": "headmen-their a set petitions with court-of majesty-abode-to sent-been",
+      "flowing_english_modernisation_translation": "headmen (kocabaşıs) were sent to the Majestic Court with a set of petitions.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 5,
+      "full_line_original_script": "و مومى اليهما ایله مرسوملر باب عالی یه کلوب معروضات مرسوله یی بالتقدیم",
+      "full_line_transliteration": "ve muma-ileyhima ile mersumlar Bab-ı Ali'ye gelüp maruzat-ı mersuleyi bil-takdim",
+      "literal_English_translation": "and aforesaid-two with mentioned-ones Sublime-Porte-to coming petitions-of sent-acc by-presenting",
+      "flowing_english_modernisation_translation": "The two aforesaid persons and the mentioned individuals came to the Sublime Porte, presented the sent petitions,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 6,
+      "full_line_original_script": "سایه شوکتوایه حضرت شاهانه ده حضور و اسایشلری یرنده اولدیغنی و اغور",
+      "full_line_transliteration": "saye-i şevket-vaye-i hazret-i şahanede huzur ve asayişleri yerinde olduğunu ve uğur-ı",
+      "literal_English_translation": "shadow-of majesty-abounding-of excellency-of royal-in peace and securities-their place-in being-its-acc and sake-of",
+      "flowing_english_modernisation_translation": "and stated unanimously that under the majesty-abounding shadow of His Royal Excellency, their peace and security were in place,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 7,
+      "full_line_original_script": "همایون شاهانه ده مال و جانلریله انفاذ امر و فرمان جناب جهانداری یه",
+      "full_line_transliteration": "hümayun-ı şahanede mal ve canlarıyla infaz-ı emr ve ferman-ı cenab-ı cihandariye",
+      "literal_English_translation": "imperial-of royal-in property and lives-their-with execution-of order and decree-of excellency-of world-ruler-to",
+      "flowing_english_modernisation_translation": "and that they were ready at the center of obedience and consent-seeking to hasten and comply",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 8,
+      "full_line_original_script": "مبادرت و مطاوعت ایتمك اوزره مرکز فرمانبری و رضا جوییده بولندقلرینی",
+      "full_line_transliteration": "mübaderet ve mutavaat etmek üzere merkez-i ferman-beri ve rıza-cuyide bulunduklarını",
+      "literal_English_translation": "haste and obedience doing upon center-of command-bearing and consent-seeking-in being-their-acc",
+      "flowing_english_modernisation_translation": "with their property and lives to execute the orders and decrees of the World Ruler for the Imperial Royal sake.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 9,
+      "full_line_original_script": "یکزبان اوله رق یاد و بیان ایتمش و مومى اليهما يله مرسوملر عموم اهالی و رعایا",
+      "full_line_transliteration": "yek-zeban olarak yad ve beyan etmiş ve muma-ileyhima ile mersumlar umum ahali ve reaya",
+      "literal_English_translation": "one-tongue being mention and declaration done and aforesaid-two with mentioned-ones general people and subjects",
+      "flowing_english_modernisation_translation": "Since the two aforesaid persons and the mentioned individuals have thus actually fulfilled the conditions of allegiance and servitude on behalf of the general public and subjects,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 10,
+      "full_line_original_script": "طرفلرندن بو وجهله شرایط تابعیت و عبودیتی فعلا ایفا ایلمش اولدیغنه",
+      "full_line_transliteration": "taraflarından bu vechle şerait-i tabiiyet ve ubudiyeti fi'len ifa eylemiş olduğuna",
+      "literal_English_translation": "sides-their-from this way-with conditions-of allegiance and servitude-acc actually performance done being-its-to",
+      "flowing_english_modernisation_translation": "(Sentence continuation from previous line)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 11,
+      "full_line_original_script": "و کندولرينك برر کونه تلطیفلری شان فخامت نشان ملوکانه دن بولندیغنه بناء",
+      "full_line_transliteration": "ve kendilerinin birer güne taltifleri şan-ı fehamet-nişan-ı mülukaneden bulunduğuna binaen",
+      "literal_English_translation": "and themselves-of one-each kind rewarding-their glory-of greatness-sign-of royal-from being-its-to based-on",
+      "flowing_english_modernisation_translation": "and since rewarding them in some way is a requirement of the Royal Glory marked by greatness;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 12,
+      "full_line_original_script": "عواطف علیه شاهانه دن مومى اليه شریف بکه درکاه عالی قپوجی با شیلغی",
+      "full_line_transliteration": "avatıf-ı aliye-i şahaneden muma-ileyh Şerif Bey'e dergah-ı ali kapıcıbaşılığı",
+      "literal_English_translation": "favors-of high-of royal-from aforesaid Şerif Bey-to court-of high head-doorkeeper-ship-of",
+      "flowing_english_modernisation_translation": "from the Royal High Favors, the esteemed rank of Head Doorkeeper (Kapıcıbaşı) of the Sublime Court",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 13,
+      "full_line_original_script": "رتبه معتبره سی توجیه و احسان و قوجه باشی مرسوملرك یا کز کندولرينك",
+      "full_line_transliteration": "rütbe-i muteberesi tevcih ve ihsan ve kocabaşı mersumların yalnız kendilerinin",
+      "literal_English_translation": "rank-of esteemed-its conferring and benevolence and headman mentioned-ones-of only themselves-of",
+      "flowing_english_modernisation_translation": "was conferred and granted to the aforesaid Şerif Bey. Regarding the mentioned headmen, Royal Imperial permission was deemed worthy",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 14,
+      "full_line_original_script": "جزیه دن معافیتلری خصوصنه مساعده سنیه ملوکانه شایان بیورلمش",
+      "full_line_transliteration": "cizye'den muafiyetleri hususuna müsaade-i seniye-i mülukane şayan buyurulmuş",
+      "literal_English_translation": "poll-tax-from exemption-their matter-to permission-of imperial-of royal worthy ordered",
+      "flowing_english_modernisation_translation": "for the matter of their personal exemption from the poll tax (cizye).",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 15,
+      "full_line_original_script": "و مفتی مومى اليه مسن و اختیار اولدیغندن آتی الذکر توجیهات علمیه ده",
+      "full_line_transliteration": "ve müftü muma-ileyh müsin ve ihtiyar olduğundan ati'z-zikr tevcihat-ı ilmiyede",
+      "literal_English_translation": "and mufti aforesaid aged and old being-from future-the-mention appointments-of learned-in",
+      "flowing_english_modernisation_translation": "Since the aforesaid Mufti is aged and old, he was made happy and joyful",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 16,
+      "full_line_original_script": "محرر اولدیغی اوزره مخدومی طریق انیق تدریسه الحاق ایله مسرور",
+      "full_line_transliteration": "muharrer olduğu üzere mahdumu tarik-i enik tedrise ilhak ile mesrur",
+      "literal_English_translation": "written being upon son-his path-of elegant teaching-to attachment with happy",
+      "flowing_english_modernisation_translation": "by the attachment of his son to the path of teaching, as written in the scholarly appointments mentioned below.",
+      "visual_anomalies": [
+        "'enik' (aniq) is written with Alif-Nun-Ya-Qaf."
+      ]
+    },
+    {
+      "line_number": 17,
+      "full_line_original_script": "و شادان اولمشدر",
+      "full_line_transliteration": "ve şadan olmuşdur",
+      "literal_English_translation": "and joyful become-has",
+      "flowing_english_modernisation_translation": "(Sentence completion)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 18,
+      "full_line_original_script": "همشیره محترمه حضرت تاجداری دولتلو عصمتلو صالحه سلطان",
+      "full_line_transliteration": "Hemşire-i muhtereme-i hazret-i tacdari devletlü ismetlü Saliha Sultan",
+      "literal_English_translation": "Sister-of honored-of excellency-of crowning illustrious chaste Saliha Sultan",
+      "flowing_english_modernisation_translation": "The granting of a glorious decoration to Arif Efendi from the clerks of the Imperial Divan,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 19,
+      "full_line_original_script": "علیة الشان حضرتلرينك کتخدالق خدمت علیه لرنده بولنان خواجکان",
+      "full_line_transliteration": "aliyetü'ş-şan hazretlerinin kethüdalık hizmet-i aliyelerinde bulunan hacegan-ı",
+      "literal_English_translation": "high-of-glory excellency-her-of stewardship service-of high-her-in being clerks-of",
+      "flowing_english_modernisation_translation": "who is in the high service of the stewardship of Her Highness the Illustrious and Chaste Saliha Sultan of high glory,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 20,
+      "full_line_original_script": "دیوان همایوندن عارف افندی یه بر قطعه نشان ذیشان احسان بیورلمسی سلطان",
+      "full_line_transliteration": "divan-ı hümayundan Arif Efendi'ye bir kıt'a nişan-ı zişan ihsan buyurulması Sultan",
+      "literal_English_translation": "divan-of imperial-from Arif Efendi-to a piece decoration-of glorious benevolence ordered-being Sultan",
+      "flowing_english_modernisation_translation": "the honored sister of His Crowning Excellency, was requested",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 21,
+      "full_line_original_script": "مشار الیها حضرتلری طرف عصمت شرفلرندن التماس بیورلمش",
+      "full_line_transliteration": "müşar-ileyha hazretleri taraf-ı ismet-şereflerinden iltimas buyurulmuş",
+      "literal_English_translation": "aforesaid excellency-her side-of chastity-honor-her-from request ordered",
+      "flowing_english_modernisation_translation": "by the chastity-honored side of Her aforesaid Highness.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 22,
+      "full_line_original_script": "و واقعا افندی مومى اليه خدمت مشار الیها ایله مفتخر و مباهی بندکاندن",
+      "full_line_transliteration": "ve vakıa efendi-i muma-ileyh hizmet-i müşar-ileyha ile müftehir ve mübahi bendegandan",
+      "literal_English_translation": "and in-fact efendi-aforesaid service-of aforesaid with proud and boasting servants-from",
+      "flowing_english_modernisation_translation": "And indeed, since the aforesaid Efendi is among the servants who are proud and honored by the service of Her Highness,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 23,
+      "full_line_original_script": "اولمسيله سایه شوکتوایه جناب جهانداری ده بین الامثال اکتساب شرف",
+      "full_line_transliteration": "olmasıyla saye-i şevket-vaye-i cenab-ı cihandaride beyn'el-emsal iktisab-ı şeref",
+      "literal_English_translation": "being-his-with shadow-of majesty-abounding-of excellency-of world-ruler-in among-the-peers acquisition-of honor",
+      "flowing_english_modernisation_translation": "it being a requirement of the Royal Glory that he acquire honor and merit among his peers",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 24,
+      "full_line_original_script": "و مزیت ایلمسی شان معالی عنوان شاهانه اقتضا سندن بولنمش اولمغله",
+      "full_line_transliteration": "ve meziyet eylemesi şan-ı maali-unvan-ı şahane iktizasından bulunmuş olmağla",
+      "literal_English_translation": "and merit doing-his glory-of high-titled-of royal requirement-from found being-with",
+      "flowing_english_modernisation_translation": "under the majesty-abounding shadow of the World Ruler;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 25,
+      "full_line_original_script": "اولبابده شایان و ارزان بیوریلان مساعده سنیه شاهانه موجبنجه افندی",
+      "full_line_transliteration": "ol babda şayan ve erzan buyurulan müsaade-i seniye-i şahane mucibince efendi-i",
+      "literal_English_translation": "that matter-in worthy and appropriate ordered permission-of imperial-of royal consequence-by efendi-of",
+      "flowing_english_modernisation_translation": "pursuant to the Royal Imperial permission granted and deemed appropriate in that matter, a Third Rank Decoration",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 26,
+      "full_line_original_script": "مومى اليهه بر قطعه رتبه ثالثه نشان کر یمانی اعطا و اولو جهله کندوسنك",
+      "full_line_transliteration": "muma-ileyhe bir kıt'a rütbe-i salise nişan-ı kerimanesi ita ve ol vechle kendisinin",
+      "literal_English_translation": "aforesaid-to a piece rank-of third decoration-of generous giving and that way-with himself-of",
+      "flowing_english_modernisation_translation": "was generously given to the aforesaid Efendi, and in this way his value and dignity were elevated and exalted.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 27,
+      "full_line_original_script": "قدر و حیثیتی ترفیع و اعلا قلنمشدر",
+      "full_line_transliteration": "kadr ve haysiyeti terfi ve a'la kılınmışdır",
+      "literal_English_translation": "value and dignity-his elevation and high made-is",
+      "flowing_english_modernisation_translation": "(Sentence completion)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 28,
+      "full_line_original_script": "ضربخانه عامره مشیری دولتلو علی نجیب پاشا حضرتلرينك دائره سی",
+      "full_line_transliteration": "Darbhane-i amire müşiri devletlü Ali Necib Paşa hazretlerinin dairesi",
+      "literal_English_translation": "Mint-of imperial field-marshal-of illustrious Ali Necib Pasha excellency-his-of department-his",
+      "flowing_english_modernisation_translation": "Veli Agha, the department manager of His Excellency the Illustrious Ali Necib Pasha, Marshal of the Imperial Mint,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 29,
+      "full_line_original_script": "مدیری اولوب بر سنه دنبرو ازادلو باروتخانه عامره سی ابنیه سی مدیر لکنده",
+      "full_line_transliteration": "müdürü olup bir seneden berü Azadlı Baruthane-i amiresi ebniyesi müdürlüğünde",
+      "literal_English_translation": "manager-his being one year-from since Azadlı Gunpowder-works-of imperial-of buildings-of directorship-in",
+      "flowing_english_modernisation_translation": "who has been employed in the directorship of the buildings of the Azadlı Imperial Gunpowder Works for a year,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 30,
+      "full_line_original_script": "استخدام اولنمش اولان ولی اغا ارباب صدق و حمیتدن اولدیغنه مبنی",
+      "full_line_transliteration": "istihdam olunmuş olan Veli Ağa erbab-ı sıdk ve hamiyetden olduğuna mebni",
+      "literal_English_translation": "employment made being Veli Agha masters-of truthfulness and zeal-from being-his-to based-on",
+      "flowing_english_modernisation_translation": "being a man of truthfulness and zeal; based on the expression and request of the aforesaid Marshal",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 31,
+      "full_line_original_script": "خدمت واقعه صادقانه سنه مکافاة مومى اليهه رکاب همایون قپوجی با شیلغی",
+      "full_line_transliteration": "hizmet-i vakıa-i sadıkanesine mükafat muma-ileyhe rikab-ı hümayun kapıcıbaşılığı",
+      "literal_English_translation": "service-of occurring-of loyal-his-to reward aforesaid-to stirrup-of imperial head-doorkeeper-ship-of",
+      "flowing_english_modernisation_translation": "that the esteemed rank of Head Doorkeeper of the Imperial Stirrup be conferred and granted to the aforesaid as a reward for his loyal services rendered;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 32,
+      "full_line_original_script": "رتبه معتبره سی توجیه و احسان بیورلمسنی مشیر مشار الیه حضرتلری",
+      "full_line_transliteration": "rütbe-i muteberesi tevcih ve ihsan buyurulmasını müşir-i müşar-ileyh hazretleri",
+      "literal_English_translation": "rank-of esteemed-its conferring and benevolence ordered-being-its marshal-of aforesaid excellency-his",
+      "flowing_english_modernisation_translation": "(Sentence continued from previous line)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 33,
+      "full_line_original_script": "افاده و التماس ایتمش اولمغدن ناشی متعلق بیوریلان اراده احسانعاده حضرت",
+      "full_line_transliteration": "ifade ve iltimas etmiş olmağdan naşi müteallik buyurulan irade-i ihsan-ade-i hazret-i",
+      "literal_English_translation": "expression and request done being-from arising related ordered will-of benevolence-habit-of excellency-of",
+      "flowing_english_modernisation_translation": "pursuant to the benevolence-accustomed Will of His Crowning Excellency issued on this matter,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 34,
+      "full_line_original_script": "تاجداری موجبنجه مومى اليهه رتبه مذکوره توجیه اولمشدر",
+      "full_line_transliteration": "tacdari mucibince muma-ileyhe rütbe-i mezkure tevcih olunmuşdur",
+      "literal_English_translation": "crowning consequence-by aforesaid-to rank-of mentioned conferring made-is",
+      "flowing_english_modernisation_translation": "the mentioned rank was conferred upon the aforesaid.",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 35,
+      "full_line_original_script": "بوسنه ایالتنده کائن یکی بازار و استار افلاق قضالری متسلمی یوسف بك",
+      "full_line_transliteration": "Bosna eyaletinde kain Yeni Pazar ve Istar Eflak kazaları mütesellimi Yusuf Bey",
+      "literal_English_translation": "Bosnia province-in existing Novi Pazar and Stari Vlah districts-of deputy-governor-of Yusuf Bey",
+      "flowing_english_modernisation_translation": "Yusuf Bey, the Deputy Governor (Mütesellim) of the districts of Novi Pazar and Stari Vlah in the Province of Bosnia,",
+      "visual_anomalies": [
+        "'Istar Eflak' (Stari Vlah) written as 'Istar' (Alif-Sin-Ta-Alif-Ra)."
+      ]
+    },
+    {
+      "line_number": 36,
+      "full_line_original_script": "اولحولی خاندانندن و اصحاب درایت و حمیتدن اولدیغنه و قضا تین مزبورتین",
+      "full_line_transliteration": "Ulhulu? hanedanından ve ashab-ı dirayet ve hamiyetden olduğuna ve kazateyn-i mezbureteyn",
+      "literal_English_translation": "Ulhulu? dynasty-from and owners-of sagacity and zeal-from being-his-to and two-districts-of mentioned",
+      "flowing_english_modernisation_translation": "being from the [local noble] family and a man of sagacity and zeal; and since it is a requirement",
+      "visual_anomalies": [
+        "'Ulhulu' (Alif-Waw-Lam-Ha-Waw-Lam-Ya) is ambiguous. Possibly a local family name."
+      ]
+    },
+    {
+      "line_number": 37,
+      "full_line_original_script": "متسلمی اولنلرك ذی رتبه و خدمه دن اولمسى لازمه دن بولدیغنه بناء",
+      "full_line_transliteration": "mütesellimi olanların zi-rütbe ve hademeden olması lazimeden bulunduğuna binaen",
+      "literal_English_translation": "deputy-governor-of being-ones possessor-of rank and servants-from being-it necessities-from found-being-to based-on",
+      "flowing_english_modernisation_translation": "that those who are Deputy Governors of the two mentioned districts be persons of rank and service;",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 38,
+      "full_line_original_script": "میر مومى اليهه درکاه عالی قپوجی با شیلغی رتبه معتبره سی توجیه بیورلمسی",
+      "full_line_transliteration": "mir-i muma-ileyhe dergah-ı ali kapıcıbaşılığı rütbe-i muteberesi tevcih buyurulması",
+      "literal_English_translation": "bey-aforesaid-to court-of high head-doorkeeper-ship-of rank-of esteemed-its conferring ordered-being",
+      "flowing_english_modernisation_translation": "the conferring of the esteemed rank of Head Doorkeeper of the Sublime Court upon the aforesaid Bey...",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 39,
+      "full_line_original_script": "بوسنه والیسی عطوفتلو وجیهی پاشا و دیوان همایون قلمی کتبه سندن اولوب",
+      "full_line_transliteration": "Bosna valisi atufetlü Vecihi Paşa ve divan-ı hümayun kalemi ketebe'sinden olup",
+      "literal_English_translation": "Bosnia governor-of kindly Vecihi Pasha and divan-of imperial office-of scribes-from being",
+      "flowing_english_modernisation_translation": "Mehmed Samih Efendi, one of the scribes of the Imperial Divan, currently serving as steward (Kethüda)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 40,
+      "full_line_original_script": "اليوم کتخدالق خدمتنده بولنان محمد سامح افندی هیز و معرفتدن بهره دار",
+      "full_line_transliteration": "el-yevm kethüdalık hizmetinde bulunan Mehmed Samih Efendi hüner ve marifetden behredar",
+      "literal_English_translation": "today stewardship service-in being Mehmed Samih Efendi skill and knowledge-from possessor",
+      "flowing_english_modernisation_translation": "to the Kindly Vecihi Pasha, Governor of Bosnia; having a share of skill and knowledge,",
+      "visual_anomalies": [
+        "'Hüner' written as 'Hiz' (Ha-Ya-Za) or 'Hibr' (Ha-Ba-Ra) visually, but context demands 'Hüner'."
+      ]
+    },
+    {
+      "line_number": 41,
+      "full_line_original_script": "و هر وجهله عنایت سنیه یه سزاوار اولدیغی بیانيله افندی مومى اليهك دخی",
+      "full_line_transliteration": "ve her vechle inayet-i seniyeye sezavar olduğu beyanıyla efendi-i muma-ileyhin dahi",
+      "literal_English_translation": "and every way-with favor-of imperial-to worthy being-his statement-with efendi-aforesaid-of also",
+      "flowing_english_modernisation_translation": "and being stated as worthy of Imperial favor in every way; the making of the aforesaid Efendi happy",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 42,
+      "full_line_original_script": "دیوان همایون خواجه لکی رتبه رفیعه سیله مسروریتی عساکر منتظمه",
+      "full_line_transliteration": "divan-ı hümayun hacegeliği rütbe-i rafiasıyla mesruriyeti asakir-i muntazama",
+      "literal_English_translation": "divan-of imperial clerkship-of rank-of high-with happiness-his soldiers-of regular",
+      "flowing_english_modernisation_translation": "with the high rank of Clerk of the Imperial Divan was proposed and requested by",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 43,
+      "full_line_original_script": "فریقارندن قلبه ناظری سعادتلو خیر الدین پاشا حضراتی طرفلرندن انها و التماس",
+      "full_line_transliteration": "feriklerinden Kule nazırı saadetlü Hayreddin Paşa hazretleri taraflarından inha ve iltimas",
+      "literal_English_translation": "division-generals-from Kule minister-of prosperous Hayreddin Pasha excellencies-his sides-from proposal and request",
+      "flowing_english_modernisation_translation": "His Excellency the Prosperous Hayreddin Pasha, Minister of the Tower (Kule) and one of the Division Generals of the Regular Army.",
+      "visual_anomalies": [
+        "'Kule' written as 'Kulbe' (Qaf-Lam-Ba-Ha) or 'Kule' with a ligature artifact."
+      ]
+    },
+    {
+      "line_number": 44,
+      "full_line_original_script": "اولنمش و بودفعه یکی ایل و بوده لغنه انتخاب و تعیین اولنان منکنه مدیری",
+      "full_line_transliteration": "olunmuş ve bu defa Yeni İl ve Budluğuna? intihab ve tayin olunan Menkene? müdürü",
+      "literal_English_translation": "made and this time Yeni İl and Budluk-to election and appointment made being Menkene manager-of",
+      "flowing_english_modernisation_translation": "Additionally, the former Manager of [Menkene/Mangana?], Hacı Hasan Ağa, who has been elected and appointed to Yeni İl and [Budluk?],",
+      "visual_anomalies": [
+        "'Budluğuna' (Ba-Waw-Dal-Ha-Lam-Ghain-Nun-Ha) and 'Menkene' (Mim-Nun-Kef-Nun-Ha) are ambiguous place names."
+      ]
+    },
+    {
+      "line_number": 45,
+      "full_line_original_script": "سابق حاجی حسن اغا دخی مستقیم و درایتکار بندکاندن بولنمش اولمغدن ناشی",
+      "full_line_transliteration": "sabık Hacı Hasan Ağa dahi müstakim ve dirayetkar bendegandan bulunmuş olmağdan naşi",
+      "literal_English_translation": "former Hacı Hasan Agha also upright and sagacious servants-from found being-from arising",
+      "flowing_english_modernisation_translation": "being among the upright and sagacious servants; pursuant to the benevolence-accustomed Royal Imperial order and will,",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 46,
+      "full_line_original_script": "عنایت افزای سنوح و صدور بیوریلان امر و اراده عاطفتعاده حضرت",
+      "full_line_transliteration": "inayet-efza-yı sünuh ve sudur buyurulan emr ve irade-i atıfet-ade-i hazret-i",
+      "literal_English_translation": "favor-increasing-of occurrence and issuance ordered command and will-of benevolence-habit-of excellency-of",
+      "flowing_english_modernisation_translation": "(Sentence continued from previous line)",
+      "visual_anomalies": []
+    },
+    {
+      "line_number": 47,
+      "full_line_original_script": "ملوکانه منطوق منیفی اوزره مومى اليهمدن يوسف بك وحاجی حسن اغايه",
+      "full_line_transliteration": "mülukane mantuk-ı münifi üzere muma-ileyhimden Yusuf Bey ve Hacı Hasan Ağa'ya",
+      "literal_English_translation": "royal decree-of high upon aforesaid-from Yusuf Bey and Hacı Hasan Agha-to",
+      "flowing_english_modernisation_translation": "as per its high decree, the rank of Head Doorkeeper was conferred upon Yusuf Bey and Hacı Hasan Ağa.",
+      "visual_anomalies": []
+    }
+  ],
+  "full_text_flowing_modernisation_text_block": "In order to perform, by proxy, the ceremonies of allegiance on behalf of the people of the districts within the Rumeli Field Marshalship,\nand the requirements of congratulation and felicitation; the Mufti of Manastır, Süleyman Faris Efendi,\nand from the notables, Şerif Bey, son of the late Mahmud Pasha of Ohrid, and three non-Muslim subject\nheadmen (kocabaşıs) were sent to the Majestic Court with a set of petitions.\nThe two aforesaid persons and the mentioned individuals came to the Sublime Porte, presented the sent petitions,\nand stated unanimously that under the majesty-abounding shadow of His Royal Excellency, their peace and security were in place,\nand that they were ready at the center of obedience and consent-seeking to hasten and comply\nwith their property and lives to execute the orders and decrees of the World Ruler for the Imperial Royal sake.\nSince the two aforesaid persons and the mentioned individuals have thus actually fulfilled the conditions of allegiance and servitude on behalf of the general public and subjects,\n(Sentence continuation from previous line)\nand since rewarding them in some way is a requirement of the Royal Glory marked by greatness;\nfrom the Royal High Favors, the esteemed rank of Head Doorkeeper (Kapıcıbaşı) of the Sublime Court\nwas conferred and granted to the aforesaid Şerif Bey. Regarding the mentioned headmen, Royal Imperial permission was deemed worthy\nfor the matter of their personal exemption from the poll tax (cizye).\nSince the aforesaid Mufti is aged and old, he was made happy and joyful\nby the attachment of his son to the path of teaching, as written in the scholarly appointments mentioned below.\n(Sentence completion)\n\nThe granting of a glorious decoration to Arif Efendi from the clerks of the Imperial Divan,\nwho is in the high service of the stewardship of Her Highness the Illustrious and Chaste Saliha Sultan of high glory,\nthe honored sister of His Crowning Excellency, was requested\nby the chastity-honored side of Her aforesaid Highness.\nAnd indeed, since the aforesaid Efendi is among the servants who are proud and honored by the service of Her Highness,\nit being a requirement of the Royal Glory that he acquire honor and merit among his peers\nunder the majesty-abounding shadow of the World Ruler;\npursuant to the Royal Imperial permission granted and deemed appropriate in that matter, a Third Rank Decoration\nwas generously given to the aforesaid Efendi, and in this way his value and dignity were elevated and exalted.\n(Sentence completion)\n\nVeli Agha, the department manager of His Excellency the Illustrious Ali Necib Pasha, Marshal of the Imperial Mint,\nwho has been employed in the directorship of the buildings of the Azadlı Imperial Gunpowder Works for a year,\nbeing a man of truthfulness and zeal; based on the expression and request of the aforesaid Marshal\nthat the esteemed rank of Head Doorkeeper of the Imperial Stirrup be conferred and granted to the aforesaid as a reward for his loyal services rendered;\n(Sentence continued from previous line)\npursuant to the benevolence-accustomed Will of His Crowning Excellency issued on this matter,\nthe mentioned rank was conferred upon the aforesaid.\n\nYusuf Bey, the Deputy Governor (Mütesellim) of the districts of Novi Pazar and Stari Vlah in the Province of Bosnia,\nbeing from the [local noble] family and a man of sagacity and zeal; and since it is a requirement\nthat those who are Deputy Governors of the two mentioned districts be persons of rank and service;\nthe conferring of the esteemed rank of Head Doorkeeper of the Sublime Court upon the aforesaid Bey...\nMehmed Samih Efendi, one of the scribes of the Imperial Divan, currently serving as steward (Kethüda)\nto the Kindly Vecihi Pasha, Governor of Bosnia; having a share of skill and knowledge,\nand being stated as worthy of Imperial favor in every way; the making of the aforesaid Efendi happy\nwith the high rank of Clerk of the Imperial Divan was proposed and requested by\nHis Excellency the Prosperous Hayreddin Pasha, Minister of the Tower (Kule) and one of the Division Generals of the Regular Army.\nAdditionally, the former Manager of [Menkene/Mangana?], Hacı Hasan Ağa, who has been elected and appointed to Yeni İl and [Budluk?],\nbeing among the upright and sagacious servants; pursuant to the benevolence-accustomed Royal Imperial order and will,\n(Sentence continued from previous line)\nas per its high decree, the rank of Head Doorkeeper was conferred upon Yusuf Bey and Hacı Hasan Ağa.",
+  "summary": "This text from the Takvîm-i Vekâyi details several administrative appointments and rewards following the accession of the new Sultan. Key events include: 1) A delegation from Rumeli, led by the Mufti of Manastır and Şerif Bey of Ohrid, presented petitions of allegiance. In return, Şerif Bey was made Head Doorkeeper, the non-Muslim headmen were exempted from the poll tax, and the Mufti's son was granted a teaching position. 2) Arif Efendi, steward to Saliha Sultan (the Sultan's sister), received a Third Rank decoration. 3) Veli Agha, manager for the Mint Marshal, was made Head Doorkeeper for his service at the Gunpowder Works. 4) Yusuf Bey (Deputy Governor of Novi Pazar) and Hacı Hasan Agha were also appointed Head Doorkeepers. 5) Mehmed Samih Efendi was promoted to Clerk of the Imperial Divan upon the recommendation of Hayreddin Pasha."
+}
+```
